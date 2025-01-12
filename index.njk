@@ -9,13 +9,22 @@ eleventyComputed:
 
 {% from "h1.njk" import h1 %}
 
-{{
-  h1(
-    "Swedish Legislation",
-    "Translated Into English",
-    "mb-12"
-  )
-}}
+<div class="mb-12 flex flex-col gap-y-4">
+  {{
+    h1(
+      "Swedish Legislation",
+      "Translated Into English"
+    )
+  }}
+  <div class="prose flex flex-col gap-y-2">
+    <p>
+      Here are Sweden's four most important labour laws translated into English
+      so that you can learn about your rights, share links to specific sections
+      with your colleagues, and maybe even pick up a bit of Swedish by having
+      the original text alongside for context.
+    </p>
+  </div>
+</div>
 
 <div class="max-w-5xl">
   <dl
@@ -140,9 +149,8 @@ eleventyComputed:
         </a>
       </dt>
       <dd class="mt-2 text-base leading-7 text-gray-600">
-        The Swedish Working Hours Act emphasizes a flexible approach, allowing
-        employees to have a say in their work schedules and promoting a better
-        work-life balance.
+        The Swedish Working Hours Act emphasizes flexibility, allowing employees
+        to have a say in their work schedules and promoting work-life balance.
       </dd>
     </div>
   </dl>
