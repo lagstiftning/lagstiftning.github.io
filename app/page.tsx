@@ -40,7 +40,7 @@ export default function Home() {
       <main className="flex flex-col items-center w-full py-4">
         <Container className="flex flex-col items-start gap-y-12 prose">
           <TopLevelHeading text="Swedish Legislation" subtext="Translated Into English" />
-          <p>Here are Sweden's four most important labour laws translated into English so that you can learn about your rights, share links to specific sections with your colleagues, and maybe even pick up a bit of Swedish by having the original text alongside for context.</p>
+          <p>{`Here are Sweden's four most important labour laws translated into English so that you can learn about your rights, share links to specific sections with your colleagues, and maybe even pick up a bit of Swedish by having the original text alongside for context.`}</p>
           <LegislationList>
             <LegislationItem>
               <LegislationIcon>
@@ -62,8 +62,7 @@ export default function Home() {
                 The Work Environment Act
               </LegislationLink>
               <LegislationDescription>
-                Sweden's Work Environment Act puts influence in the hands of workers
-                even before the formation of a union.
+                {`Sweden's Work Environment Act puts influence in the hands of workers even before the formation of a union.`}
               </LegislationDescription>
             </LegislationItem>
 
@@ -113,9 +112,7 @@ export default function Home() {
                 The Employment Protection Act
               </LegislationLink>
               <LegislationDescription>
-                The Swedish Employment Protection Act provides strong job security by
-                limiting employers' ability to terminate employment contracts without
-                just cause.
+                {`The Swedish Employment Protection Act provides strong job security by limiting employers' ability to terminate employment contracts without just cause.`}
               </LegislationDescription>
             </LegislationItem>
 
