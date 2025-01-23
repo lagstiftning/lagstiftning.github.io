@@ -1,7 +1,7 @@
-# starter
+# lagstiftning.github.io
 
-Web starter project.
+Swedish legislation translated into English.
 
 ## License
 
-[MIT](https://github.com/arbetsmarknad/starter/blob/main/license)
+[MIT](https://github.com/lagstiftning/lagstiftning.github.io/blob/main/license)
