@@ -14,6 +14,8 @@ import {
   LegislationList,
   LegislationLink,
 } from "@arbetsmarknad/components/LegislationList";
+import { Footer } from "@arbetsmarknad/components/Footer";
+import { Main } from "@arbetsmarknad/components/Main";
 import { Page } from "@arbetsmarknad/components/Page";
 import { TopLevelHeading } from "@arbetsmarknad/components/TopLevelHeading";
 
@@ -24,22 +26,27 @@ export default function Home() {
         href="https://lagstiftning.github.io"
         text="lagstiftning.github.io"
       />
-      <Breadcrumb className="py-4 w-full flex justify-center">
-        <Container>
-          <BreadcrumbList>
-            <BreadcrumbItem>
-              <BreadcrumbLink href="http://arbetsmarknad.github.io/">Arbetsmarknad</BreadcrumbLink>
-            </BreadcrumbItem>
-            <BreadcrumbSeparator />
-            <BreadcrumbItem>
-              <BreadcrumbLink href="http://lagstiftning.github.io/">Lagstiftning</BreadcrumbLink>
-            </BreadcrumbItem>
-          </BreadcrumbList>
-        </Container>
+      <Breadcrumb>
+        <BreadcrumbList>
+          <BreadcrumbItem>
+            <BreadcrumbLink href="http://arbetsmarknad.github.io/">
+              Arbetsmarknad
+            </BreadcrumbLink>
+          </BreadcrumbItem>
+          <BreadcrumbSeparator />
+          <BreadcrumbItem>
+            <BreadcrumbLink href="http://lagstiftning.github.io/">
+              Lagstiftning
+            </BreadcrumbLink>
+          </BreadcrumbItem>
+        </BreadcrumbList>
       </Breadcrumb>
-      <main className="flex flex-col items-center w-full py-4">
+      <Main>
         <Container className="flex flex-col items-start gap-y-12 prose">
-          <TopLevelHeading text="Swedish Legislation" subtext="Translated Into English" />
+          <TopLevelHeading
+            text="Swedish Legislation"
+            subtext="Translated Into English"
+          />
           <p>{`Here are Sweden's four most important labour laws translated into English so that you can learn about your rights, share links to specific sections with your colleagues, and maybe even pick up a bit of Swedish by having the original text alongside for context.`}</p>
           <LegislationList>
             <LegislationItem>
@@ -87,8 +94,8 @@ export default function Home() {
               </LegislationLink>
               <LegislationDescription>
                 The Co-Determination Act is the basis for the Swedish model of
-                industrial democracy. It creates legal protections and obligations for
-                unions and employers.
+                industrial democracy. It creates legal protections and
+                obligations for unions and employers.
               </LegislationDescription>
             </LegislationItem>
 
@@ -116,30 +123,37 @@ export default function Home() {
               </LegislationDescription>
             </LegislationItem>
 
-          <LegislationItem>
-            <LegislationIcon>
-              <svg
-                className="w-full fill-white text-xl text-white"
-                aria-hidden="true"
-                focusable="false"
-                role="img"
-                xmlns="http://www.w3.org/2000/svg"
-                viewBox="0 0 512 512"
-              >
-                <path d="M256 0a256 256 0 1 1 0 512A256 256 0 1 1 256 0zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z"></path>
-              </svg>
-            </LegislationIcon>
-            <LegislationLink href="https://lagstiftning.github.io/arbetstidslagen/2022:450/">
-              The Working Hours Act
-            </LegislationLink>
-            <LegislationDescription>
-              The Swedish Working Hours Act emphasizes flexibility, allowing employees
-              to have a say in their work schedules and promoting work-life balance.
-            </LegislationDescription>
-          </LegislationItem>
-        </LegislationList>
+            <LegislationItem>
+              <LegislationIcon>
+                <svg
+                  className="w-full fill-white text-xl text-white"
+                  aria-hidden="true"
+                  focusable="false"
+                  role="img"
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 512 512"
+                >
+                  <path d="M256 0a256 256 0 1 1 0 512A256 256 0 1 1 256 0zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z"></path>
+                </svg>
+              </LegislationIcon>
+              <LegislationLink href="https://lagstiftning.github.io/arbetstidslagen/2022:450/">
+                The Working Hours Act
+              </LegislationLink>
+              <LegislationDescription>
+                The Swedish Working Hours Act emphasizes flexibility, allowing
+                employees to have a say in their work schedules and promoting
+                work-life balance.
+              </LegislationDescription>
+            </LegislationItem>
+          </LegislationList>
         </Container>
-      </main>
+      </Main>
+      <Footer
+        sourceCode={[
+          "lagstiftning/lagstiftning.github.io",
+          "arbetsmarknad/components",
+        ]}
+      />
     </Page>
   );
 }
