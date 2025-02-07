@@ -1,12 +1,5 @@
-import {
-  Breadcrumb,
-  BreadcrumbItem,
-  BreadcrumbLink,
-  BreadcrumbList,
-  BreadcrumbSeparator,
-} from "@arbetsmarknad/components/Breadcrumb";
+import { Breadcrumbs } from "@arbetsmarknad/components/Breadcrumb";
 import { Container } from "@arbetsmarknad/components/Container";
-import { HeaderMenu } from "@arbetsmarknad/components/HeaderMenu";
 import {
   LegislationDescription,
   LegislationIcon,
@@ -14,33 +7,18 @@ import {
   LegislationList,
   LegislationLink,
 } from "@arbetsmarknad/components/LegislationList";
-import { Footer } from "@arbetsmarknad/components/Footer";
 import { Main } from "@arbetsmarknad/components/Main";
-import { Page } from "@arbetsmarknad/components/Page";
 import { TopLevelHeading } from "@arbetsmarknad/components/TopLevelHeading";
 
 export default function Home() {
   return (
-    <Page>
-      <HeaderMenu
-        href="https://lagstiftning.github.io"
-        text="lagstiftning.github.io"
-      />
-      <Breadcrumb>
-        <BreadcrumbList>
-          <BreadcrumbItem>
-            <BreadcrumbLink href="http://arbetsmarknad.github.io/">
-              Arbetsmarknad
-            </BreadcrumbLink>
-          </BreadcrumbItem>
-          <BreadcrumbSeparator />
-          <BreadcrumbItem>
-            <BreadcrumbLink href="http://lagstiftning.github.io/">
-              Lagstiftning
-            </BreadcrumbLink>
-          </BreadcrumbItem>
-        </BreadcrumbList>
-      </Breadcrumb>
+    <>
+      <Breadcrumbs>
+        {{
+          "https://arbetsmarknad.github.io/": "Arbetsmarknad",
+          "/": "Lagstiftning",
+        }}
+      </Breadcrumbs>
       <Main>
         <Container className="flex flex-col items-start gap-y-12 prose">
           <TopLevelHeading
@@ -148,12 +126,6 @@ export default function Home() {
           </LegislationList>
         </Container>
       </Main>
-      <Footer
-        sourceCode={[
-          "lagstiftning/lagstiftning.github.io",
-          "arbetsmarknad/components",
-        ]}
-      />
-    </Page>
+    </>
   );
 }

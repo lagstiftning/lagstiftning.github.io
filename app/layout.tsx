@@ -1,6 +1,9 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import { Page } from "@arbetsmarknad/components/Page";
+import { HeaderMenu } from "@arbetsmarknad/components/HeaderMenu";
+import { Footer } from "@arbetsmarknad/components/Footer";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -14,7 +17,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Swedish Legislation Translated Into English",
-  description: "Sweden's four most important labour laws translated into English.",
+  description:
+    "Sweden's four most important labour laws translated into English.",
 };
 
 export default function RootLayout({
@@ -27,7 +31,19 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        {children}
+        <Page>
+          <HeaderMenu
+            href="https://lagstiftning.github.io"
+            text="lagstiftning.github.io"
+          />
+          {children}
+          <Footer
+            sourceCode={[
+              "lagstiftning/lagstiftning.github.io",
+              "arbetsmarknad/components",
+            ]}
+          />
+        </Page>
       </body>
     </html>
   );
