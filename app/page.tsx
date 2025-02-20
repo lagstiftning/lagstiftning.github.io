@@ -11,6 +11,7 @@ import { Main } from "@arbetsmarknad/components/Main";
 import { TopLevelHeading } from "@arbetsmarknad/components/TopLevelHeading";
 
 export default function Home() {
+  const deploymentUrl = process.env.NEXT_PUBLIC_DEPLOYMENT_URL!;
   return (
     <>
       <Breadcrumbs>
@@ -43,7 +44,9 @@ export default function Home() {
                   ></path>
                 </svg>
               </LegislationIcon>
-              <LegislationLink href="https://lagstiftning.github.io/arbetsmiljolagen/2023:349/">
+              <LegislationLink
+                href={`${deploymentUrl}/arbetsmiljolagen/2023:349/`}
+              >
                 The Work Environment Act
               </LegislationLink>
               <LegislationDescription>
@@ -67,7 +70,9 @@ export default function Home() {
                   ></path>
                 </svg>
               </LegislationIcon>
-              <LegislationLink href="https://lagstiftning.github.io/medbestammandelagen/2021:1114/">
+              <LegislationLink
+                href={`${deploymentUrl}/medbestammandelagen/2021:1114/`}
+              >
                 The Co-Determination Act
               </LegislationLink>
               <LegislationDescription>
@@ -93,7 +98,9 @@ export default function Home() {
                   ></path>
                 </svg>
               </LegislationIcon>
-              <LegislationLink href="https://lagstiftning.github.io/lagen-om-anstallningsskydd/2022:836/">
+              <LegislationLink
+                href={`${deploymentUrl}/lagen-om-anstallningsskydd/2022:836/`}
+              >
                 The Employment Protection Act
               </LegislationLink>
               <LegislationDescription>
@@ -114,7 +121,9 @@ export default function Home() {
                   <path d="M256 0a256 256 0 1 1 0 512A256 256 0 1 1 256 0zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z"></path>
                 </svg>
               </LegislationIcon>
-              <LegislationLink href="https://lagstiftning.github.io/arbetstidslagen/2022:450/">
+              <LegislationLink
+                href={`${deploymentUrl}/arbetstidslagen/2022:450/`}
+              >
                 The Working Hours Act
               </LegislationLink>
               <LegislationDescription>

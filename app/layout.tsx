@@ -33,8 +33,8 @@ export default function RootLayout({
       >
         <Page>
           <HeaderMenu
-            href="https://lagstiftning.github.io"
-            text="lagstiftning.github.io"
+            canonicalUrl={process.env.NEXT_PUBLIC_CANONICAL_URL!}
+            deploymentUrl={process.env.NEXT_PUBLIC_DEPLOYMENT_URL!}
           />
           {children}
           <Footer
