@@ -1,7 +1,7 @@
-# lagstiftning.github.io
+# lagstiftning.codeberg.page
 
 Swedish legislation translated into English.
 
 ## License
 
-[MIT](https://github.com/lagstiftning/lagstiftning.github.io/blob/main/license)
+[MIT](https://codeberg.org/lagstiftning/pages/src/branch/main/license)
