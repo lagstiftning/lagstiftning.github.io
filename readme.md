@@ -4,4 +4,4 @@ Swedish legislation translated into English.
 
 ## License
 
-[MIT](https://codeberg.org/lagstiftning/pages/src/branch/main/license)
+[CC-0](https://codeberg.org/lagstiftning/pages/src/branch/main/license)
