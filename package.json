@@ -30,7 +30,8 @@
     "build": "next build",
     "dev": "next dev",
     "lint": "next lint",
-    "ship": "pnpm build && npx gh-pages --nojekyll --no-history --branch pages -d out --repo git@codeberg.org:lagstiftning/pages.git",
+    "pages": "npx gh-pages --nojekyll --no-history --branch pages -d out --repo git@codeberg.org:lagstiftning/pages.git",
+    "ship": "pnpm build && pnpm pages",
     "start": "next start"
   },
   "version": "0.1.0"
