@@ -1,12 +1,12 @@
 {
-  "author": "Henry Catalini Smith <henry@catalinismith.com>",
+  "author": "Henry Catalini Smith <henry@catalinismith.se>",
   "dependencies": {
     "next": "15.1.6",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
-    "@arbetsmarknad/components": "^1.2.0",
+    "@arbetsmarknad/components": "^1.3.0",
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4.0.0",
     "@types/node": "^20",
@@ -18,7 +18,7 @@
     "tailwindcss": "^4.0.0",
     "typescript": "^5"
   },
-  "homepage": "https://codeberg.org/lagstiftning/pages",
+  "homepage": "https://github.com/lagstiftning/pages",
   "license": "CC0-1.0",
   "name": "@lagstiftning/pages",
   "postcss": {
@@ -30,7 +30,7 @@
     "build": "next build",
     "dev": "next dev",
     "lint": "next lint",
-    "pages": "npx gh-pages --nojekyll --no-history --branch pages -d out --repo git@codeberg.org:lagstiftning/pages.git",
+    "pages": "npx gh-pages --nojekyll --no-history --branch gh-pages -d out --repo git@github.com:lagstiftning/lagstiftning.github.io.git",
     "ship": "pnpm build && pnpm pages",
     "start": "next start"
   },

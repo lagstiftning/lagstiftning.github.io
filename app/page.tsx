@@ -16,7 +16,7 @@ export default function Home() {
     <>
       <Breadcrumbs>
         {{
-          "https://arbetsmarknad.codeberg.page/": "Arbetsmarknad",
+          "https://arbetsmarknad.github.io/": "Arbetsmarknad",
           "/": "Lagstiftning",
         }}
       </Breadcrumbs>
