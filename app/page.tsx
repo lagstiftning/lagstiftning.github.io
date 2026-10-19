@@ -6,12 +6,12 @@ import {
   LegislationItem,
   LegislationList,
   LegislationLink,
-} from "@arbetsmarknad/components/LegislationList";
+} from "@/components/LegislationList";
 import { Main } from "@arbetsmarknad/components/Main";
 import { TopLevelHeading } from "@arbetsmarknad/components/TopLevelHeading";
 
 export default function Home() {
-  const deploymentUrl = process.env.NEXT_PUBLIC_DEPLOYMENT_URL!;
+  const deploymentUrl = "https://lagstiftning.github.io";
   return (
     <>
       <Breadcrumbs>
