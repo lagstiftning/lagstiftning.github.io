@@ -1,5 +1,5 @@
-import { Breadcrumbs } from "@arbetsmarknad/components/Breadcrumb";
-import { Container } from "@arbetsmarknad/components/Container";
+import { Breadcrumbs } from "@svenskamodellen/components/Breadcrumb";
+import { Container } from "@svenskamodellen/components/Container";
 import {
   LegislationDescription,
   LegislationIcon,
@@ -7,8 +7,8 @@ import {
   LegislationList,
   LegislationLink,
 } from "@/components/LegislationList";
-import { Main } from "@arbetsmarknad/components/Main";
-import { TopLevelHeading } from "@arbetsmarknad/components/TopLevelHeading";
+import { Main } from "@svenskamodellen/components/Main";
+import { TopLevelHeading } from "@svenskamodellen/components/TopLevelHeading";
 
 export default function Home() {
   const deploymentUrl = "https://lagstiftning.github.io";
@@ -16,7 +16,7 @@ export default function Home() {
     <>
       <Breadcrumbs>
         {{
-          "https://arbetsmarknad.github.io/": "Arbetsmarknad",
+          "https://svenskamodellen.github.io/": "Svenska modellen",
           "/": "Lagstiftning",
         }}
       </Breadcrumbs>

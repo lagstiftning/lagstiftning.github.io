@@ -1,6 +1,6 @@
 # lagstiftning.github.io
 
-Homepage for the labour law translations subsite of the arbetsmarknad Swedish labour market documentation project.
+Homepage for the labour law translations subsite of the svenskamodellen Swedish labour market documentation project.
 
 ## Commands
 
