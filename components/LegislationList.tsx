@@ -16,7 +16,7 @@ export const LegislationList: FC<LegislationListProps> = ({
   return (
     <ol
       className={cn(
-        "grid grid-cols-1 lg:grid-cols-2 gap-x-16 gap-y-8 lg:gap-y-16 max-w-xl lg:max-w-5xl",
+        "grid grid-cols-1 gap-y-12 max-w-prose",
         className,
       )}
     >
@@ -39,7 +39,7 @@ export const LegislationItem: FC<LegislationItemProps> = ({
   return (
     <li
       className={cn(
-        "group grid grid-cols-[min-content_auto] grid-rows-[min-content_auto] gap-x-4 gap-y-1 relative w-full h-full",
+        "group flex flex-col gap-y-2 relative w-full h-full",
         className,
       )}
     >
@@ -51,22 +51,6 @@ export const LegislationItem: FC<LegislationItemProps> = ({
 export type LegislationIconProps = {
   children?: ReactElement | ReactElement[] | string;
   className?: string;
-};
-
-export const LegislationIcon: FC<LegislationIconProps> = ({
-  children,
-  className,
-}) => {
-  return (
-    <div
-      className={cn(
-        "col-span-0 row-span-2 left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-blue-600 p-3 group-hover:ring-2 ring-blue-600 ring-offset-1",
-        className,
-      )}
-    >
-      {children}
-    </div>
-  );
 };
 
 export type LegislationLinkProps = {
@@ -81,7 +65,7 @@ export const LegislationLink: FC<LegislationLinkProps> = ({
   href,
 }) => {
   return (
-    <a className={cn("text-link font-bold underline", className)} href={href}>
+    <a className={cn("text-link font-serif text-lg font-bold underline lg:text-2xl", className)} href={href}>
       <span className="absolute inset-0" />
       {children}
     </a>
@@ -98,7 +82,7 @@ export const LegislationDescription: FC<LegislationDescriptionProps> = ({
   className,
 }) => {
   return (
-    <div className={cn("text-base leading-7 text-gray-600 dark:text-gray-300", className)}>
+    <div className={cn("text-md font-lilex leading-5  text-gray-600 dark:text-gray-300", className)}>
       {children}
     </div>
   );

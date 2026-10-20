@@ -2,7 +2,6 @@ import { Breadcrumbs } from "@svenskamodellen/components/Breadcrumb";
 import { Container } from "@svenskamodellen/components/Container";
 import {
   LegislationDescription,
-  LegislationIcon,
   LegislationItem,
   LegislationList,
   LegislationLink,
@@ -21,29 +20,14 @@ export default function Home() {
         }}
       </Breadcrumbs>
       <Main>
-        <Container className="flex flex-col items-start gap-y-12 prose">
+        <Container className="flex flex-col items-start gap-y-12">
           <TopLevelHeading
             text="Swedish Legislation"
             subtext="Translated Into English"
           />
-          <p>{`Here are Sweden's four most important labour laws translated into English so that you can learn about your rights, share links to specific sections with your colleagues, and maybe even pick up a bit of Swedish by having the original text alongside for context.`}</p>
+          <p className="font-lilex max-w-prose">{`Here are Sweden's four most important labour laws translated into English so that you can learn about your rights, share links to specific sections with your colleagues, and maybe even pick up a bit of Swedish by having the original text alongside for context.`}</p>
           <LegislationList>
             <LegislationItem>
-              <LegislationIcon>
-                <svg
-                  className="w-full text-xl text-white"
-                  aria-hidden="true"
-                  focusable="false"
-                  role="img"
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 384 512"
-                >
-                  <path
-                    fill="currentColor"
-                    d="M48 0C21.5 0 0 21.5 0 48V464c0 26.5 21.5 48 48 48h96V432c0-26.5 21.5-48 48-48s48 21.5 48 48v80h96c26.5 0 48-21.5 48-48V48c0-26.5-21.5-48-48-48H48zM64 240c0-8.8 7.2-16 16-16h32c8.8 0 16 7.2 16 16v32c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V240zm112-16h32c8.8 0 16 7.2 16 16v32c0 8.8-7.2 16-16 16H176c-8.8 0-16-7.2-16-16V240c0-8.8 7.2-16 16-16zm80 16c0-8.8 7.2-16 16-16h32c8.8 0 16 7.2 16 16v32c0 8.8-7.2 16-16 16H272c-8.8 0-16-7.2-16-16V240zM80 96h32c8.8 0 16 7.2 16 16v32c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16zm80 16c0-8.8 7.2-16 16-16h32c8.8 0 16 7.2 16 16v32c0 8.8-7.2 16-16 16H176c-8.8 0-16-7.2-16-16V112zM272 96h32c8.8 0 16 7.2 16 16v32c0 8.8-7.2 16-16 16H272c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16z"
-                  ></path>
-                </svg>
-              </LegislationIcon>
               <LegislationLink
                 href={`${deploymentUrl}/arbetsmiljolagen/2023:349/`}
               >
@@ -55,21 +39,6 @@ export default function Home() {
             </LegislationItem>
 
             <LegislationItem>
-              <LegislationIcon>
-                <svg
-                  className="w-full text-xl text-white"
-                  aria-hidden="true"
-                  focusable="false"
-                  role="img"
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 384 512"
-                >
-                  <path
-                    fill="currentColor"
-                    d="M48 0C21.5 0 0 21.5 0 48V464c0 26.5 21.5 48 48 48h96V432c0-26.5 21.5-48 48-48s48 21.5 48 48v80h96c26.5 0 48-21.5 48-48V48c0-26.5-21.5-48-48-48H48zM64 240c0-8.8 7.2-16 16-16h32c8.8 0 16 7.2 16 16v32c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V240zm112-16h32c8.8 0 16 7.2 16 16v32c0 8.8-7.2 16-16 16H176c-8.8 0-16-7.2-16-16V240c0-8.8 7.2-16 16-16zm80 16c0-8.8 7.2-16 16-16h32c8.8 0 16 7.2 16 16v32c0 8.8-7.2 16-16 16H272c-8.8 0-16-7.2-16-16V240zM80 96h32c8.8 0 16 7.2 16 16v32c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16zm80 16c0-8.8 7.2-16 16-16h32c8.8 0 16 7.2 16 16v32c0 8.8-7.2 16-16 16H176c-8.8 0-16-7.2-16-16V112zM272 96h32c8.8 0 16 7.2 16 16v32c0 8.8-7.2 16-16 16H272c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16z"
-                  ></path>
-                </svg>
-              </LegislationIcon>
               <LegislationLink
                 href={`${deploymentUrl}/medbestammandelagen/2021:1114/`}
               >
@@ -83,21 +52,6 @@ export default function Home() {
             </LegislationItem>
 
             <LegislationItem>
-              <LegislationIcon>
-                <svg
-                  className="w-full text-xl text-white"
-                  aria-hidden="true"
-                  focusable="false"
-                  role="img"
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 384 512"
-                >
-                  <path
-                    fill="currentColor"
-                    d="M48 0C21.5 0 0 21.5 0 48V464c0 26.5 21.5 48 48 48h96V432c0-26.5 21.5-48 48-48s48 21.5 48 48v80h96c26.5 0 48-21.5 48-48V48c0-26.5-21.5-48-48-48H48zM64 240c0-8.8 7.2-16 16-16h32c8.8 0 16 7.2 16 16v32c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V240zm112-16h32c8.8 0 16 7.2 16 16v32c0 8.8-7.2 16-16 16H176c-8.8 0-16-7.2-16-16V240c0-8.8 7.2-16 16-16zm80 16c0-8.8 7.2-16 16-16h32c8.8 0 16 7.2 16 16v32c0 8.8-7.2 16-16 16H272c-8.8 0-16-7.2-16-16V240zM80 96h32c8.8 0 16 7.2 16 16v32c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16zm80 16c0-8.8 7.2-16 16-16h32c8.8 0 16 7.2 16 16v32c0 8.8-7.2 16-16 16H176c-8.8 0-16-7.2-16-16V112zM272 96h32c8.8 0 16 7.2 16 16v32c0 8.8-7.2 16-16 16H272c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16z"
-                  ></path>
-                </svg>
-              </LegislationIcon>
               <LegislationLink
                 href={`${deploymentUrl}/lagen-om-anstallningsskydd/2022:836/`}
               >
@@ -109,18 +63,6 @@ export default function Home() {
             </LegislationItem>
 
             <LegislationItem>
-              <LegislationIcon>
-                <svg
-                  className="w-full fill-white text-xl text-white"
-                  aria-hidden="true"
-                  focusable="false"
-                  role="img"
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 512 512"
-                >
-                  <path d="M256 0a256 256 0 1 1 0 512A256 256 0 1 1 256 0zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z"></path>
-                </svg>
-              </LegislationIcon>
               <LegislationLink
                 href={`${deploymentUrl}/arbetstidslagen/2022:450/`}
               >
