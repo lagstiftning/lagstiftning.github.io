@@ -65,7 +65,7 @@ export const LegislationLink: FC<LegislationLinkProps> = ({
   href,
 }) => {
   return (
-    <a className={cn("text-link font-serif text-lg font-bold underline lg:text-2xl", className)} href={href}>
+    <a className={cn("text-link section-heading underline ", className)} href={href}>
       <span className="absolute inset-0" />
       {children}
     </a>
@@ -82,7 +82,7 @@ export const LegislationDescription: FC<LegislationDescriptionProps> = ({
   className,
 }) => {
   return (
-    <div className={cn("text-md font-lilex leading-5  text-gray-600 dark:text-gray-300", className)}>
+    <div className={cn("body-text  text-gray-600 dark:text-gray-300", className)}>
       {children}
     </div>
   );

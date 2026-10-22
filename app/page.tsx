@@ -20,12 +20,12 @@ export default function Home() {
         }}
       </Breadcrumbs>
       <Main>
-        <Container className="flex flex-col items-start gap-y-12">
+        <Container className="flex flex-col items-start gap-y-8">
           <TopLevelHeading
             text="Swedish Legislation"
             subtext="Translated Into English"
           />
-          <p className="font-lilex max-w-prose">{`Here are Sweden's four most important labour laws translated into English so that you can learn about your rights, share links to specific sections with your colleagues, and maybe even pick up a bit of Swedish by having the original text alongside for context.`}</p>
+          <p className="body-text max-w-prose">{`Here are Sweden's four most important labour laws translated into English so that you can learn about your rights, share links to specific sections with your colleagues, and maybe even pick up a bit of Swedish by having the original text alongside for context.`}</p>
           <LegislationList>
             <LegislationItem>
               <LegislationLink
