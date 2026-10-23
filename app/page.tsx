@@ -68,7 +68,7 @@ export default function Home() {
               >
                 The Working Hours Act
               </LegislationLink>
-              <LegislationDescription>
+              <LegislationDescription className="text-inherit dark:text-inherit">
                 The Swedish Working Hours Act emphasizes flexibility, allowing
                 employees to have a say in their work schedules and promoting
                 work-life balance.

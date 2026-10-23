@@ -82,7 +82,7 @@ export const LegislationDescription: FC<LegislationDescriptionProps> = ({
   className,
 }) => {
   return (
-    <div className={cn("body-text  text-gray-600 dark:text-gray-300", className)}>
+    <div className={cn("body-text", className)}>
       {children}
     </div>
   );
