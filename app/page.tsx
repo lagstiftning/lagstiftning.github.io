@@ -25,7 +25,12 @@ export default function Home() {
             text="Swedish Legislation"
             subtext="Translated Into English"
           />
-          <p className="body-text max-w-prose">{`Here are Sweden's four most important labour laws translated into English so that you can learn about your rights, share links to specific sections with your colleagues, and maybe even pick up a bit of Swedish by having the original text alongside for context.`}</p>
+          <div className="flex flex-col gap-6">
+            <p className="max-w-prose body-text">This website is part of the <a lang="sv" className="text-link underline" href="https://svenskamodellen.github.io/">Svenska Modellen</a> project.
+              In the early 2010s the Swedish government published one-off English translations of several key laws on government.se. The laws have changed since then, and those translations were never updated. This site contains the up-to-date laws, fully translated into English.
+            </p>
+          </div>
+
           <LegislationList>
             <LegislationItem>
               <LegislationLink
