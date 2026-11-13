@@ -1,0 +1,2839 @@
+name:
+  sv: "Medbestämmandelagen"
+  en: "The Swedish Co-Determination Act"
+abbreviation: MBL
+code: 2021:1114
+elements:
+  - type: document_heading
+    text:
+      sv: Lag (1976:580) om medbestämmande i arbetslivet
+      en: Employment (Co-Determination in the Workplace) Act (1976:580)
+  - type: group_heading
+    text:
+      sv: Inledande bestämmelser
+      en: Introductory Provisions
+  - type: section_heading
+    text:
+      sv: 1 §
+      en: Section 1
+    section: "1"
+    slug: section-1
+  - type: paragraph_text
+    text:
+      sv: Denna lag äger tillämpning på förhållandet mellan arbetsgivare och arbetstagare.
+      en: This Act shall apply to the relationship between employer and employee.
+    section: "1"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Som arbetstagare anses i lagen även den som utför arbete åt annan och därvid
+        ej är anställd hos denne men har en ställning av väsentligen samma slag som
+        en anställd. Den för vars räkning arbetet utföres skall i sådant fall anses
+        som arbetsgivare.
+      en:
+        The term "employee" as used in this Act shall also include any person who
+        performs work for another and is not thereby employed by that other person but
+        who occupies a position of essentially the same nature as that of an employee.
+        In such circumstances, the person for whose benefit the work is performed shall
+        be deemed to be an employer.
+    section: "1"
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 2 §
+      en: Section 2
+    section: "2"
+    slug: section-2
+  - type: paragraph_text
+    text:
+      sv:
+        Arbetsgivares verksamhet som är av religiös, vetenskaplig, konstnärlig eller
+        annan ideell natur eller som har kooperativt, fackligt, politiskt eller annat
+        opinionsbildande ändamål undantages från lagens tillämpningsområde såvitt avser
+        verksamhetens mål och inriktning.
+      en:
+        An employer's activities that are of a religious, scientific, artistic, or
+        other non-profit making nature, or that have co-operative, labour union, political
+        or other opinion-forming aims shall be exempted from the scope of this Act with
+        respect to the aims and focus of such activities.
+    section: "2"
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 3 §
+      en: Section 3
+    section: "3"
+    slug: section-3
+  - type: paragraph_text
+    text:
+      sv:
+        Innehåller lag eller med stöd av lag meddelad författning särskild föreskrift
+        som avviker från denna lag, gäller den föreskriften.
+      en:
+        Separate provisions contained in other statutes or regulations enacted by
+        statutory authority that deviate from this Act shall have precedence over conflicting
+        provisions contained in this Act.
+    section: "3"
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 4 §
+      en: Section 4
+    section: "4"
+    slug: section-4
+  - type: paragraph_text
+    text:
+      sv:
+        Ett avtal är ogiltigt i den mån det innebär att en rättighet eller skyldighet
+        enligt denna lag upphävs eller inskränks.
+      en:
+        An agreement shall be invalid to the extent that it would result in the removal
+        or limitation of rights or obligations under this Act.
+    section: "4"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Genom ett kollektivavtal får det dock göras avvikelser från 11, 12, 14 och
+        19 §§, 20 § första stycket, 21, 22 och 28 §§, 29 § tredje meningen, 33-40 §§,
+        43 § andra stycket samt 64 och 65 §§. Kollektivavtalet får inte innebära att
+        mindre förmånliga regler ska tillämpas för arbetstagarsidan än som följer av
+        rådets direktiv 98/59/EG av den 20 juli 1998 om tillnärmning av medlemsstaternas
+        lagstiftning om kollektiva uppsägningar, eller av rådets direktiv 2001/23/EG
+        av den 12 mars 2001 om tillnärmning av medlemsstaternas lagstiftning om skydd
+        för arbetstagares rättigheter vid överlåtelse av företag, verksamheter eller
+        delar av företag eller verksamheter, båda i lydelsen enligt Europaparlamentets
+        och rådets direktiv (EU) 2015/1794.
+      en:
+        Deviations from Sections 11, 12, 14 and 19, Section 20, first paragraph, Sections
+        21, 22 and 28, Section 29, third sentence, Sections 33 - 40, Section 43, second
+        paragraph and Sections 64 and 65 may be made under a collective bargaining agreement.
+        The collective agreement must not mean that the rules that apply to employees
+        are less favourable than follows from Directive 98/59/EC of the Council of 20
+        July 1998 on the approximation of the laws of the Member States concerning collective
+        redundancies, or from Directive 2001/23/EC of the Council of 12 March 2001 on
+        the approximation of the laws of the Member States concerning the safeguarding
+        of employees’ rights in the event of transfers of undertakings, businesses or
+        parts of businesses, in the wording of Directive (EU) 2015/1794 of the European
+        Parliament and of the Council.
+    section: "4"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        I ett kollektivavtal får det också föreskrivas längre gående fredsplikt än
+        som anges i 41, 41 a, 41 b, 41 e och 44 §§ eller ett längre gående skadeståndsansvar
+        än det som följer av denna lag. Lag (2019:503).
+      en:
+        A collective bargaining agreement may also prescribe more extensive labour-stability
+        obligations than those mentioned in Sections 41, 41 a, 41 b and 44, as well
+        as more extensive liability for damages than is prescribed by this Act. (SFS
+        2019:503)
+    section: "4"
+    paragraph: "3"
+  - type: section_heading
+    text:
+      sv: 5 §
+      en: Section 5
+    section: "5"
+    slug: section-5
+  - type: paragraph_text
+    text:
+      sv:
+        Vad i denna lag föreskrivs innebär inte rätt till insyn för en part i sådana
+        förhållanden hos motparten, som har betydelse för en förestående eller redan
+        utbruten arbetskonflikt, eller rätt till inflytande över motpartens beslut rörande
+        sådan konflikt.
+      en:
+        This Act shall not be construed so as to confer upon any party the right to
+        information regarding the affairs of another party that are of significance
+        in an imminent or pending labour conflict, or to confer upon any party the right
+        to influence the other party's decision in respect of such conflict.
+    section: "5"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Föreskrifterna i 11, 12, 19, 34, 35, 38 och 39 §§ skall tillämpas även när
+        kollektivavtal tillfälligt inte gäller. Lag (1994:1686).
+      en:
+        The provisions contained in Sections 11, 12, 19, 34, 35, 38 and 39 shall also
+        apply at such times as a collective bargaining agreement is temporarily not
+        in force. (SFS 1994:1686)
+    section: "5"
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 6 §
+      en: Section 6
+    section: "6"
+    slug: section-6
+  - type: paragraph_text
+    text:
+      sv:
+        Med arbetstagarorganisation avses sådan sammanslutning av arbetstagare som
+        enligt sina stadgar skall tillvarataga arbetstagarnas intressen i förhållandet
+        till arbetsgivaren. Med arbetsgivarorganisation avses motsvarande sammanslutning
+        på arbetsgivarsidan.
+      en:
+        The term “employees’ organisation” means an association of employees that,
+        under its bylaws, is charged with safeguarding the interests of the employees
+        in relation to the employer. The term “employers’ organisation” means an equivalent
+        association of employers.
+    section: "6"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Med lokal arbetstagarorganisation avses sådan sammanslutning av arbetstagare
+        som är part i lokal förhandling med arbetsgivare. Med central arbetstagarorganisation
+        avses förbund eller därmed jämförlig sammanslutning av arbetstagare.
+      en:
+        The term “local employees’ organisation” means an association of employees
+        that is a party to local negotiations with an employer. The term “central employees’
+        organisation” means a national or equivalent association of employees.
+    section: "6"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Bestämmelser som avser arbetsgivar- eller arbetstagarorganisation gäller i
+        tillämpliga delar sammanslutning av flera sådana organisationer. Vad som sägs
+        om medlem i organisation gäller i sådant fall de anslutna organisationerna och
+        deras medlemmar.
+      en:
+        Provisions that relate to employers’ organisations or employees’ organisations
+        shall apply, where relevant, to an association of several such organisations.
+        In such circumstances, provisions relating to a member of an organisation shall
+        apply to the member organisations and their members.
+    section: "6"
+    paragraph: "3"
+  - type: group_heading
+    text:
+      sv: Föreningsrätt
+      en: Right of Association
+  - type: section_heading
+    text:
+      sv: 7 §
+      en: Section 7
+    section: "7"
+    slug: section-7
+  - type: paragraph_text
+    text:
+      sv:
+        Med föreningsrätt avses rätt för arbetsgivare och arbetstagare att tillhöra
+        arbetsgivar- eller arbetstagarorganisation, att utnyttja medlemskapet och att
+        verka för organisationen eller för att sådan bildas.
+      en:
+        The term “right of association” means the right of employers and employees
+        to belong to an employers’ organisation or an employees’ organisation, to exercise
+        the rights of membership in such organisation, and to participate in such organisation
+        or the establishment thereof.
+    section: "7"
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 8 §
+      en: Section 8
+    section: "8"
+    slug: section-8
+  - type: paragraph_text
+    text:
+      sv:
+        Föreningsrätten skall lämnas okränkt. Kränkning av föreningsrätten föreligger,
+        om någon på arbetsgivar- eller arbetstagarsidan vidtager åtgärd till skada för
+        någon på andra sidan för att denne har utnyttjat sin föreningsrätt eller om
+        någon på ena sidan vidtager åtgärd mot någon på andra sidan i syfte att förmå
+        denne att icke utnyttja sin föreningsrätt. Sådan kränkning föreligger även om
+        åtgärden vidtages för att åtagande mot annan skall uppfyllas.
+      en:
+        The right of association may not be infringed. Infringement of the right of
+        association shall be deemed to have occurred where an employer or employee,
+        or the representative of either, takes action that is detrimental to the other
+        party as a consequence of such party's exercise of its/her/his right of association
+        or where an employer or employee, or the representative of either, takes action
+        directed at other party for the purpose of inducing that party not to exercise
+        its/her/his right of association. Such infringement shall also be deemed to
+        have occurred notwithstanding that the action was taken for the purpose of fulfilling
+        an obligation towards a third party.
+    section: "8"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Arbetsgivar- eller arbetstagarorganisation är icke skyldig att tåla sådan
+        kränkning av föreningsrätten som innebär intrång i dess verksamhet. Finns både
+        lokal och central organisation, gäller vad som nu har sagts den centrala organisationen.
+      en:
+        An employers' organisation or an employees' organisation need not tolerate
+        any infringement of the right of association that constitutes an infringement
+        of its activities. Where there is both a local and a central organisation, these
+        provisions shall apply to the central organisation.
+    section: "8"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Sker kränkning av föreningsrätten genom avtalsuppsägning eller annan sådan
+        rättshandling eller genom bestämmelse i kollektivavtal eller annat avtal, är
+        rättshandlingen eller bestämmelsen ogiltig.
+      en:
+        Where infringement of the right of association takes place through the termination
+        of an agreement or through some other legal act, or by reason of a provision
+        contained in a collective bargaining agreement or other contract, such legal
+        act or provision shall be invalid.
+    section: "8"
+    paragraph: "3"
+  - type: section_heading
+    text:
+      sv: 9 §
+      en: Section 9
+    section: "9"
+    slug: section-9
+  - type: paragraph_text
+    text:
+      sv:
+        Det åligger arbetsgivar- och arbetstagarorganisation att söka hindra, att
+        medlem vidtager åtgärd som kränker föreningsrätten, Har medlem vidtagit sådan
+        åtgärd, är organisationen skyldig att söka förmå honom att upphöra därmed.
+      en:
+        Employers' and employees' organisations shall be obliged to seek to prevent
+        their members from taking any action that would infringe the right of association.
+        Where a member has taken such action, the organisation shall be obliged to attempt
+        to persuade him to cease such action.
+    section: "9"
+    paragraph: "1"
+  - type: group_heading
+    text:
+      sv: Förhandlingsrätt
+      en: Right of negotiation
+  - type: section_heading
+    text:
+      sv: 10 §
+      en: Section 10
+    section: "10"
+    slug: section-10
+  - type: paragraph_text
+    text:
+      sv:
+        Arbetstagarorganisation har rätt till förhandling med arbetsgivare i fråga
+        rörande förhållande mellan arbetsgivaren och sådan medlem i organisationen,
+        som är eller har varit arbetstagare hos arbetsgivaren. Arbetsgivare har motsvarande
+        rätt att förhandla med arbetstagarorganisation.
+      en:
+        An employees' organisation shall have the right to negotiate with an employer
+        on any matter relating to the relationship between the employer and any member
+        of the organisation who is, or has been, employed by that employer. An employer
+        shall have an equivalent right to negotiate with an employees’ organisation.
+    section: "10"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Förhandlingsrätt enligt första stycket tillkommer arbetstagarorganisationen
+        även i förhållande till organisation som arbetsgivaren tillhör och arbetsgivarens
+        organisation i förhållande till arbetstagarorganisationen.
+      en:
+        Employees' organisations shall also have the right to negotiate, in accordance
+        with the first paragraph, in relation to any organisation of which the employer
+        is a member, and similarly employers' organisations in relation to any organisation
+        of which the employee is a member.
+    section: "10"
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 11 §
+      en: Section 11
+    section: "11"
+    slug: section-11
+  - type: paragraph_text
+    text:
+      sv:
+        Innan arbetsgivare beslutar om viktigare förändring av sin verksamhet, skall
+        han på eget initiativ förhandla med arbetstagarorganisation i förhållande till
+        vilken han är bunden av kollektivavtal. Detsamma skall iakttagas innan arbetsgivare
+        beslutar om viktigare förändring av arbets- eller anställningsförhållandena
+        för arbetstagare som tillhör organisationen.
+      en:
+        Before an employer takes any decision regarding significant changes in its
+        activities, he shall, on its own initiative, enter into negotiations with the
+        employees' organisation with which he is bound to negotiate under a collective
+        bargaining agreement. The above-mentioned shall also apply prior to any decisions
+        by an employer regarding significant changes in working or employment conditions
+        for employees who belong to the organisation.
+    section: "11"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Om synnerliga skäl föranleder det, får arbetsgivaren fatta och verkställa
+        beslut innan han har fullgjort sin förhandlingsskyldighet enligt första stycket.
+      en:
+        Where there is extraordinary cause, the employer may take and implement a
+        decision before he has fulfilled his duty to negotiate under the first paragraph
+        of this Section.
+    section: "11"
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 12 §
+      en: Section 12
+    section: "12"
+    slug: section-12
+  - type: paragraph_text
+    text:
+      sv:
+        När arbetstagarorganisation som avses i 11 § påkallar det, skall arbetsgivare
+        även i annat fall än där anges förhandla med organisationen innan han fattar
+        eller verkställer beslut, som rör medlem i organisationen. Om särskilda skäl
+        föranleder det, får arbetsgivaren dock fatta och verkställa beslutet innan han
+        har fullgjort sin förhandlingsskyldighet.
+      en:
+        Should an employees’ organisation as referred to in Section 11 so request,
+        an employer shall also, in circumstances other than those mentioned therein,
+        negotiate with that organisation before he takes or implements a decision that
+        concerns a member of the organisation. Where there is special cause, however,
+        the employer may take and implement the decision before he has fulfilled its
+        duty to negotiate.
+    section: "12"
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 13 §
+      en: Section 13
+    section: "13"
+    slug: section-13
+  - type: paragraph_text
+    text:
+      sv:
+        Om en fråga särskilt angår arbets- eller anställningsförhållandena för arbetstagare
+        som tillhör en arbetstagarorganisation i förhållande till vilken arbetsgivaren
+        inte är bunden av kollektivavtal, är arbetsgivaren skyldig att förhandla enligt
+        11 och 12 §§ med den organisationen.
+      en:
+        Where a matter specifically relates to the working or employment conditions
+        of an employee who belongs to an employees' organisation in relation to which
+        the employer is not bound by a collective bargaining agreement, the employer
+        shall be obliged to negotiate with that organisation under Section 11 and Section
+        12.
+    section: "13"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv: |-
+        Om arbetsgivaren inte är bunden av något kollektivavtal alls, är arbetsgivaren skyldig att förhandla enligt 11 § med alla berörda arbetstagarorganisationer i frågor som rör uppsägning på grund av arbetsbrist eller en sådan övergång av ett företag, en verksamhet eller en del av en verksamhet som omfattas av 6 b § lagen (1982:80) om anställningsskydd. Detta gäller dock inte om arbetsgivaren endast tillfälligt inte är bunden av något kollektivavtal.
+        Lag (1994:1686).
+      en:
+        Where an employer is not bound by a collective bargaining agreement, the employer
+        shall be obliged to negotiate with all affected employees' organisations under
+        Section 11 in all matters relating to termination of employment as a consequence
+        of insufficient work or the transfer of an undertaking, a business or a part
+        of a business subject to Section 6 b of the Employment Protection Act (1982:80).
+        The above-mentioned provisions shall not apply, however, where the employer
+        is only temporarily not bound by a collective bargaining agreement. (SFS 1994:1686)
+    section: "13"
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 14 §
+      en: Section 14
+    section: "14"
+    slug: section-14
+  - type: paragraph_text
+    text:
+      sv:
+        Finns lokal arbetstagarorganisation, skall förhandlingsskyldigheten enligt
+        11-13 §§ fullgöras i första hand genom förhandling med denna.
+      en:
+        Where there is a local employees' organisation, the obligation to negotiate
+        under Sections 11 - 13 shall, in the first instance, be fulfilled through negotiations
+        with that organisation.
+    section: "14"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Uppnås icke enighet vid förhandling enligt första stycket, skall arbetsgivaren
+        på begäran förhandla även med central arbetstagarorganisation.
+      en:
+        If agreement is not reached during negotiations under the first paragraph
+        of this Section, the employer shall, upon request, also negotiate with a central
+        employees’ organisation.
+    section: "14"
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 15 §
+      en: Section 15
+    section: "15"
+    slug: section-15
+  - type: paragraph_text
+    text:
+      sv:
+        En part som är skyldig att förhandla skall själv eller genom ombud inställa
+        sig vid förhandlingssammanträde och, om det behövs, lägga fram ett motiverat
+        förslag till lösning av den fråga som förhandlingen avser. Parterna kan gemensamt
+        välja någon annan form för förhandling än sammanträde.
+      en:
+        Any party who is under an obligation to negotiate shall, in person or through
+        a representative, appear at negotiations meetings, and, where necessary, put
+        forward a reasoned proposal for a solution of the matter to which the negotiations
+        relate. The parties may jointly decide upon a form for negotiations other than
+        through a meeting.
+    section: "15"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv: |-
+        En arbetsgivare skall i samband med förhandling inför beslut om uppsägning på grund av arbetsbrist i god tid skriftligen underrätta motparten om
+
+        1. skälen till de planerade uppsägningarna,
+        2. antalet arbetstagare som avses bli uppsagda och vilka kategorier de tillhör,
+        3. antalet arbetstagare som normalt sysselsätts och vilka kategorier de tillhör,
+        4. den tidsperiod under vilken uppsägningarna är avsedda att verkställas, och
+        5. beräkningsmetoden för eventuella ersättningar utöver vad som följer av lag eller kollektivavtal vid uppsägning.
+      en: |-
+        In conjunction with negotiations regarding a decision to terminate employment due to shortage of work, the employer shall in good time notify the other party in writing of the following matters:
+
+        1. the reason for the planned termination;
+        2. the number of employees who will be affected by the termination and the employment categories to which they belong;
+        3. the number of employees who are normally employed and the employment categories to which they belong;
+        4. the time period during which it is planned to carry out the termination; and
+        5. the method of calculation of any compensation to be paid in conjunction with termination in addition to that which is required by to law or applicable collective bargaining agreements.
+    section: "15"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Arbetsgivaren skall också lämna motparten en kopia av de varsel som har lämnats
+        till Arbetsförmedlingen enligt 2 a § första och andra styckena lagen (1974:13)
+        om vissa anställningsfrämjande åtgärder. Lag (2007:402).
+      en:
+        The employer shall also provide the other party with a copy of any notices
+        that have been filed with the Employment Service (Arbetsförmedlingen) under
+        the first and second paragraphs of Section 2 a of the Act (1974:13) Concerning
+        Certain Measures to Promote Employment. (SFS 2007:402)
+    section: "15"
+    paragraph: "3"
+  - type: section_heading
+    text:
+      sv: 16 §
+      en: Section 16
+    section: "16"
+    slug: section-16
+  - type: paragraph_text
+    text:
+      sv:
+        Part som vill förhandla skall göra framställning hos motparten om förhandling.
+        Om motparten begär det, skall framställningen vara skriftlig och ange den fråga
+        om vilken förhandling påkallas.
+      en:
+        Any party who wishes to negotiate shall serve a demand for negotiations upon
+        the other party. If the other party so requests, the demand shall be in writing
+        and shall state the matter about which negotiations are being requested.
+    section: "16"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        I annat fall än som avses i 11-13 §§ skall, om parterna ej enas om annat,
+        sammanträde för förhandling hållas inom två veckor efter det att motparten har
+        fått del av förhandlingsframställning, när motparten är enskild arbetsgivare
+        eller lokal arbetstagarorganisation, och annars inom tre veckor efter det att
+        framställningen har kommit motparten till handa. Det ankommer i övrigt på parterna
+        att bestämma tid och plats för förhandlingssammanträde.
+      en:
+        In circumstances other than those referred to in Sections 11 - 13, negotiations
+        meetings shall, unless otherwise agreed upon by the parties, be held within
+        two weeks of receipt by the other party of a demand for negotiations, where
+        the other party is an individual employer or a local employees' organisation,
+        and otherwise within three weeks of receipt of such demand by the other party.
+        In addition, the parties may agree in respect of a time and place for the negotiations.
+    section: "16"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Förhandling skall bedrivas skyndsamt. Om part begär det, skall föras protokoll
+        som justeras av båda parter. Enas parterna ej om annat, skall förhandling anses
+        avslutad, när part som har fullgjort sin förhandlingsskyldighet har givit motparten
+        skriftligt besked om att han frånträder förhandlingen.
+      en:
+        Negotiations shall be conducted expeditiously. If a party so requests, minutes
+        shall be kept, which shall be approved by both parties. Unless otherwise agreed
+        to by the parties, negotiations shall be deemed to be concluded when a party
+        who has fulfilled his duty to negotiate has given the other party notice in
+        writing that he is withdrawing from the negotiations.
+    section: "16"
+    paragraph: "3"
+  - type: section_heading
+    text:
+      sv: 17 §
+      en: Section 17
+    section: "17"
+    slug: section-17
+  - type: paragraph_text
+    text:
+      sv:
+        Arbetstagare som har utsetts att företräda sin organisation vid förhandling
+        får ej vägras skälig ledighet för att deltaga i förhandlingen.
+      en:
+        An employee who has been appointed to represent his organisation at negotiations
+        may not be refused reasonable leave of absence in order to take part in those
+        negotiations.
+    section: "17"
+    paragraph: "1"
+  - type: group_heading
+    text:
+      sv: Rätt till information
+      en: Right to Information
+  - type: section_heading
+    text:
+      sv: 18 §
+      en: Section 18
+    section: "18"
+    slug: section-18
+  - type: paragraph_text
+    text:
+      sv:
+        Part som vid förhandling åberopar skriftlig handling skall hålla den tillgänglig
+        för motparten, om denne begär det.
+      en:
+        A party who, during negotiations, invokes any written document shall make
+        such document available to the other party should the latter so request.
+    section: "18"
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 19 §
+      en: Section 19
+    section: "19"
+    slug: section-19
+  - type: paragraph_text
+    text:
+      sv:
+        Arbetsgivare skall fortlöpande hålla arbetstagarorganisation i förhållande
+        till vilken han är bunden av kollektivavtal underrättad om hur hans verksamhet
+        utvecklas produktionsmässigt och ekonomiskt liksom om riktlinjerna för personalpolitiken.
+        Arbetsgivaren skall dessutom bereda arbetstagarorganisationen tillfälle att
+        granska böcker, räkenskaper och andra handlingar, som rör arbetsgivarens verksamhet,
+        i den omfattning som organisationen behöver för att tillvarataga medlemmarnas
+        gemensamma intressen i förhållande till arbetsgivaren.
+      en:
+        An employer is obliged to regularly inform an employees' organisation in relation
+        to which he is bound by collective bargaining agreement as to the manner in
+        which the business is developing in respect of production and finance and as
+        to the guidelines for personnel policy. The employer shall also afford the employees'
+        organisation an opportunity to examine books, accounts, and other documents
+        that concern the employers' business, to the extent required by the labour union
+        in order to protect the common interests of its members in relation to the employer.
+    section: "19"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Om det kan ske utan oskälig kostnad eller omgång, skall arbetsgivaren på begäran
+        förse arbetstagarorganisationen med avskrift av handling och biträda organisationen
+        med utredning, som den behöver för nyss angivet ändamål.
+      en:
+        Where such can be accomplished without unreasonable cost or inconvenience,
+        the employer shall, upon request, provide the employees' organisation with copies
+        of documents and shall assist the organisation with any examination that it
+        requires for the above-mentioned purposes.
+    section: "19"
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 19 a §
+      en: Section 19a
+    section: 19a
+    slug: section-19a
+  - type: paragraph_text
+    text:
+      sv:
+        En arbetsgivare som inte är bunden av något kollektivavtal alls skall fortlöpande
+        hålla arbetstagarorganisationer som har medlemmar som är arbetstagare hos arbetsgivaren
+        underrättade om hur verksamheten utvecklas produktionsmässigt och ekonomiskt
+        liksom om riktlinjerna för personalpolitiken. Lag (2005:392).
+      en:
+        An employer who is not bound by any collective bargaining agreement at all
+        shall continuously keep employees’ organisations that have members who are employees
+        at the employer notified of how the operations is developing as regards production
+        and financially and similarly on the guidelines for personnel policy. (SFS 2005:392)
+    section: 19a
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 19 b §
+      en: Section 19b
+    section: 19b
+    slug: section-19b
+  - type: paragraph_text
+    text:
+      sv:
+        Arbetstagare som har utsetts att företräda sin organisation för att ta emot
+        information enligt 19 a § får inte vägras skälig ledighet för att ta emot informationen.
+        Lag (2005:392).
+      en:
+        Employees who have been appointed to represent their organisation for receipt
+        of information under Section 19 a, may not be refused reasonable leave to receive
+        the information. (SFS 2005:392)
+    section: 19b
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 20 §
+      en: Section 20
+    section: "20"
+    slug: section-20
+  - type: paragraph_text
+    text:
+      sv:
+        Finns lokal arbetstagarorganisation, skall informationsskyldigheten enligt
+        19 § fullgöras mot denna. Vid förhandling enligt 14 § andra stycket skall skyldigheten
+        fullgöras även mot central arbetstagarorganisation, i den mån informationen
+        är av betydelse för förhandlingsfrågan.
+      en:
+        Where there is a local employees' organisation, the obligation to provide
+        information under Section 19 shall be fulfilled in relation to such organisation.
+        In respect of negotiations under the second paragraph of Section 14, the obligation
+        shall also be fulfilled in relation to the central employees' organisation to
+        the extent that such information is of significance for the matter under negotiation.
+    section: "20"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Informationsskyldigheten enligt 19 a § skall fullgöras mot lokal arbetstagarorganisation
+        om sådan finns. Lag (2005:392).
+      en:
+        The information obligation under Section 19 a shall be performed in relation
+        to a local employees’ organisation if there is one. (SFS 2005:392)
+    section: "20"
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 21 §
+      en: Section 21
+    section: "21"
+    slug: section-21
+  - type: paragraph_text
+    text:
+      sv:
+        Part som skall lämna information har rätt till förhandling med motparten om
+        tystnadsplikt rörande den information som skall lämnas. Om förhandlingen avser
+        information enligt 19 §, äger 14 § motsvarande tillämpning.
+      en:
+        Any party who is subject to an obligation to provide information shall have
+        a right to negotiate with the other party in respect of a duty of confidentiality
+        regarding the information that is to be provided. If the negotiations relate
+        to information under Section 19, Section 14 shall apply, mutatis mutandis.
+    section: "21"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Uppnås icke enighet vid förhandling enligt första stycket, kan parten väcka
+        talan vid domstol om tystnadsplikt. Sådan talan skall väckas inom tio dagar
+        efter det att förhandling har avslutats. Domstolen skall förordna om tystnadsplikt,
+        i den mån det kan antagas att det annars skulle föreligga risk för väsentlig
+        skada för part eller annan.
+      en:
+        If agreement is not reached in negotiations under the first paragraph of this
+        Section, a party may commence proceedings in a court in respect of the duty
+        of confidentiality. Such proceedings must be commenced within ten days after
+        the conclusion of negotiations. The court shall issue an order concerning a
+        duty of confidentiality to the extent it is deemed that there would otherwise
+        be a danger of substantial injury to a party to the proceedings or any other
+        person.
+    section: "21"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Har part påkallat förhandling om tystnadsplikt och iakttager han föreskrifterna
+        i första och andra styckena, gäller till dess frågan har blivit slutligt avgjord
+        den tystnadsplikt som han kräver. Är kravet obefogat och har parten insett eller
+        bort inse detta, föreligger dock ej tystnadsplikt. Lag (1977:532).
+      en:
+        If a party has demanded negotiations in respect of a duty of confidentiality
+        and complies with the provisions contained in paragraphs one and two, the duty
+        of confidentiality that such party seeks to enforce shall apply until such time
+        as the matter has been finally determined. Where there are no grounds for the
+        demand, and where the party making the demand realises or should have realised
+        this, no duty of confidentiality shall arise. (SFS 1977:532)
+    section: "21"
+    paragraph: "3"
+  - type: section_heading
+    text:
+      sv: 22 §
+      en: Section 22
+    section: "22"
+    slug: section-22
+  - type: paragraph_text
+    text:
+      sv:
+        Den som med tystnadsplikt har mottagit information för lokal eller central
+        arbetstagarorganisations räkning får utan hinder av tystnadsplikten föra informationen
+        vidare till ledamot i styrelsen för organisationen. I sådant fall gäller tystnadsplikten
+        även för styrelseledamoten.
+      en:
+        Any person who, on behalf of a local or central employees' organisation, has
+        received information subject to a duty of confidentiality may disclose such
+        information to a member of the board of directors of the organisation notwithstanding
+        the duty of confidentiality. In such circumstances the duty of confidentiality
+        shall also apply to a member of the board of directors.
+    section: "22"
+    paragraph: "1"
+  - type: group_heading
+    text:
+      sv: Kollektivavtal
+      en: Collective Bargaining Agreements
+  - type: section_heading
+    text:
+      sv: 23 §
+      en: Section 23
+    section: "23"
+    slug: section-23
+  - type: paragraph_text
+    text:
+      sv:
+        Med kollektivavtal avses skriftligt avtal mellan arbetsgivarorganisation eller
+        arbetsgivare och arbetstagarorganisation om anställningsvillkor för arbetstagare
+        eller om förhållandet i övrigt mellan arbetsgivare och arbetstagare.
+      en:
+        The term "collective bargaining agreement" means an agreement in writing between
+        an employers' organisation or an employer and an employees' organisation in
+        respect of conditions of employment or otherwise about the relationship between
+        employers and employees.
+    section: "23"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Avtal anses skriftligt även när dess innehåll har upptagits i justerat protokoll
+        eller när förslag till avtal och godkännande därav har upptagits i skilda skrifter.
+      en:
+        An agreement shall be deemed to be in writing also when its contents have
+        been recorded in approved minutes or where a proposal for an agreement and acceptance
+        thereof have been recorded in separate documents.
+    section: "23"
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 24 §
+      en: Section 24
+    section: "24"
+    slug: section-24
+  - type: paragraph_text
+    text:
+      sv:
+        Avser kollektivavtal arbetstagares hyresförhållande, har avtalet i den delen
+        verkan som kollektivavtal endast i den mån det är fråga om partsställning och
+        innehåll är sådant som anges i 12 kap. 67 § jordabalken.
+      en:
+        Where a collective bargaining agreement relates to an employee's tenancy relationship,
+        the agreement, in such respect, shall have effect as a collective bargaining
+        agreement only where the agreement, in respect of the status of the party and
+        its contents are such as are referred to in chapter 12, Section 67 of the Land
+        Code.
+    section: "24"
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 25 §
+      en: Section 25
+    section: "25"
+    slug: section-25
+  - type: paragraph_text
+    text:
+      sv:
+        Avtal saknar verkan som kollektivavtal i den mån det har annat innehåll än
+        sådant som avses i 23 och 24 §§.
+      en:
+        An agreement shall not be valid as a collective bargaining agreement to the
+        extent that the content of such agreement is other than as referred to in Sections
+        23 and 24.
+    section: "25"
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 25 a §
+      en: Section 25a
+    section: 25a
+    slug: section-25a
+  - type: paragraph_text
+    text:
+      sv:
+        Ett kollektivavtal som är ogiltigt enligt utländsk rätt på den grunden att
+        det tillkommit efter en stridsåtgärd är trots detta giltigt här i landet, om
+        stridsåtgärden var tillåten enligt denna lag. Lag (1991:681).
+      en:
+        A collective bargaining agreement that is invalid under foreign law as a consequence
+        of it having been entered into following an industrial action is, notwithstanding
+        this, valid in Sweden if the industrial action was in compliance with this Act.
+        (SFS 1991:681)
+    section: 25a
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 26 §
+      en: Section 26
+    section: "26"
+    slug: section-26
+  - type: paragraph_text
+    text:
+      sv:
+        Kollektivavtal som har slutits av arbetsgivar- eller arbetstagarorganisation
+        binder inom sitt tillämpningsområde även medlem i organisationen. Detta gäller
+        oavsett om medlemmen har trätt in i organisationen före eller efter avtalets
+        tillkomst, dock ej i den mån han redan är bunden av annat kollektivavtal.
+      en:
+        A collective bargaining agreement that has been concluded by an employers'
+        organisation or an employees' organisation shall also be binding, within its
+        area of applicability, upon a member of such organisation. This shall apply
+        irrespective of whether the member joined the organisation before or after the
+        agreement was entered into, but not to the extent that he is already bound by
+        another collective bargaining agreement.
+    section: "26"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Utträder medlem ur organisation som har slutit kollektivavtal, upphör han
+        ej därmed att vara bunden av avtalet.
+      en:
+        In the event that a member resigns from an organisation that has concluded
+        a collective bargaining agreement he shall not cease to be bound by the agreement
+        as a consequence of such resignation.
+    section: "26"
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 27 §
+      en: Section 27
+    section: "27"
+    slug: section-27
+  - type: paragraph_text
+    text:
+      sv:
+        Arbetsgivare och arbetstagare som är bundna av kollektivavtal kan ej med giltig
+        verkan träffa överenskommelse som strider mot avtalet.
+      en:
+        Employers and employees who are bound by a collective bargaining agreement
+        may not enter into any contract that does not comply with such collective bargaining
+        agreement.
+    section: "27"
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 28 §
+      en: Section 28
+    section: "28"
+    slug: section-28
+  - type: paragraph_text
+    text:
+      sv:
+        När ett företag, en verksamhet eller en del av en verksamhet övergår från
+        en arbetsgivare som är bunden av ett kollektivavtal till en ny arbetsgivare,
+        genom en sådan övergång som omfattas av 6 b § i lagen (1982:80) om anställningsskydd,
+        gäller avtalet i tillämpliga delar för den nya arbetsgivaren. Detta gäller dock
+        inte om den nya arbetsgivaren redan är bunden av något annat kollektivavtal
+        som kan tillämpas på de arbetstagare som följer med.
+      en:
+        Where an undertaking, a business or a part of a business is transferred from
+        an employer who is bound by a collective bargaining agreement to a new employer
+        through a transfer that is subject to Section 6b of the Employment Protection
+        Act (1982:80), the agreement shall apply, where relevant, to the new employer.
+        The abovementioned provision shall not apply, however, where the new employer
+        is already bound by another collective bargaining agreement that may be applied
+        to the employees whose contracts of employment are assumed by the new employer.
+    section: "28"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        I det fall som avses i första stycket får arbetstagarparten säga upp avtalet
+        inom trettio dagar efter det att den har underrättats om övergången. Görs uppsägning
+        inom denna tid, upphör avtalet att gälla vid övergången eller, om uppsägningen
+        görs efter övergången, vid tidpunkten för uppsägningen. Kollektivavtalet gäller
+        inte heller för den nya arbetsgivaren, om den tidigare arbetsgivaren säger upp
+        avtalet före övergången. Görs en sådan uppsägning senare än sextio dagar före
+        övergången, gäller dock avtalet för den nya arbetsgivaren till dess sextio dagar
+        har förflutit från uppsägningen.
+      en:
+        In circumstances that are referred to in the first paragraph above, the employee
+        party may, within thirty days of receipt of notice of the transfer, give notice
+        of termination of the agreement. If notice of termination is given within this
+        period, the agreement shall cease to apply upon transfer, or, if notice to terminate
+        is given after the transfer, immediately upon the giving of such notice. Nor
+        shall the collective bargaining agreement apply to the new employer if, prior
+        to the transfer, the previous employer gives notice to terminate the agreement.
+        However, if such notice to terminate is given less than sixty days before the
+        transfer, the agreement shall apply to the new employer until sixty days after
+        notice to terminate was given.
+    section: "28"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        När arbetstagares anställningsavtal och anställningsförhållanden har övergått
+        till en ny arbetsgivare enligt 6 b § lagen (1982:80) om anställningsskydd, är
+        den nya arbetsgivaren skyldig att under ett år från övergången tillämpa anställningsvillkoren
+        i det kollektivavtal som då gällde för den tidigare arbetsgivaren. Villkoren
+        skall tillämpas på samma sätt som den tidigare arbetsgivaren var skyldig att
+        tillämpa dessa villkor. Detta gäller dock inte sedan kollektivavtalets giltighetstid
+        har löpt ut eller sedan ett nytt kollektivavtal har börjat gälla för de övertagna
+        arbetstagarna.
+      en:
+        Where an employee's contract of employment and conditions of employment have
+        been transferred to a new employer under Section 6 b of the Employment Protection
+        Act (1982:80), the new employer shall be obligated, for a period of one year
+        from the time of the transfer, to apply the conditions of employment contained
+        in the collective bargaining agreement that applied to the previous employer.
+        Such conditions shall be applied in the same manner as the previous employer
+        was obligated to apply them. The above-mentioned provision shall, however, not
+        apply where the term of the collective bargaining agreement has expired or where
+        a new collective bargaining agreement has entered into force for the employees
+        subject to the transfer.
+    section: "28"
+    paragraph: "3"
+  - type: paragraph_text
+    text:
+      sv:
+        Om två eller flera arbetsgivar- eller arbetstagarorganisationer slås samman,
+        skall kollektivavtal som gäller för organisation som upplöses, gälla för den
+        sammanslagna organisationen som om avtalet hade slutits av denna. Lag (1994:1686).
+      en:
+        Where two or more employers’ or employees’ organisations are merged, any collective
+        bargaining agreement that applies to an organisation that is thereby dissolved
+        shall apply to the merged organisation as if the agreement had been entered
+        into by it. (SFS 1994:1686)
+    section: "28"
+    paragraph: "4"
+  - type: section_heading
+    text:
+      sv: 29 §
+      en: Section 29
+    section: "29"
+    slug: section-29
+  - type: paragraph_text
+    text:
+      sv:
+        Är kollektivavtal på den ena sidan eller på båda sidor slutet av flera parter
+        och kräves uppsägning för att avtalet skall upphöra att gälla, får part för
+        egen del säga upp avtalet hos en eller flera parter på andra sidan. Har sådan
+        uppsägning skett till viss tid, får annan part säga upp avtalet till samma tidpunkt.
+        Dennes uppsägning skall dock göras inom tre veckor efter det att uppsägningen
+        annars skulle ha skett eller, om den avtalade uppsägningstiden understiger sex
+        veckor, inom hälften av uppsägningstiden.
+      en: |-
+        Where a collective bargaining agreement has been entered into by several parties on either side or on both sides and where such agreement may only be terminated upon notice of termination, any party may, on its own behalf, terminate such agreement in relation to one or more parties on the other side. Where such termination is to be effective at a particular time, another
+        party may terminate the agreement effective at the same time. The latter notice of termination, however, shall be given within three weeks of the time at which notice of termination should otherwise have been given, or, if the agreed period of notice is less than six weeks, within one half of the agreed period of notice.
+    section: "29"
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 30 §
+      en: Section 30
+    section: "30"
+    slug: section-30
+  - type: paragraph_text
+    text:
+      sv: Uppsägning av kollektivavtal skall ske skriftligen.
+      en: Notice of termination of a collective bargaining agreement shall be in writing.
+    section: "30"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Har meddelande om uppsägning avsänts under motpartens senast kända adress
+        så tidigt att det hade bort komma denne till handa innan uppsägning senast skulle
+        ha skett, skall uppsägning anses ha ägt rum i tid även om meddelandet icke kommer
+        fram eller kommer fram för sent.
+      en:
+        Where notice of termination has been sent to the other party's last known
+        address in sufficient time for it to have reached that party before the latest
+        time at which notice of termination should have been given, notice of termination
+        shall be deemed to have taken place in due time, notwithstanding that such notice
+        was not received, or was not received in due time.
+    section: "30"
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 31 §
+      en: Section 31
+    section: "31"
+    slug: section-31
+  - type: paragraph_text
+    text:
+      sv:
+        Har arbetsgivare, arbetstagare eller organisation som är bunden av kollektivavtal
+        grovt brutit mot sådant avtal eller mot denna lag och har förfarandet väsentlig
+        betydelse för avtalsförhållandet i dess helhet, får domstol på yrkande av motpart
+        förklara att kollektivavtal som binder parterna icke längre skall gälla mellan
+        dem.
+      en:
+        Where an employer, employee or organisation bound by a collective bargaining
+        agreement has committed a gross breach of such an agreement or of this Act and
+        where such provisions have a fundamental significance on the contractual relationship
+        as a whole, a court may, upon motion of the other party, declare that a collective
+        bargaining agreement by which the parties are bound is no longer applicable
+        to such parties.
+    section: "31"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Är kollektivavtal på den ena sidan eller på båda sidor slutet av flera parter
+        och har förklaring enligt första stycket gjorts för endast vissa av dem, får
+        annan part inom tre veckor därefter med omedelbar verkan säga upp samma avtal
+        för egen del.
+      en:
+        Where a collective bargaining agreement has been concluded by several parties
+        on either side or on both sides and where a declaratory judgment has been made
+        under the first paragraph of this Section in respect of only some of them, any
+        other party may, within three weeks thereafter, terminate the agreement on its
+        own behalf with immediate effect.
+    section: "31"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Finner domstol att visst förfarande strider mot kollektivavtal eller mot denna
+        lag, får domstolen på yrkande befria arbetsgivare, arbetstagare eller organisation
+        från förpliktelse enligt kollektivavtal eller enligt lagen, i den mån det med
+        hänsyn till det otillåtna förfarandet icke skäligen kan krävas att förpliktelsen
+        fullgöres. Lag (1977:532).
+      en:
+        Where a court determines that particular actions are contrary to a collective
+        bargaining agreement or to this Act, it may, upon application, release an employer,
+        employee or organisation from its obligations under the collective bargaining
+        agreement or this Act, to the extent it cannot be reasonably required that such
+        obligations be fulfilled. (SFS 1977:532)
+    section: "31"
+    paragraph: "3"
+  - type: section_heading
+    text:
+      sv: 31 a §
+      en: Section 31a
+    section: 31a
+    slug: section-31a
+  - type: paragraph_text
+    text:
+      sv:
+        Är en arbetsgivare bunden av ett kollektivavtal som denna lag inte är direkt
+        tillämplig på och träffar han därefter ett kollektivavtal enligt bestämmelserna
+        i 23--24 §§ skall i de delar avtalen är oförenliga det senare avtalet gälla.
+        Lag (1991:681).
+      en:
+        Where an employer who is bound by a collective bargaining agreement to which
+        this Act is not directly applicable and subsequently enters into a collective
+        bargaining agreement under the provisions of Sections 23 - 24, the latter agreement
+        shall have precedence to the extent the two agreements are incompatible. (SFS
+        1991:681)
+    section: 31a
+    paragraph: "1"
+  - type: group_heading
+    text:
+      sv: Medbestämmanderätt genom kollektivavtal
+      en: Rights of co-determination under collective bargaining agreements
+  - type: section_heading
+    text:
+      sv: 32 §
+      en: Section 32
+    section: "32"
+    slug: section-32
+  - type: paragraph_text
+    text:
+      sv:
+        Mellan parter som träffar kollektivavtal om löner och allmänna anställningsvillkor
+        bör, om arbetstagarparten begär det, även träffas kollektivavtal om medbestämmanderätt
+        för arbetstagarna i frågor som avser ingående och upphörande av anställningsavtal,
+        ledningen och fördelningen av arbetet och verksamhetens bedrivande i övrigt.
+      en:
+        Parties who enter into a collective bargaining agreement in respect of pay
+        and general conditions of employment should, where the employee party so requests,
+        also enter into a collective bargaining agreement in respect of rights of co-determination
+        for employees in matters regarding the conclusion and termination of contracts
+        of employment, the management and distribution of work and the operation of
+        the activity in general.
+    section: "32"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        I kollektivavtal om medbestämmanderätt kan parterna, med beaktande av vad
+        som föreskrives i 3 §, bestämma att beslut, som annars skulle fattas av arbetsgivaren,
+        skall fattas av företrädare för arbetstagarna eller av särskilt inrättat partssammansatt
+        organ. Lag (1977:529).
+      en:
+        The parties to a collective bargaining agreement regarding rights of co-determination
+        may, subject to the provisions contained in Section 3, agree that decisions
+        that would otherwise be taken by the employer shall be taken by employee representatives
+        or by a joint body specifically constituted for such purpose. (SFS 1977:529)
+    section: "32"
+    paragraph: "2"
+  - type: group_heading
+    text:
+      sv: Bestämmanderätt om tvist om tolkning av avtal
+      en:
+        Rights of determination in respect of disputes regarding the interpretation
+        of agreements
+  - type: section_heading
+    text:
+      sv: 33 §
+      en: Section 33
+    section: "33"
+    slug: section-33
+  - type: paragraph_text
+    text:
+      sv:
+        Innehåller kollektivavtal föreskrifter om medbestämmanderätt för arbetstagarna
+        i fråga som avses i 32 § och uppkommer tvist om tillämpning i visst fall av
+        sådan föreskrift eller av beslut som har fattats med stöd därav, gäller arbetstagarpartens
+        mening till dess tvisten har slutligt prövats. Detsamma gäller tvist om kollektivavtal
+        rörande påföljd för arbetstagare som har begått avtalsbrott. Vad som nu har
+        sagts ger dock ej arbetstagarparten rätt att verkställa beslut på arbetsgivarens
+        vägnar.
+      en:
+        Where a collective bargaining agreement contains provisions in respect of
+        rights of codetermination for employees in matters referred to in Section 32
+        and where a dispute arises in respect of the application of such provisions
+        or of decisions that have been taken under such provisions, the interpretation
+        of the employee party shall apply pending the final adjudication of the dispute.
+        The above-mentioned provision shall also apply to disputes under collective
+        bargaining agreements regarding the consequences of a breach of such agreement
+        by an employee. The abovementioned provision does, however, not grant the employee
+        party the right to execute decisions on behalf of the employer.
+    section: "33"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Intager två eller flera arbetstagarparter oförenliga ståndpunkter i sådan
+        tvist som avses i första stycket, får arbetsgivaren ej fatta eller verkställa
+        beslut som beröres av tvisten förrän denna har slutligt prövats.
+      en:
+        Where two or more employee parties adopt incompatible positions in a dispute
+        of the type referred to in the first paragraph above, the employer may not take
+        or implement a decision that is affected by such dispute before the dispute
+        has been finally adjudicated.
+    section: "33"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Arbetsgivaren behöver ej iakttaga vad som föreskrives i första och andra styckena,
+        om synnerliga skäl föreligger eller om arbetstagarparts mening är oriktig och
+        parten har insett eller bort inse detta. Lag (1977:529).
+      en:
+        The employer need not comply with the provisions referred to in the first
+        and second paragraphs, where there is extraordinary cause or where the interpretation
+        put forward by the employee party is erroneous and that party realises or should
+        have realised this. (SFS 1977:529)
+    section: "33"
+    paragraph: "3"
+  - type: section_heading
+    text:
+      sv: 34 §
+      en: Section 34
+    section: "34"
+    slug: section-34
+  - type: paragraph_text
+    text:
+      sv:
+        Uppkommer mellan arbetsgivare och arbetstagarorganisation, som är bundna av
+        samma kollektivavtal, tvist om medlems arbetsskyldighet enligt avtal, gäller
+        organisationens mening till dess tvisten har slutligt prövats.
+      en:
+        Where a dispute arises between an employer and an employees' organisation
+        that are bound by the same collective bargaining agreement in respect of a member's
+        duty to perform work under such agreement, the organisation's position shall
+        apply until such time as the dispute has beenfinally adjudicated.
+    section: "34"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Föreligger enligt arbetsgivarens uppfattning synnerliga skäl mot att omtvistat
+        arbete uppskjutes, får han utan hinder av första stycket kräva att arbetet utföres
+        enligt hans mening i tvisten. Arbetstagaren är då skyldig att utföra arbetet.
+        Sådan skyldighet föreligger dock ej, om arbetsgivarens mening i tvisten är oriktig
+        och arbetsgivaren har insett eller bort inse detta eller om arbetet innebär
+        fara för liv eller hälsa eller därmed jämförligt hinder möter.
+      en:
+        Where, in the opinion of the employer, there are extraordinary reasons against
+        a postponement of the disputed work, the employer may, notwithstanding the first
+        paragraph, require that the work be performed according to his interpretation
+        in the dispute. The employee shall then be obligated to perform the work. Such
+        an obligation will not arise, however, where the employer's interpretation in
+        the dispute is incorrect and the employer realises or should have realised this,
+        or where the work involves danger to life or health, or where there are similar
+        obstacles.
+    section: "34"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Blir arbetet utfört enligt andra stycket, skall arbetsgivaren omedelbart påkalla
+        förhandling i tvisten. Kan tvisten icke lösas vid förhandling, skall han väcka
+        talan vid domstol. Lag (1977:532).
+      en:
+        Where work is performed under the second paragraph above, the employer shall
+        immediately call for negotiations concerning the dispute. If the dispute cannot
+        be settled by negotiation, the employer shall institute judicial proceedings.
+        (SFS 1977:532)
+    section: "34"
+    paragraph: "3"
+  - type: section_heading
+    text:
+      sv: 35 §
+      en: Section 35
+    section: "35"
+    slug: section-35
+  - type: paragraph_text
+    text:
+      sv:
+        Uppkommer mellan arbetsgivare och arbetstagarorganisation, som är bundna av
+        samma kollektivavtal, rättstvist om lön eller annan ersättning till medlem i
+        organisationen, är arbetsgivaren skyldig att omedelbart påkalla förhandling
+        i tvisten. Kan tvisten icke lösas vid förhandling, skall han väcka talan vid
+        domstol. Underlåter arbetsgivaren att påkalla förhandling eller väcka talan,
+        är han såvitt avser det omtvistade beloppet skyldig att utge ersättning enligt
+        arbetstagarorganisationens mening, om kravet ej är oskäligt. Lag (1977:532).
+      en:
+        In the event of a legal dispute between an employer and an employees' organisation
+        that are bound by the same collective bargaining agreement concerning pay or
+        other remuneration for a member of such organisation, the employer shall be
+        obligated to immediately call for negotiations concerning the dispute. If the
+        dispute cannot be settled by negotiations, the employer shall institute judicial
+        proceedings. An employer who fails to call for negotiations or to institute
+        proceedings shall be required to pay compensation in respect of the disputed
+        amount as demanded by the employees' organisation, provided such demand is not
+        unreasonable. (SFS 1977:532)
+    section: "35"
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 36 §
+      en: Section 36
+    section: "36"
+    slug: section-36
+  - type: paragraph_text
+    text:
+      sv:
+        Arbetstagarpartens rätt enligt 33-35 §§ tillkommer den avtalsslutande arbetstagarorganisationen
+        och utövas av lokal arbetstagarorganisation, om sådan finns. Har central förhandling
+        påkallats, utövas rätten av den centrala arbetstagarorganisationen.
+      en:
+        The employee party's rights under Sections 33 - 35 shall vest in the employees’
+        organisation that has entered into a collective bargaining agreement and shall
+        be exercised by the local employees’ organisation, where there is such an organisation.
+        Where central negotiations have been called for, such rights shall be exercised
+        by the central employees’ organisation.
+    section: "36"
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 37 §
+      en: Section 37
+    section: "37"
+    slug: section-37
+  - type: paragraph_text
+    text:
+      sv:
+        Skall enligt föreskrift i kollektivavtal förhandling enligt 34 § tredje stycket
+        eller 35 § äga rum både lokalt och centralt, skall central förhandling påkallas
+        inom tio dagar efter det att den lokala förhandlingen har avslutats. Talan vid
+        domstol skall väckas inom tio dagar efter det att förhandling har avslutats.
+        Lag (1977:532).
+      en:
+        Where a collective bargaining agreement requires negotiations to be held both
+        locally and centrally under Section 34, third paragraph, or Section 35, central
+        negotiations shall be called for within ten days of the conclusion of the local
+        negotiations. Judicial proceedings must be instituted within ten days of the
+        conclusion of negotiations. (SFS 1977:532)
+    section: "37"
+    paragraph: "1"
+  - type: group_heading
+    text:
+      sv: Facklig vetorätt i vissa fall
+      en: Labour union veto right in certain cases
+  - type: section_heading
+    text:
+      sv: 38 §
+      en: Section 38
+    section: "38"
+    slug: section-38
+  - type: paragraph_text
+    text:
+      sv:
+        Innan en arbetsgivare beslutar att låta någon utföra visst arbete för hans
+        räkning eller i hans verksamhet utan att denne därvid ska vara arbetstagare
+        hos honom, ska arbetsgivaren på eget initiativ förhandla med den arbetstagarorganisation
+        i förhållande till vilken han är bunden av kollektivavtal för sådant arbete.
+        Arbetsgivaren är vid förhandlingen skyldig att lämna den information om det
+        tilltänkta arbetet som arbetstagarorganisationen behöver för att kunna ta ställning
+        i förhandlingsfrågan.
+      en:
+        Before an employer decides to allow a particular person to perform certain
+        work on his behalf or in his business without such person becoming an employee
+        of the employer, the employer shall, on his own initiative, negotiate with the
+        employees’ organisation to whom he is bound by a collective agreement in respect
+        of such work. In conjunction with such negotiations, the employer is obliged
+        to provide any information in respect of the planned work that the employees’
+        organisation may require in order to be able to adopt a position regarding the
+        matter subject to negotiations.
+    section: "38"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Första stycket gäller inte, om arbetet är av kortvarig och tillfällig natur
+        eller kräver särskild sakkunskap och det inte är fråga om att anlita arbetstagare
+        enligt lagen (2012:854) om uthyrning av arbetstagare. Första stycket gäller
+        inte heller om den tilltänkta åtgärden i allt väsentligt motsvarar en åtgärd
+        som har godtagits av arbetstagarorganisationen. Om organisationen i ett särskilt
+        fall begär det, är arbetsgivaren dock skyldig att förhandla innan han fattar
+        eller verkställer ett beslut.
+      en:
+        The first paragraph does not apply where such work is of a short-term and
+        temporary nature or requires special skills and where such action does not constitute
+        the engaging of hired labour under the Hiring Out of Workers Act (2012:854).
+        Nor does the first paragraph apply where the planned actions correspond in all
+        essential respects to actions that have been approved by the employees’ organisation.
+        However, where the organisation so demands in a particular matter, the employer
+        shall be obliged to enter into negotiations prior to taking or implementing
+        a decision.
+    section: "38"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Om synnerliga skäl föranleder det, får arbetsgivaren fatta och verkställa
+        ett beslut innan förhandlingsskyldigheten enligt första stycket har fullgjorts.
+        Begärs förhandling enligt andra stycket, är arbetsgivaren inte skyldig att skjuta
+        upp beslutet eller verkställigheten till dess förhandlingsskyldigheten har fullgjorts,
+        om det finns särskilda skäl mot uppskov. I fråga om förhandling enligt första
+        och andra styckena ska 14 § tillämpas.
+      en:
+        Where there are exceptional grounds to do so, an employer may take and implement
+        a decision prior to fulfilling the obligation to negotiate under the first paragraph.
+        Where negotiations are requested under the second paragraph, the employer is
+        not obliged to postpone the decision or the implementation thereof until such
+        time as the obligation to negotiate has been fulfilled, provided there are exceptional
+        grounds for not postponing the decision. Section 14 shall apply to matters regarding
+        negotiations under the first and second paragraphs.
+    section: "38"
+    paragraph: "3"
+  - type: paragraph_text
+    text:
+      sv:
+        Har förhandling begärts enligt första eller andra stycket är arbetsgivaren
+        skyldig att på begäran av arbetstagarorganisationen lämna sådan information
+        om det tilltänkta arbetet som organisationen behöver för att kunna ta ställning
+        i frågan. Lag (2012:855).
+      en:
+        Where negotiations have been requested under the first orsecond paragraph,
+        the employer is obliged, upon demand by the employees’ organisation, to provide
+        any information in respect of the planned work that the organisation requires
+        in order to be able to adopt a position on the matter. (SFS 2012:855)
+    section: "38"
+    paragraph: "4"
+  - type: section_heading
+    text:
+      sv: 39 §
+      en: Section 39
+    section: "39"
+    slug: section-39
+  - type: paragraph_text
+    text:
+      sv:
+        Har förhandling enligt 38 § ägt rum och förklarar den centrala arbetstagarorganisationen
+        eller, om en sådan inte finns, den arbetstagarorganisation som har slutit kollektivavtalet,
+        att den av arbetsgivaren tilltänkta åtgärden kan antas medföra att lag eller
+        kollektivavtal för arbetet åsidosätts eller att åtgärden på annat sätt strider
+        mot vad som är allmänt godtaget inom parternas avtalsområde, får åtgärden inte
+        beslutas eller verkställas av arbetsgivaren.
+      en:
+        Where negotiations have been carried out under Section 38 and where the central
+        employees' organisation or, where there is no such organisation, the employees’
+        organisation that has entered into the collective agreement, declares that the
+        action that the employer intends to take may be deemed to violate legislative
+        provisions or the collective bargaining agreement or that such action would
+        otherwise contravene generally accepted practices within the parties’ area of
+        agreement, such action may not be adopted or implemented by the employer.
+    section: "39"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv: |-
+        Vid upphandling enligt lagen (2016:1145) om offentlig upphandling, lagen (2016:1146) om upphandling inom försörjningssektorerna, lagen (2016:1147) om upphandling av koncessioner, lagen (2011:1029) om upphandling på försvars- och säkerhetsområdet eller lagen (2008:962) om val- frihetssystem får en förklaring enligt första stycket göras endast om den grundar sig på omständigheter som anges i
+
+        * 13 kap. 1, 2 och 3 §§ samt 19 kap. 17 § lagen om offentlig upphandling,
+        * 13 kap. 1 och 2-4 §§ samt 19 kap. 17 § lagen om upphandling inom försörjningssektorerna,
+        * 11 kap. 1 och 2-4 §§ lagen om upphandling av koncessioner,
+        * 11 kap. 1-3 §§ samt 15 kap. 16 § lagen om upphandling på försvars- och säkerhetsområdet, eller
+        * 7 kap. 1 § lagen om valfrihetssystem. Lag (2021:1114).
+      en: |-
+        In the event of procurement under the Public Procurement Act (2016:1145), the Utilities Procurement Act (2016:1146), the Act on Procurement of Concessions (2016:1147), the Defence and Security Procurement Act (2011:1029) or the Act on Systems of Choice (2008:962), a declaration in accordance with the first paragraph may only be made if it is based on circumstances referred to in:
+
+        * Chapter 13, Sections 1, 2 and 3, and Chapter 19, Section 17 of the Public Procurement Act;
+        * Chapter 13, Sections 1 and 2–4, and Chapter 19, Section 17 of the Utilities Procurement Act;
+        * Chapter 11, Sections 1 and 2–4 of the Act on Procurement of Concessions;
+        * Chapter 11, Sections 1–3 and Chapter 15, Section 16 of the Defence and Security Procurement Act; or
+        * Chapter 7, Section 1 of the Act on Systems of Choice. (SFS 2021:1114)
+    section: "39"
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 40 §
+      en: Section 40
+    section: "40"
+    slug: section-40
+  - type: paragraph_text
+    text:
+      sv:
+        Förbud enligt 39 § inträder inte, om arbetstagarorganisationen saknar fog
+        för sin ståndpunkt. Förbud inträder inte heller, om arbetstagarorganisationen
+        vid sådan upphandling som avses i 39 § andra stycket har grundat sin förklaring
+        på andra omständigheter än som anges i de bestämmelser som räknas upp där.
+      en:
+        Prohibitions under Section 39 shall not apply where the employees’ organisation
+        lacks grounds for its position. Nor shall such prohibition apply where the employees’
+        organisation, in the course of public procurement referred to in Section 39,
+        second paragraph, has based its declaration on grounds other than those referred
+        to in the provision.
+    section: "40"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Har arbetsgivaren med stöd av 38 § tredje stycket verkställt beslut i den
+        fråga som förhandlingen avser, ska 39 § inte tillämpas. Lag (2016:1149).
+      en:
+        Section 39 shall not apply where the employer has, pursuant to Section 38,
+        third paragraph, implemented a decision in a matter subject to the negotiations.
+        (SFS 2016:1149)
+    section: "40"
+    paragraph: "2"
+  - type: group_heading
+    text:
+      sv: Fredsplikt
+      en: Labour-stability obligations
+  - type: section_heading
+    text:
+      sv: 41 §
+      en: Section 41
+    section: "41"
+    slug: section-41
+  - type: paragraph_text
+    text:
+      sv: |-
+        Arbetsgivare och arbetstagare som är bundna av kollektivavtal får inte vidta eller delta i arbetsinställelse (lockout eller strejk), blockad, bojkott eller annan därmed jämförlig stridsåtgärd, om avtalet har ingåtts av en organisation och denna organisation inte i behörig ordning har beslutat åtgärden, om åtgärden strider mot en bestämmelse om fredsplikt i kollektivavtal eller om åtgärden har till ändamål
+
+        1. att utöva påtryckning i en tvist om ett kollektivavtals giltighet, bestånd eller rätta innebörd eller i en tvist huruvida ett visst förfarande strider mot avtalet eller mot denna lag,
+        2. att åstadkomma ändring i avtalet,
+        3. att genomföra bestämmelse, som är avsedd att tillämpas sedan avtalet har upphört att gälla, eller
+        4. att stödja någon annan, när denne inte själv får vidta stridsåtgärd.
+      en: |-
+        An employer and an employee who are bound by a collective bargaining agreement may not initiate or participate in a stoppage of work (lockout or strike), blockade, boycott, or other industrial action comparable therewith, where an organisation is party to that agreement and that organisation has not duly sanctioned the action, and where the action is in breach of a provision regarding a labour-stability obligation in a collective bargaining agreement or where the action has as its aim:
+
+        1. to exert pressure in a dispute over the validity of a collective bargaining agreement, its existence, or its correct interpretation, or in a dispute as to whether a particular action is contrary to the agreement or to this Act;
+        2. to bring about an amendment to the agreement,
+        3. to effect a provision that is intended to enter into force upon termination of the agreement; or
+        4. to aid someone else who is not permitted to implement an industrial action. Industrial actions that have been taken contrary to the first paragraph are unlawful.
+    section: "41"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Stridsåtgärder som har vidtagits i strid mot första stycket betecknas som
+        olovliga.
+      en:
+        Industrial actions that have been taken contrary to the first paragraph are
+        unlawful.
+    section: "41"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv: |-
+        Första stycket hindrar inte arbetstagare att delta i en blockad som har beslutats av en arbetstagarorganisation i behörig ordning och som har till ändamål att utverka betalning av klar och förfallen fordran på lön eller på någon annan ersättning för utfört arbete (indrivningsblockad). En sådan stridsåtgärd är inte olovlig.
+        Lag (1993:1498).
+      en:
+        The first paragraph shall not prevent employees from taking part in a blockade
+        duly ordered by an employees' association for the purpose of exacting payment
+        of pay or any other remuneration for work that has been performed that is clearly
+        due (collection blockade). Industrial action of this nature is not unlawful.
+        (SFS 1993:1498)
+    section: "41"
+    paragraph: "3"
+  - type: section_heading
+    text:
+      sv: 41 a §
+      en: Section 41a
+    section: 41a
+    slug: section-41a
+  - type: paragraph_text
+    text:
+      sv:
+        En arbetsgivare får inte såsom stridsåtgärd eller som ett led i en stridsåtgärd
+        hålla inne lön eller någon annan ersättning för utfört arbete som har förfallit
+        till betalning. Arbetsgivaren får inte heller hålla inne lön eller någon annan
+        ersättning för utfört arbete, som har förfallit till betalning, med anledning
+        av att arbetstagarna deltar i en strejk eller någon annan stridsåtgärd.
+      en:
+        An employer may not, as an industrial action or as a part of an industrial
+        action, withhold pay or other remuneration for work that has been performed
+        and which is due and payable. Nor may an employer withhold pay or other remuneration
+        for work that has been performed and which is due and payable as a consequence
+        of employee participation in a strike or other industrial action.
+    section: 41a
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Sådana åtgärder som avses i första stycket är att anse som olovliga stridsåtgärder.
+        Lag (1993:1498).
+      en: Industrial actions referred to in the first paragraph are unlawful. (SFS 1993:1498)
+    section: 41a
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 41 b §
+      en: Section 41b
+    section: 41b
+    slug: section-41b
+  - type: paragraph_text
+    text:
+      sv:
+        En arbetstagare får inte vidta eller delta i en stridsåtgärd som har till
+        ändamål att kollektivavtal skall träffas med ett företag som inte har några
+        arbetstagare eller där bara företagaren eller företagarens familjemedlemmar
+        är arbetstagare och ensamma ägare. Detsamma gäller när en stridsåtgärd har till
+        ändamål att stödja någon som vill träffa kollektivavtal med ett sådant företag.
+        Vad som nu sagts hindrar inte en arbetstagare från att delta i en anställningsblockad
+        som riktar sig mot ett sådant företag och som har beslutats i behörig ordning
+        av en arbetstagarorganisation.
+      en:
+        An employee may not implement or participate in an industrial action that
+        has the aim of reaching a collective bargaining agreement with a business that
+        does not have any employees or where only the business operator or members of
+        the business operator’s family are employees and sole owners. This also applies
+        when industrial action has the purpose of supporting someone who wishes to reach
+        a collective bargaining agreement with such a business. What is stated here
+        does not prevent an employee from participating in an employment blockade that
+        is directed at such a business and which has been duly ordered by an employees’
+        organisation.
+    section: 41b
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv: |-
+        Stridsåtgärder som har vidtagits i strid mot första stycket är att anse som olovliga. Förändringar i anställnings- eller ägarförhållanden som har inträffat sedan en stridsåtgärd har varslats eller inletts skall inte beaktas vid bedömningen av om en stridsåtgärd är att anse som olovlig enligt första stycket.
+        Lag (2000:166).
+      en:
+        Industrial action that has been taken in violation of the first paragraph
+        are deemed unlawful. Alterations to the employment or ownership position that
+        have occurred after industrial action has been notified or implemented shall
+        not be taken into account when assessing whether an industrial action is to
+        be deemed unlawful under the first paragraph. (SFS 2000:166)
+    section: 41b
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 41 c §
+      en: Section 41c
+    section: 41c
+    slug: section-41c
+  - type: paragraph_text
+    text:
+      sv:
+        En stridsåtgärd som vidtas i strid mot 15, 16 eller 19 § lagen (1999:678)
+        om utstationering av arbetstagare är olovlig. Lag (2020:595).
+      en:
+        Industrial action taken in breach of Section 15, 16 or 19 of the Posting of
+        Workers Act (1999:678) is unlawful. (SFS 2020:595)
+    section: 41c
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 41 d §
+      en: Section 41d
+    section: 41d
+    slug: section-41d
+  - type: paragraph_text
+    text:
+      sv: |-
+        En arbetstagare får inte vidta eller delta i en stridsåtgärd mot en kollektivavtalsbunden arbetsgivare till stöd för krav i en fråga som är reglerad genom arbetsgivarens kollektivavtal
+
+        1. om stridsåtgärden inte i behörig ordning har beslutats av arbetstagarens organisation,
+        2. om stridsåtgärden inte har till ändamål att uppnå kollektivavtalsbundenhet mellan arbetsgivaren och arbetstagarorganisationen,
+        3. om arbetstagarorganisationen inte har förhandlat med arbetsgivaren eller arbetsgivarens organisation om de krav som arbetstagarorganisationen ställer, eller
+        4. om arbetstagarorganisationen kräver att arbetsgivaren ska tillämpa det kollektivavtal som organisationen vill uppnå på ett sådant sätt att det tränger undan arbetsgivarens befintliga kollektivavtal.
+      en: |-
+        An employee must not take or take part in industrial action against an employer bound by collective agreement in order to support a demand in a matter that is regulated by the employer’s collective agreement:
+
+        1. if the industrial action has not been taken in the proper manner by the employee organisation;
+        2. if the objective of the industrial action is not to bind the employer and the employee organisation to a collective agreement;
+        3. if the employee organisation has not negotiated with the employer or the employer organisation on the demands made by the employee organisation; or
+        4. if the employee organisation demands that the employer apply a collective agreement that the organisation seeks to achieve in a way that supersedes the employer’s existing collective agreement.
+    section: 41d
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv: En stridsåtgärd som strider mot första stycket är olovlig.
+      en: |-
+        Industrial action that contravenes the first paragraph is unlawful.
+
+        (Editor note: the unofficial government translation mistranslates this as "A collective agreement that contravenes the first paragraph is unlawful", and this has been corrected as part of the 666a data entry process)
+    section: 41d
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Den allmänna förhandlingsrätten i 10 § ska tillämpas vid förhandlingar enligt
+        första stycket även om arbetstagarorganisationen saknar medlemmar som är anställda
+        hos arbetsgivaren. Skyldigheten att förhandla gäller inte om det har funnits
+        hinder mot förhandlingen som inte har berott på arbetstagarorganisationen.
+      en:
+        The general right to negotiation under Section 10 is applied in negotiations
+        in accordance with the first paragraph even if the employee organisation lacks
+        members who are employed by the employer. The obligation to negotiate does not
+        apply if there have been impediments to the negotiations that are not attributable
+        to the employer organisation.
+    section: 41d
+    paragraph: "3"
+  - type: paragraph_text
+    text:
+      sv: |-
+        Bestämmelserna i denna paragraf ska inte tillämpas på en stridsåtgärd som har till ändamål att stödja någon annans lovliga stridsåtgärd eller på en indrivningsblockad.
+        Lag (2019:503).
+      en:
+        The provisions of this paragraph do not apply to industrial action aimed at
+        supporting someone else’s lawful industrial action or a blockade over unpaid
+        wages. (SFS 2019:503)
+    section: 41d
+    paragraph: "4"
+  - type: section_heading
+    text:
+      sv: 41 e §
+      en: Section 41e
+    section: 41e
+    slug: section-41e
+  - type: paragraph_text
+    text:
+      sv:
+        En arbetsgivare eller en arbetstagare får inte vidta eller delta i en stridsåtgärd
+        som har till ändamål att utöva påtryckning i en rättstvist.
+      en:
+        An employer or employee must not take or take part in industrial action aimed
+        at exerting pressure in a legal dispute.
+    section: 41e
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv: En stridsåtgärd som strider mot första stycket är olovlig.
+      en: A collective agreement that contravenes the first paragraph is unlawful.
+    section: 41e
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Första stycket tillämpas inte på stridsåtgärder som omfattas av förbudet mot
+        stridsåtgärder i rättstvister i 41 § första stycket 1.
+      en:
+        The first paragraph does not apply to industrial action covered by the prohibition
+        of industrial action in legal disputes under Section 41, first paragraph, point
+        1.
+    section: 41e
+    paragraph: "3"
+  - type: paragraph_text
+    text:
+      sv: |-
+        Första stycket hindrar inte en indrivningsblockad.
+        Lag (2019:503).
+      en: The first paragraph does not prevent a blockade over unpaid wages. (SFS 2019:503)
+    section: 41e
+    paragraph: "4"
+  - type: section_heading
+    text:
+      sv: 42 §
+      en: Section 42
+    section: "42"
+    slug: section-42
+  - type: paragraph_text
+    text:
+      sv:
+        En arbetsgivar- eller arbetstagarorganisation får inte anordna eller på något
+        annat sätt föranleda en olovlig stridsåtgärd. En sådan organisation får inte
+        heller genom understöd eller på något annat sätt medverka vid en olovlig stridsåtgärd.
+      en:
+        An employers' organisation or an employees' organisation may not organise
+        or in any other manner induce unlawful industrial action. Nor may such an organisation,
+        through support or in any other manner, participate in unlawful industrial action.
+    section: "42"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        En organisation som själv är bunden av ett kollektivavtal är skyldig att,
+        om en olovlig stridsåtgärd av en medlem förestår eller pågår, försöka hindra
+        åtgärden eller verka för att den upphör.
+      en:
+        An organisation that is bound by a collective bargaining agreement shall be
+        obliged, if unlawful industrial action is imminent or is being taken by a member,
+        to attempt to prevent such action or to endeavour to achieve a cessation of
+        such action.
+    section: "42"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Om någon har vidtagit en olovlig stridsåtgärd, får ingen annan delta i den.
+        Lag (2010:229).
+      en:
+        Where any person has taken unlawful industrial action, no other person may
+        participate in such action. (SFS 2010:229)
+    section: "42"
+    paragraph: "3"
+  - type: section_heading
+    text:
+      sv: 42 a §
+      en: Section 42a
+    section: 42a
+    slug: section-42a
+  - type: paragraph_text
+    text:
+      sv:
+        Bestämmelserna i 41 d § första stycket 4 och 42 § första stycket ska inte
+        tillämpas när en organisation vidtar åtgärder med anledning av arbetsförhållanden
+        som denna lag inte är direkt tillämplig på.
+      en:
+        The provisions of Section 41d, first paragraph, point 4 and Section 42, first
+        paragraph do not apply when an organisation takes measures due to working conditions
+        to which this Act is not directly applicable.
+    section: 42a
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Trots första stycket ska 41 d § första stycket 4 och 42 § första stycket tillämpas
+        när åtgärder vidtas mot en arbetsgivare som är etablerad inom Europeiska ekonomiska
+        samarbetsområdet eller Schweiz och som utstationerar arbetstagare i Sverige
+        enligt lagen (1999:678) om utstationering av arbetstagare. Lag (2019:503).
+      en:
+        Notwithstanding the first paragraph, Section 41d, first paragraph, point 4
+        and Section 42, first paragraph apply when measures are taken against an employer
+        established within the European Economic Area or in Switzerland that posts workers
+        in Sweden under the Posting of Workers Act (1999:678). (SFS 2019:503)
+    section: 42a
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 43 §
+      en: Section 43
+    section: "43"
+    slug: section-43
+  - type: paragraph_text
+    text:
+      sv:
+        Har olovlig stridsåtgärd vidtagits av arbetstagare som är bundna av kollektivavtal,
+        åligger det arbetsgivaren och berörd arbetstagarorganisation att omedelbart
+        taga upp överläggning med anledning av stridsåtgärden och att gemensamt verka
+        för dess upphörande.
+      en:
+        Where an unlawful industrial action has been taken by employees who are bound
+        by a collective bargaining agreement, the employer and the employees' organisation
+        concerned shall be obligated to immediately enter into discussions as a consequence
+        of the industrial action and to jointly work for its cessation.
+    section: "43"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv: Första stycket gäller lokal arbetstagarorganisation, om sådan finns.
+      en:
+        The first paragraph shall apply to a local employees’ organisation, where
+        there is such an organisation.
+    section: "43"
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 44 §
+      en: Section 44
+    section: "44"
+    slug: section-44
+  - type: paragraph_text
+    text:
+      sv:
+        Om en part vid en förhandling om kollektivavtal har begärt att en fråga som
+        avses i 32 § ska regleras i avtalet eller i ett särskilt avtal, men frågan inte
+        har blivit uttryckligt reglerad när avtalet sluts, ska frågan inte till följd
+        av det slutna avtalet anses omfattad av fredsplikt enligt 41 § vid en senare
+        förhandling om reglering av frågan i ett särskilt avtal.
+      en:
+        If a party to negotiations on a collective agreement has requested that a
+        matter referred to in Section 32 be regulated under the agreement or in a separate
+        agreement, but the matter has not been expressly regulated when the agreement
+        is concluded, the matter will not, based on the concluded agreement, be considered
+        subject to the obligation to maintain industrial peace under Section 41 during
+        subsequent negotiations on the regulation of the matter in a separate agreement.
+    section: "44"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Första stycket ska inte tillämpas om det slutna kollektivavtalet har tillkommit
+        efter en stridsåtgärd mot en kollektivavtalsbunden arbetsgivare i en sådan situation
+        som avses i 41 d §. Lag (2019:503).
+      en:
+        The first paragraph does not apply if the concluded collective agreement came
+        about following industrial action against an employer bound by collective agreement
+        in a situation referred to in Section 41d. (SFS 2019:503)
+    section: "44"
+    paragraph: "2"
+  - type: group_heading
+    text:
+      sv: Varsel
+      en: Notice
+  - type: section_heading
+    text:
+      sv: 45 §
+      en: Section 45
+    section: "45"
+    slug: section-45
+  - type: paragraph_text
+    text:
+      sv: |-
+        När en arbetsgivarorganisation, arbetsgivare eller arbetstagarorganisation avser att vidta en stridsåtgärd eller att utvidga en pågående stridsåtgärd, skall den skriftligen varsla motparten och Medlingsinstitutet minst sju arbetsdagar i förväg. Som arbetsdag räknas varje dag utom lördag, söndag, annan allmän helgdag, midsommarafton, julafton och nyårsafton.
+        Tidsfristen skall räknas från samma tidpunkt på dagen som den då stridsåtgärden skall inledas.
+      en:
+        When an employers’ organisation or an employers’ organisation intends to implement
+        industrial action or to extend pending industrial action, it shall give written
+        notice to the other party and the National Mediation Office at least seven working
+        days in advance. Working day means every day except Saturday, Sunday, other
+        public holiday, Midsummer Eve, Christmas Eve and New Years Eve. The period of
+        notice shall be computed from the same time of the day that the industrial action
+        will commence.
+    section: "45"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Omfattar en stridsåtgärd från arbetsgivarsidan även arbetstagare som inte
+        är medlemmar i berörd arbetstagarorganisation, bör de varslas genom allmänt
+        synliga anslag på arbetsplatsen eller på annat lämpligt sätt.
+      en:
+        If industrial action on the part of the employer’s side also applies to employees
+        who are not members of the employees’ organisation involved, they should be
+        given notice by a publicly displayed notice at the workplace or in another suitable
+        manner.
+    section: "45"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Varselskyldigheten gäller inte om det finns giltigt hinder mot att varsla.
+        Skyldighet att varsla finns inte i fråga om stridsåtgärd som avses i 41 § tredje
+        stycket.
+      en:
+        The obligation to give notice does not apply if there is a valid impediment
+        to giving notice. There is no obligation to give notice with respect to industrial
+        actions that are referred to in Section 41, third paragraph.
+    section: "45"
+    paragraph: "3"
+  - type: paragraph_text
+    text:
+      sv:
+        Varsel enligt första och andra styckena skall innehålla uppgift om anledningen
+        till stridsåtgärden och om stridsåtgärdens omfattning. Lag (2000:163).
+      en:
+        Notice under the first and second paragraphs shall contain information of
+        the reason for the industrial action and the scope of the industrial action.
+        (SFS 2000:163)
+    section: "45"
+    paragraph: "4"
+  - type: group_heading
+    text:
+      sv: Medling
+      en: Mediation
+  - type: section_heading
+    text:
+      sv: 46 §
+      en: Section 46
+    section: "46"
+    slug: section-46
+  - type: paragraph_text
+    text:
+      sv:
+        För medling i arbetstvister mellan å ena sidan en arbetsgivare eller arbetsgivarorganisation
+        och å andra sidan en arbetstagarorganisation finns Medlingsinstitutet. Institutet
+        ska verka för en väl fungerande lönebildning. Lag (2013:615).
+      en:
+        The National Mediation Office exists to mediate in industrial disputes between
+        an employer or employers’ organisation and an employees’ organisation. The Office
+        is also required to promote effective wage formation. (SFS 2013:615)
+    section: "46"
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 47 §
+      en: Section 47
+    section: "47"
+    slug: section-47
+  - type: paragraph_text
+    text:
+      sv:
+        Medlingsinstitutet skall genom överläggningar med parter eller på annat sätt
+        informera sig om kommande eller pågående avtalsförhandlingar.
+      en:
+        The National Mediation Office shall by discussions with the parties or by
+        other means inform itself about forthcoming or pending agreement negotiations
+    section: "47"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Institutet skall också ge råd och upplysningar till parterna på arbetsmarknaden
+        om förhandlingar och kollektivavtal.
+      en:
+        The Office shall also provide advice and information to the parties on the
+        labour market concerning negotiations and collective bargaining agreements.
+    section: "47"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        En part som träffat kollektivavtal om löner och allmänna anställningsvillkor
+        skall på begäran ge in en kopia av avtalet till Medlingsinstitutet. Lag (2000:163).
+      en:
+        A party that has concluded a collective bargaining agreement concerning pay
+        and general conditions of employment shall upon request submit a copy of the
+        agreement to the National Mediation Office. (SFS 2000:163)
+    section: "47"
+    paragraph: "3"
+  - type: section_heading
+    text:
+      sv: 47 a §
+      en: Section 47a
+    section: 47a
+    slug: section-47a
+  - type: paragraph_text
+    text:
+      sv:
+        Efter samtycke från parter som förhandlar om kollektivavtal kan Medlingsinstitutet
+        utse en eller flera förhandlingsledare eller medlare. Lag (2000:163).
+      en:
+        Subject to the consent of the parties that are negotiating on a collective
+        labour market agreement, the National Mediation Office may appoint one or more
+        negotiation leaders or mediators. (SFS 2000:163)
+    section: 47a
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 47 b §
+      en: Section 47b
+    section: 47b
+    slug: section-47b
+  - type: paragraph_text
+    text:
+      sv:
+        Om Medlingsinstitutet bedömer att det i en tvist finns risk för stridsåtgärder
+        eller om stridsåtgärder redan har påbörjats, får institutet även utan samtycke
+        från parterna utse en eller flera medlare för att medla i tvisten.
+      en:
+        If the National Mediation Office considers that, in a dispute, there is a
+        risk for industrial actions or if industrial actions have already been commenced,
+        the Office may also without the consent of the parties appoint one or more mediators
+        to mediate in the dispute.
+    section: 47b
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv: Medlingsinstitutets beslut enligt första stycket får inte överklagas.
+      en:
+        A decision by the National Mediation Office under the first paragraph may
+        not be appealed against.
+    section: 47b
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Parter som är ense om att de är bundna av ett avtal om förhandlingsordning
+        som innehåller tidsplaner för förhandlingar, tidsramar och regler för tillsättning
+        av medlare, regler om medlarens befogenheter och regler om uppsägning av avtalet
+        kan anmäla avtalet till Medlingsinstitutet för registrering. När avtalet har
+        registrerats, får under dess giltighetstid medlare inte utses utan samtycke
+        från parterna. Lag (2000:163).
+      en:
+        Parties who are agreed that they are bound by an agreement concerning negotiation
+        arrangements that contain time schedules for negotiations, time frameworks and
+        rules for appointment of a mediator, rules concerning the powers of the mediator
+        and rules concerning notice of termination of the agreement, may give notice
+        of the agreement to the National Mediation Office for registration. When the
+        agreement has been registered, a mediator may not be appointed without the consent
+        of the parties during the term of the agreement. (SFS 2000:163)
+    section: 47b
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 48 §
+      en: Section 48
+    section: "48"
+    slug: section-48
+  - type: paragraph_text
+    text:
+      sv:
+        En medlare som utsetts av Medlingsinstitutet skall försöka få till stånd en
+        överenskommelse mellan parterna. Medlaren skall för det ändamålet kalla parterna
+        till förhandling eller vidta annan lämplig åtgärd. För att främja en god lösning
+        av tvisten, kan medlaren lägga fram egna förslag till överenskommelse.
+      en:
+        A mediator who has been appointed by the National Mediation Office shall endeavour
+        to establish an agreement between the parties. A mediator shall for this purpose
+        summon the parties to negotiations or implement other appropriate measures.
+        In order to promote a favourable resolution of the dispute, the mediator may
+        submit his or her own proposals for agreement.
+    section: "48"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Medlaren skall också verka för att en part uppskjuter eller inställer en stridsåtgärd.
+        Lag (2000:163).
+      en:
+        The mediator shall also work to ensure that a party postpones or cancels industrial
+        action. (SFS 2000:163)
+    section: "48"
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 49 §
+      en: Section 49
+    section: "49"
+    slug: section-49
+  - type: paragraph_text
+    text:
+      sv:
+        Om det främjar en god lösning av tvisten, får Medlingsinstitutet på medlarens
+        begäran besluta att en part skall skjuta upp varslade stridsåtgärder under en
+        sammanhängande tid av högst 14 dagar för varje stridsåtgärd eller utvidgning
+        av en stridsåtgärd. Ett sådant beslut får meddelas endast en gång för varje
+        medlingsuppdrag. Tidsfristen skall räknas från den dag då åtgärden enligt varselmeddelandet
+        skall påbörjas eller utvidgas. Beslutet skall om möjligt föregås av samråd med
+        parterna.
+      en:
+        If it promotes a good resolution of the dispute, the National Mediation Office
+        may at the request of the mediator decide that a party shall postpone industrial
+        action for which notice has been given for a consecutive period of at most 14
+        days for each industrial action or extension of an industrial action. Such a
+        decision may only be issued once for each mediation assignment. This time limit
+        shall be computed from the date when the action, according to the notification,
+        shall be commenced or extended. The decision shall if possible be preceded by
+        consultation with the parties.
+    section: "49"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Medlingsinstitutets beslut enligt första stycket får inte överklagas. Lag
+        (2000:163).
+      en:
+        The decision of the National Mediation Office under the first paragraph may
+        not be appealed against. (SFS 2000:163)
+    section: "49"
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 50 §
+      en: Section 50
+    section: "50"
+    slug: section-50
+  - type: paragraph_text
+    text:
+      sv: |-
+        En parts skyldighet enligt 18 § att vid förhandling hålla skriftlig handling tillgänglig för motparten gäller även i förhållande till en medlare som medverkar vid förhandlingen.
+        Lag (2000:163).
+      en:
+        A party's obligation under Section 18 to make available to the other party
+        any written document in the course of negotiations shall also apply in relation
+        to a mediator who is participating in negotiations. (SFS 2000:163)
+    section: "50"
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 51 §
+      en: Section 51
+    section: "51"
+    slug: section-51
+  - type: paragraph_text
+    text:
+      sv: En medlare kan föreslå parterna att låta en tvist avgöras genom skiljeförfarande.
+      en:
+        A mediator may propose that the parties submit the dispute for determination
+        by arbitration.
+    section: "51"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv: Medlingsinstitutet kan medverka vid utseende av skiljemän.
+      en: The National Mediation Office may assist in the appointment of arbitrators.
+    section: "51"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Om stridsåtgärder har påbörjats, kan Medlingsinstitutet uppmana parterna att
+        låta tvisten avgöras genom skiljeförfarande.
+      en:
+        If industrial action has been commenced, the National Mediation Office may
+        urge the parties to submit the dispute for determination by arbitration.
+    section: "51"
+    paragraph: "3"
+  - type: paragraph_text
+    text:
+      sv: |-
+        En medlare får inte åta sig skiljemannauppdrag i arbetstvist, om inte Medlingsinstitutet i särskilt fall medger det.
+        Lag (2000:163).
+      en:
+        A mediator may not accept an appointment as an arbitrator in an industrial
+        dispute, unless the National Mediation Office permits this in a specific case.
+        (SFS 2000:163)
+    section: "51"
+    paragraph: "4"
+  - type: section_heading
+    text:
+      sv: 52 §
+      en: Section 52
+    section: "52"
+    slug: section-52
+  - type: paragraph_text
+    text:
+      sv:
+        Om en part har kallats till en överläggning enligt 47 § första stycket och
+        inte infinner sig, kan Medlingsinstitutet förelägga parten vid vite att komma
+        till en överläggning.
+      en:
+        If a party has been summoned to discussions under Section 47, first paragraph,
+        and does not attend, the National Mediation Office may order the party, subject
+        to a default fine, to attend discussions.
+    section: "52"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Om en part, som enligt 10 § är förhandlingsskyldig, har kallats till en förhandling
+        inför medlare men inte infinner sig eller om parten på annat sätt underlåter
+        att fullgöra sina skyldigheter enligt 15 § första stycket, kan Medlingsinstitutet
+        på begäran av medlaren förelägga parten vid vite att fullgöra sin förhandlingsskyldighet.
+      en:
+        If a party who under Section 10 is obligated to negotiate, has been summoned
+        to a negotiation before the mediator but does not attend or if the party in
+        some other way fails to fulfil her/his/its obligations under Section 15, first
+        paragraph, the National Mediation Office may at the request of the mediator
+        order the party, subject to a default fine, to fulfil such negotiation obligation.
+    section: "52"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv: Medlingsinstitutets beslut enligt första och andra styckena får inte överklagas.
+      en:
+        A decision by the National Mediation Office under the first and second paragraphs
+        may not be appealed against.
+    section: "52"
+    paragraph: "3"
+  - type: paragraph_text
+    text:
+      sv:
+        Talan om utdömande av vite förs av Medlingsinstitutet vid Arbetsdomstolen.
+        I mål om utdömande av vite får Arbetsdomstolen bedöma även vitets lämplighet.
+        Lag (2000:163).
+      en:
+        Actions concerning the judicial confirmation of default fines are brought
+        by the National Mediation Office at the Labour Court. In cases concerning the
+        confirmation of a default fine, the Labour Court may also assess the reasonableness
+        of the default fine. (SFS 2000:163)
+    section: "52"
+    paragraph: "4"
+  - type: section_heading
+    text:
+      sv: 53 §
+      en: Section 53
+    section: "53"
+    slug: section-53
+  - type: paragraph_text
+    text:
+      sv:
+        Om en part underlåter att fullgöra sin skyldighet enligt 47 § tredje stycket
+        att ge in en kopia av ett kollektivavtal, kan Medlingsinstitutet förelägga parten
+        vid vite att ge in kopian.
+      en:
+        If a party fails to fulfil its/her/his obligation under Section 47, third
+        paragraph, to submit a copy of a collective bargaining agreement, the National
+        Mediation Office may order the party, subject to a default fine, to submit a
+        copy.
+    section: "53"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv: Medlingsinstitutets beslut enligt första stycket får inte överklagas.
+      en:
+        A decision of the National Mediation Office under the first paragraph may
+        not be appealed against.
+    section: "53"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Talan om utdömande av vite förs av Medlingsinstitutet vid Arbetsdomstolen.
+        I mål om utdömande av vite får Arbetsdomstolen bedöma även vitets lämplighet.
+        Lag (2000:163).
+      en:
+        An action concerning the judicial confirmation of a default fine is brought
+        by the National Mediation Office at the Labour Court. In cases concerning the
+        confirmation of a default fine, the Labour Court may also assess the reasonableness
+        of the default fine. (SFS 2000:163)
+    section: "53"
+    paragraph: "3"
+  - type: group_heading
+    text:
+      sv: Skadestånd och andra påföljder
+      en: Damages and other sanctions
+  - type: section_heading
+    text:
+      sv: 54 §
+      en: Section 54
+    section: "54"
+    slug: section-54
+  - type: paragraph_text
+    text:
+      sv:
+        Arbetsgivare, arbetstagare och organisation som bryter mot denna lag eller
+        mot kollektivavtal skall ersätta uppkommen skada, om ej annat följer av vad
+        nedan sägs.
+      en:
+        Unless otherwise provided below, an employer, an employee, or an organisation
+        in breach of this Act or a collective bargaining agreement shall pay compensation
+        for any loss that is incurred.
+    section: "54"
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 55 §
+      en: Section 55
+    section: "55"
+    slug: section-55
+  - type: paragraph_text
+    text:
+      sv:
+        Vid bedömande om och i vad mån skada har uppkommit för någon skall hänsyn
+        tagas även till dennes intresse av att lagens eller kollektivavtalets bestämmelser
+        iakttages och till övriga omständigheter av annan än rent ekonomisk betydelse.
+      en:
+        In assessing whether, and to what extent, a person has suffered loss, consideration
+        shall also be given to such person's interest in compliance with statutory provisions
+        or provisions in the collective bargaining agreement and to factors other than
+        those of purely economic significance.
+    section: "55"
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 56 §
+      en: Section 56
+    section: "56"
+    slug: section-56
+  - type: paragraph_text
+    text:
+      sv:
+        Bryter arbetsgivare eller arbetstagare mot tystnadsplikt som avses i denna
+        lag eller utnyttjar han obehörigen vad han under sådan tystnadsplikt har fått
+        kännedom om, skall han ersätta uppkommen skada.
+      en:
+        Where an employer or an employee breaches a duty of confidentiality that is
+        referred to in this Act or improperly makes use of any information obtained
+        that is subject to such duty of confidentiality, it/he/she shall pay compensation
+        for any loss that is incurred.
+    section: "56"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Om någon som företräder arbetsgivare eller organisation gör sig skyldig till
+        handling som avses i första stycket, svarar arbetsgivaren eller organisationen
+        för skadan.
+      en:
+        Where any representative of an employer or an organisation commits an act
+        referred to in the first paragraph, the employer or the organisation shall be
+        liable for any loss incurred.
+    section: "56"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        I fall som avses i denna paragraf skall ej följa ansvar enligt 20 kap. 3 §
+        brottsbalken.
+      en:
+        No liability under Chapter 20, Section 3 of the Penal Code shall be incurred
+        in cases referred to in this Section.
+    section: "56"
+    paragraph: "3"
+  - type: section_heading
+    text:
+      sv: 57 §
+      en: Section 57
+    section: "57"
+    slug: section-57
+  - type: paragraph_text
+    text:
+      sv:
+        Arbetstagarorganisation skall ersätta uppkommen skada, om den i tvist som
+        avses i 33 eller 34 § har föranlett eller godkänt felaktig tillämpning av avtal
+        eller av denna lag och organisationen har saknat fog för sin ståndpunkt i tvisten.
+        Detsamma gäller om organisationen har saknat fog för förklaring enligt 39 §.
+      en:
+        An employees’ organisation shall pay compensation for loss incurred where,
+        in a dispute referred to in Section 33 or 34, such organisation has caused or
+        approved the wrongful application of an agreement or of this Act and where the
+        organisation has no grounds for its position in the dispute. This shall also
+        apply where such organisation does not have grounds for a declaration under
+        Section 39.
+    section: "57"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Arbetstagarorganisation svarar vidare för skada, som tillfogas arbetsgivaren
+        genom att företrädare för organisationen i förhållande till honom missbrukar
+        sin ställning som ledamot i särskilt genom avtal inrättat beslutsorgan eller
+        i sådan ställning förfar grovt vårdslöst. Lag (1994:1686).
+      en:
+        The employees’ organisation will also be liable for damage suffered by the
+        employer as a result of the abuse, in relation to him, by a representative of
+        the organisation of his position as a member of a special decision-making body
+        established by agreement or where such person acts with gross negligence in
+        such a position. (SFS 1994:1686)
+    section: "57"
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 58 §
+      en: Section 58
+    section: "58"
+    slug: section-58
+  - type: paragraph_text
+    text:
+      sv:
+        Har arbetsgivare utan fog utkrävt arbete enligt 34 § andra stycket utan att
+        sådana synnerliga skäl som där avses har förelegat, skall han ersätta uppkommen
+        skada.
+      en:
+        An employer who, without grounds, has demanded work under the second paragraph
+        of Section 34, in the absence of extraordinary reasons as referred to therein,
+        shall pay compensation for any loss incurred.
+    section: "58"
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 59 §
+      en: Section 59
+    section: "59"
+    slug: section-59
+  - type: paragraph_text
+    text:
+      sv:
+        Har organisation, som är bunden av kollektivavtal, eller överordnad organisation
+        anordnat eller föranlett olovlig stridsåtgärd, kan skadestånd ej åläggas enskild
+        arbetsgivare eller arbetstagare för att han har deltagit i åtgärden.
+      en:
+        Where an organisation bound by a collective bargaining agreement, or a parent
+        organisation to which such organisation is affiliated, has organised or occasioned
+        unlawful industrial action, damages may not be awarded against an individual
+        employer or employee as a consequence of his participation in such action.
+    section: "59"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Skadestånd kan icke åläggas arbetstagare, om han med sin organisations godkännande
+        har vägrat att utföra arbete som arbetsgivaren har krävt enligt 34 § andra stycket.
+      en:
+        Damages may not be awarded against an employee where, with the approval of
+        his organisation, he has refused to perform work that the employer has demanded
+        under Section 34, second paragraph.
+    section: "59"
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 60 §
+      en: Section 60
+    section: "60"
+    slug: section-60
+  - type: paragraph_text
+    text:
+      sv: Om det är skäligt kan skadestånd sättas ned eller helt falla bort.
+      en:
+        Damages may be reduced or waived entirely where such is reasonable under the
+        circumstances.
+    section: "60"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Vid bedömande enligt första stycket av arbetstagares skadeståndsskyldighet
+        för deltagande i olovlig stridsåtgärd skall särskild hänsyn tas till omständigheter,
+        som har framkommit vid överläggning enligt 43 §, och verkningarna av överläggningen.
+      en:
+        In assessing an employee's liability for damages under the first paragraph
+        above for taking part in an unlawful industrial action, special consideration
+        shall be given to circumstances disclosed during discussions under Section 43
+        and to the results of such discussions.
+    section: "60"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        I mål om skadestånd för arbetstagares deltagande i en olovlig stridsåtgärd
+        skall domstolen, om arbetskonflikten ännu pågår och om domstolen finner den
+        olovlig, så snart som möjligt ålägga arbetstagarna att återgå till arbetet.
+        Lag (1992:440).
+      en:
+        In proceedings concerning damages for employee participation in an unlawful
+        industrial action, provided the dispute is still pending and the Court considers
+        it to be unlawful, the Court shall, as soon as possible, order the employees
+        to return to work. (SFS 1992:440)
+    section: "60"
+    paragraph: "3"
+  - type: section_heading
+    text:
+      sv: 61 §
+      en: Section 61
+    section: "61"
+    slug: section-61
+  - type: paragraph_text
+    text:
+      sv:
+        Är flera ansvariga för skada, skall skadeståndsskyldigheten fördelas mellan
+        dem efter vad som är skäligt med hänsyn till omständigheterna.
+      en:
+        Where several persons are responsible for losses, liability for damages shall
+        be divided amongst them according to that which is reasonable having regard
+        to the circumstances.
+    section: "61"
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 62 §
+      en: Section 62
+    section: "62"
+    slug: section-62
+  - type: paragraph_text
+    text:
+      sv:
+        Kan enligt denna lag skadestånd följa på åtgärd eller underlåtenhet av arbetstagare,
+        får annan påföljd icke åläggas arbetstagaren utan stöd i författning eller kollektivavtal.
+        Detsamma gäller i fall när av 56 § andra stycket eller 59 § följer, att arbetstagare
+        icke kan åläggas skadestånd.
+      en:
+        Where damages may be payable under this Act due to an act or omission by an
+        employee, no other sanction may be invoked against such employee unless provided
+        for by statute or by a collective bargaining agreement. The above-mentioned
+        provision shall also apply in circumstances where no damages may be awarded
+        against an employee by reason of Section 56, second paragraph, or Section 59.
+    section: "62"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Är annan påföljd än skadestånd föreskriven i kollektivavtal, får den utan
+        hinder av första stycket tillämpas även på arbetstagare som ej är medlem av
+        den avtalsslutande arbetstagarorganisationen men sysselsätts i sådant arbete
+        som avses med avtalet.
+      en:
+        Notwithstanding the first paragraph, where a collective bargaining agreement
+        provides for a sanction other than damages, such sanction may also be applied
+        to an employee who is not a member of the employees' organisation that entered
+        into the agreement but who is engaged in the type of work referred to in that
+        agreement.
+    section: "62"
+    paragraph: "2"
+  - type: group_heading
+    text:
+      sv: Varselavgift
+      en: Notification sanction charge
+  - type: section_heading
+    text:
+      sv: 62 a §
+      en: Section 62a
+    section: 62a
+    slug: section-62a
+  - type: paragraph_text
+    text:
+      sv: |-
+        Den som underlåter att varsla Medlingsinstitutet enligt 45 § skall åläggas att betala en varselavgift till staten.
+        Varselavgiften skall bestämmas till lägst 30 000 kr och högst 100 000 kr. Om det finns särskilda skäl kan varselavgiften bestämmas till ett lägre belopp eller helt falla bort.
+      en:
+        A person who fails to notify the National Mediation Office in accordance with
+        Section 45, shall be ordered to pay a notification sanction charge to the State.
+        The notification sanction charge shall be fixed to at least 30,000 kronor and
+        at most 100,000 kronor. If there are special reasons, the notification sanction
+        charge may be determined at a lower amount or be waived entirely.
+    section: 62a
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Den som vidtar en stridsåtgärd i strid mot Medlingsinstitutets beslut enligt
+        49 § att en varslad stridsåtgärd skall skjutas upp skall åläggas att betala
+        en förhöjd varselavgift om minst 300 000 kr och högst 1 000 000 kr till staten.
+        Om det finns särskilda skäl kan varselavgiften bestämmas till ett lägre belopp
+        eller helt falla bort.
+      en:
+        A person who implements industrial action in violation of the decision of
+        the National Mediation Office under Section 49 that industrial action notified
+        should be postponed, shall be ordered to pay an increased notification sanction
+        charge of at least 30,000 kronor and at most 1 million kronor to the State.
+        If there are special reasons, the notification sanction charge may be determined
+        to be a lower amount or be waived entirely.
+    section: 62a
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Varselavgiften åläggs av tingsrätt på talan av Medlingsinstitutet. Talan skall
+        väckas inom ett år från den dag varsel skulle ha lämnats eller, när det gäller
+        förhöjd varselavgift enligt andra stycket, den dag då stridsåtgärden vidtogs.
+        Försummas det får talan inte väckas. Lag (2000:163).
+      en:
+        The notification sanction charge is imposed by the district court on the action
+        of the National Mediation Office. The action shall be instituted within one
+        year from the date when the notification should have been given or, as regards
+        the increased notification sanction charge under the second paragraph, on the
+        date when the industrial action was implemented. Failing this, an action may
+        not be instituted. (SFS 2000:163)
+    section: 62a
+    paragraph: "3"
+  - type: group_heading
+    text:
+      sv: Tvisteförhandling och rättegång
+      en: Dispute negotiations and judicial proceedings
+  - type: section_heading
+    text:
+      sv: 63 §
+      en: Section 63
+    section: "63"
+    slug: section-63
+  - type: paragraph_text
+    text:
+      sv:
+        I mål, vari denna lag skall tillämpas, gäller lagen (1974:371) om rätttegången
+        i arbetstvister.
+      en:
+        The Labour Disputes (Judicial Procedure) Act (1974:371) shall apply to actions
+        in which this Act shall be applied.
+    section: "63"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        I fråga om mål enligt 62 a § tillämpas för rättegången vad som är föreskrivet
+        om tvistemål där förlikning om saken inte är tillåten. Överklagande av tingsrättens
+        avgörande sker till Arbetsdomstolen. I sådant fall tillämpas lagen om rättegången
+        i arbetstvister med beaktande av första meningen i detta stycke.
+      en:
+        That prescribed for contentious civil cases, where settlement of the matter
+        is not allowed, shall apply in matters concerning cases under Section 62a. Appeal
+        against a determination by a district court is made to the Labour Court. In
+        such cases the Labour Disputes (Judicial Procedure) Act shall apply subject
+        to that stated in the first sentence of this paragraph.
+    section: "63"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        I fråga om mål om utdömande av vite enligt 52 § fjärde stycket och 53 § tredje
+        stycket gäller vad som i 8 § lagen (1985:206) om viten föreskrivs om allmän
+        domstols handläggning av mål om vitets utdömande. Lag (2000:163).
+      en:
+        The provisions of Section 8 of the Default Fines Act (1985:206) concerning
+        the procedure for cases concerning the judicial confirmation of default fines
+        shall apply to cases concerning confirmation of default fines under Section
+        52, fourth paragraph and Section 53, third paragraph. (SFS 2000:163)
+    section: "63"
+    paragraph: "3"
+  - type: section_heading
+    text:
+      sv: 64 §
+      en: Section 64
+    section: "64"
+    slug: section-64
+  - type: paragraph_text
+    text:
+      sv:
+        Vill någon som har förhandlingsrätt enligt 10 § yrka skadestånd eller annan
+        fullgörelse enligt denna lag eller kollektivavtal, skall han påkalla förhandling
+        inom fyra månader efter det att han har fått kännedom om den omständighet vartill
+        yrkandet hänför sig och senast inom två år efter det att omständigheten har
+        inträffat. Skall enligt föreskrift i kollektivavtal förhandling äga rum både
+        lokalt och centralt, gäller vad som nu har sagts den lokala förhandlingen. Central
+        förhandling skall i sådant fall påkallas inom två månader efter det att den
+        lokala förhandlingen har avslutats.
+      en:
+        Any person who possesses a right of negotiation under Section 10 and who wishes
+        to claim damages or any other remedy under this Act or a collective bargaining
+        agreement, shall call for negotiations within four months of becoming aware
+        of the circumstances to which the claim relates and not later than two years
+        after the occurrence of such circumstances. Where negotiations are to take place
+        both locally and centrally under a collective bargaining agreement, the above-mentioned
+        provision shall apply to the local negotiations. In such a case, central negotiations
+        shall be called for within two months of the conclusion of the local negotiations.
+    section: "64"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Första stycket äger motsvarande tillämpning, när part som avses där vill vinna
+        förklaring att rättshandling eller avtalsbestämmelse är ogiltig av det skälet
+        att den innebär kränkning av föreningsrätten.
+      en:
+        The first paragraph shall apply mutatis mutandis where a party referred to
+        therein seeks a declaratory judgment that a legal act or a provision in an agreement
+        is invalid by reason that it constitutes a violation of the right of association.
+    section: "64"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Påkallar part ej förhandling inom föreskriven tid, förlorar han rätten till
+        förhandling.
+      en:
+        Where a party fails to call for negotiations within the time specified, he
+        shall forfeit his right to negotiations.
+    section: "64"
+    paragraph: "3"
+  - type: section_heading
+    text:
+      sv: 65 §
+      en: Section 65
+    section: "65"
+    slug: section-65
+  - type: paragraph_text
+    text:
+      sv:
+        Talan i fall som avses i 64 § skall väckas inom tre månader efter det att
+        förhandling har avslutats. När både lokal och central förhandling har ägt rum,
+        räknas tiden från det att den centrala förhandlingen har avslutats. Har mot
+        förhandling förelegat hinder som ej har berott av käranden, räknas tiden från
+        det att förhandling senast skulle ha hållits.
+      en:
+        Actions in cases referred to in Section 64 shall be brought within three months
+        of the conclusion of negotiations. Where both local and central negotiations
+        have taken place, such period shall be calculated from the time at which the
+        central negotiations were concluded. Where there have been obstacles to negotiations
+        that are not attributable to the plaintiff, the period shall be calculated from
+        the latest time at which negotiations should have been held.
+    section: "65"
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 66 §
+      en: Section 66
+    section: "66"
+    slug: section-66
+  - type: paragraph_text
+    text:
+      sv:
+        Har organisation ej iakttagit föreskriven tid för förhandling eller väckande
+        av talan, får den som är eller har varit medlem i organisationen och som beröres
+        av tvisten väcka talan inom en månad efter det att tiden har löpt ut. Skall
+        enligt 4 kap. 7 § lagen (1974:371) om rättegången i arbetstvister talan föregås
+        av förhandling men har sådan ej ägt rum, gäller vad som nu har sagts i stället
+        rätt att påkalla förhandling. Talan skall i sådant fall väckas inom tid som
+        anges i 65 §.
+      en:
+        Where an organisation has failed to observe the time prescribed for negotiations
+        or for commencing an action, any person who is or has been a member of that
+        organisation and who is affected by the dispute may bring an action within one
+        month of the expiry of that time. Where, under Chapter 4, Section 7 of the Labour
+        Disputes (Judicial Procedure) Act (1974:371), the commencement of such action
+        is to be preceded by negotiations but such negotiations have not taken place,
+        that prescribed here shall apply as regards the right to call for negotiations.
+        In such cases, the action shall be brought within the time prescribed in Section
+        65.
+    section: "66"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        I tvist, vari arbetstagare ej kan företrädas av organisation, skall han väcka
+        talan inom fyra månader efter det att han fått kännedom om den omständighet
+        vartill yrkandet hänför sig och senast inom två år efter det att omständigheten
+        har inträffat.
+      en:
+        In any dispute in which an employee cannot be represented by an organisation,
+        he shall commence an action within four months of becoming aware of the circumstances
+        to which that claim relates, and not later than two years after the occurrence
+        of such circumstances.
+    section: "66"
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 67 §
+      en: Section 67
+    section: "67"
+    slug: section-67
+  - type: paragraph_text
+    text:
+      sv:
+        Talan om skadestånd eller annan fullgörelse med anledning av olovlig stridsåtgärd
+        får ej i något fall väckas senare än tre månader efter det att stridsåtgärden
+        har avslutats.
+      en:
+        A claim for damages or any other remedy arising out of an unlawful industrial
+        action may not be brought in any case later than three months after the termination
+        of such industrial action
+    section: "67"
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 68 §
+      en: Section 68
+    section: "68"
+    slug: section-68
+  - type: paragraph_text
+    text:
+      sv: Väcker part ej talan inom föreskriven tid, förlorar han rätten till talan.
+      en:
+        A party who fails to commence an action within the time prescribed shall forfeit
+        his right to such action.
+    section: "68"
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 69 §
+      en: Section 69
+    section: "69"
+    slug: section-69
+  - type: paragraph_text
+    text:
+      sv:
+        Föreskrifterna i 33--35 och 39 §§ utgör inte hinder mot beslut enligt 15 kap.
+        rättegångsbalken. Lag (1994:1686).
+      en:
+        The provisions of Sections 33 - 35 and 39 do not constitute any impediment
+        to decisions under Chapter 15 of the Code of Judicial Procedure. (SFS 1994:1686)
+    section: "69"
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 70 §
+      en: Section 70
+    section: "70"
+    slug: section-70
+  - type: paragraph_text
+    text:
+      sv: har upphävts genom lag (1980:238).
+      en: Repealed (SFS 1980:238).
+    section: "70"
+    paragraph: "1"

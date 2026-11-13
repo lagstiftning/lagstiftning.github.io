@@ -1,0 +1,2575 @@
+name:
+  sv: "Lagen om anställningsskydd"
+  en: "The Swedish Employment Protection Act"
+abbreviation: LAS
+code: 2022:836
+elements:
+  - type: document_heading
+    text:
+      sv: Lag (1982:80) om anställningsskydd
+      en: Employment Protection Act (1982:80)
+  - type: group_heading
+    text:
+      sv: Inledande bestämmelser
+      en: Introductory provisions
+  - type: section_heading
+    text:
+      sv: 1 §
+      en: Section 1
+    section: "1"
+    slug: section-1
+  - type: paragraph_text
+    text:
+      sv: Denna lag gäller arbetstagare i allmän eller enskild tjänst.
+      en: This Act applies to employees in the public or private sector.
+    section: "1"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv: |-
+        Från lagens tillämpning undantas dock
+
+        1. arbetstagare som är anställda för arbete i arbetsgivarens hushåll, och
+        2. arbetstagare som är anställda i gymnasial lärlingsanställning.
+      en: |-
+        However, the following employees are exempt from this Act:
+
+        1. employees who are employed to work in their employer’s household; and
+        2. employees who are employed in upper secondary apprentice employment.
+    section: "1"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv: |-
+        Bestämmelserna i 4-6 b, 6 f, 6 g, 7-20, 22-37, 39 och 40 §§ gäller inte för
+
+        1. arbetstagare som med hänsyn till arbetsuppgifter och anställningsvillkor får anses ha företagsledande eller därmed jämförlig ställning,
+        2. arbetstagare som tillhör arbetsgivarens familj, och
+        3. arbetstagare som är anställda med särskilt anställningsstöd, i skyddat arbete eller med lönebidrag för utveckling i anställning. Lag (2022:448).
+      en: |-
+        The provisions of Sections 4–6b, 6f, 6g, 7–20, 22–37, 39 and 40 do not apply to the following employees:
+
+        1. employees whose duties and conditions of employment are such that they may be deemed to occupy an executive or comparable position;
+        2. employees who are members of the employer’s family, and
+        3. employees who are employed through special employment support, in sheltered employment or with wage subsidies for development in employment. (SFS 2022:448)
+    section: "1"
+    paragraph: "3"
+  - type: section_heading
+    text:
+      sv: 2 §
+      en: Section 2
+    section: "2"
+    slug: section-2
+  - type: paragraph_text
+    text:
+      sv:
+        Om det i en annan lag eller i en förordning som har meddelats med stöd av
+        en lag finns särskilda föreskrifter som avviker från denna lag, ska dessa föreskrifter
+        gälla. Lag (2022:835).
+      en:
+        If another act or an ordinance issued pursuant to an act contains special
+        provisions that differ from this Act, those provisions shall apply. (SFS 2022:835)
+    section: "2"
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 2 a §
+      en: Section 2a
+    section: 2a
+    slug: section-2a
+  - type: paragraph_text
+    text:
+      sv: |-
+        Ett avtal är ogiltigt i den mån det
+
+        1. upphäver eller inskränker arbetstagarnas rättigheter enligt denna lag, om inte något annat följer av 2 b §, eller
+        2. avviker från 7 § första eller andra stycket, om inte något annat följer av 2 c §. Lag (2022:835).
+      en: |-
+        An agreement is invalid to the extent that it:
+
+        1. revokes or limits employee rights under this Act unless otherwise follows from Section 2b,; or
+        2. deviates from Section 7, first or second paragraph, unless otherwise follows from Section 2c. (SFS 2022:835)
+    section: 2a
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 2 b §
+      en: Section 2b
+    section: 2b
+    slug: section-2b
+  - type: paragraph_text
+    text:
+      sv:
+        Genom ett kollektivavtal får det göras avvikelser från 5 och 5 a §§, 6 § andra
+        och tredje styckena, 7 a, 7 b, 22, 25-27 och 33 d §§. Om avtalet inte har slutits
+        eller godkänts av en central arbetstagarorganisation, krävs dock att det mellan
+        parterna i andra frågor gäller ett kollektivavtal som har slutits eller godkänts
+        av en sådan organisation eller att ett sådant kollektivavtal tillfälligt inte
+        gäller. Under samma förutsättning är det också tillåtet att genom ett kollektivavtal
+        bestämma den närmare beräkningen av förmåner som avses i 12 §.
+      en:
+        Derogations may be made from Sections 5 and 5a, Section 6, second and third
+        paragraphs, and Sections 7a, 7b, 22, 25–27 and 33d through a collective agreement.
+        If the agreement has not been entered into or approved by a central employee
+        organisation, however, a collective agreement entered into or approved by such
+        an organisation must be in effect between the parties in other matters, or else
+        such a collective agreement must be temporarily not in effect. Subject to the
+        same conditions, it is also permitted to decide on the more exact calculation
+        of benefits referred to in Section 12 through a collective agreement.
+    section: 2b
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv: |-
+        Genom ett kollektivavtal som har slutits eller godkänts av en central arbetstagarorganisation får det även göras avvikelser från 4 b, 11, 15, 21, 28, 32, 33 a, 33 b, 40 och 41 §§. Det är också tillåtet att genom ett sådant kollektivavtal göra avvikelser
+
+        1. från 6 b-e §§, under förutsättning att avtalet inte innebär att mindre förmånliga regler ska tillämpas för arbetstagarna än som följer av
+        - rådets direktiv 2001/23/EG av den 12 mars 2001 om tillnärmning av medlemsstaternas lagstiftning om skydd för arbetstagares rättigheter vid överlåtelse av företag, verksamheter eller delar av företag eller verksamheter, i lydelsen enligt Europaparlamentets och rådets direktiv (EU) 2015/1794, eller
+        - Europaparlamentets och rådets direktiv (EU) 2019/1152 av den 20 juni 2019 om tydliga och förutsägbara arbetsvillkor i Europeiska unionen, i den ursprungliga lydelsen,
+        2. från 30 a §, när det gäller besked enligt 15 §,
+        3. från 30, 30 a och 31 §§, när det gäller den lokala arbetstagar-organisationens rättigheter,
+        4. från 4 § andra stycket när det gäller hur ett anställningsavtal som gäller tills vidare kan upphöra vid den tidpunkt som anges i 32 a §, och
+        5. från 6 § första stycket, 6 h och 6 i §§ under förutsättning att avtalet respekterar det övergripande skydd för arbetstagare som avses i Europaparlamentets och rådets direktiv (EU) 2019/1152, i den ursprungliga lydelsen.
+      en: |-
+        Derogations may also be made from Sections 4b, 11, 15, 21, 28, 32, 33a, 33b, 40 and 41 through a collective agreement entered into or approved by a central employee organisation. It is also permitted, through such a collective agreement, to make derogations from:
+
+        1. from Sections 6b–6e, provided that the agreement does not mean that less favourable rules will apply for employees than follow from:
+        – Council Directive 2001/23/EC of 12 March 2001 on the approximation of the laws of the Member States relating to the safeguarding of employees’ rights in the event of transfers of undertakings, businesses or parts of businesses, in the wording of Directive (EU) 2015/1794 of the European Parliament and of the Council, or
+        – Directive (EU) 2019/1152 of the European Parliament and of the Council of 20 June 2019 on transparent and predictable working conditions in the European Union, in the original wording;
+        2. from Section 30a, with regard to notification under Section 15;
+        3. from Sections 30, 30a and 31, with regard to the rights of local employee organisations;
+        4. from Section 4, second paragraph regarding how an employment contract that is valid for an indefinite term can be terminated at the time specified in Section 32a; and
+        5. from Section 6, first paragraph, and Sections 6h and 6i, provided that the agreement respects the overall protection of employees referred to in Directive (EU) 2019/1152 of the European Parliament and of the Council, in the original wording.
+    section: 2b
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Avtal om avvikelser från 21 § får träffas även utanför kollektivavtals-förhållanden,
+        om avtalet innebär att kollektivavtal som med stöd av andra stycket har träffats
+        för verksamhetsområdet ska tillämpas. Lag (2022:835).
+      en:
+        An agreement on derogations from Section 21 may also be made outside relationships
+        regulated by collective agreements if the agreement requires the application
+        of a collective agreement entered into for the area of activity. (SFS 2022:835)
+    section: 2b
+    paragraph: "3"
+  - type: section_heading
+    text:
+      sv: 2 c §
+      en: Section 2c
+    section: 2c
+    slug: section-2c
+  - type: paragraph_text
+    text:
+      sv:
+        Genom eller med stöd av ett kollektivavtal får det göras avvikelser från 7
+        § första stycket när det gäller vad som ska anses utgöra sakliga skäl eller
+        andra stycket om omplacering under förutsättning att avtalet på arbetstagarsidan
+        har slutits av en sådan sammanslutning av centrala arbetstagarorganisationer
+        som avses i 6 § tredje stycket lagen (1976:580) om medbestämmande i arbetslivet.
+      en:
+        Through or by means of a collective agreement, derogations may be made from
+        Section 7, first paragraph regarding what are to be considered objective grounds,
+        or second paragraph regarding redeployment to other duties, provided that on
+        the employee side, the agreement has been concluded by an association of central
+        employee organisations referred to in Section 6, third paragraph of the Employment
+        (Co-determination in the Workplace) Act (1976:580).
+    section: 2c
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        En överträdelse av en bestämmelse i ett kollektivavtal enligt första stycket
+        som har trätt i lagens ställe ska anses utgöra en överträdelse av lagen. Lag
+        (2022:835).
+      en:
+        A breach of a provision of a collective agreement under the first paragraph
+        that has taken the place of this Act is to be considered a breach of the Act.
+        (SFS 2022:835)
+    section: 2c
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 2 d §
+      en: Section 2d
+    section: 2d
+    slug: section-2d
+  - type: paragraph_text
+    text:
+      sv:
+        En arbetsgivare som är bunden av ett kollektivavtal enligt 2 b § första eller
+        andra stycket eller 2 c § första stycket får tillämpa avtalet även på arbetstagare
+        som inte är medlemmar av den avtalsslutande arbetstagarorganisationen men som
+        sysselsätts i sådant arbete som avses med avtalet. Lag (2022:835).
+      en:
+        An employer who is bound by a collective agreement under Section 2b, first
+        or second paragraph, or Section 2c, first paragraph may also apply the agreement
+        to employees who are not members of the employee organisation that is party
+        to the agreement but are engaged in work to which the agreement refers. (SFS
+        2022:835)
+    section: 2d
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 3 §
+      en: Section 3
+    section: "3"
+    slug: section-3
+  - type: paragraph_text
+    text:
+      sv: |-
+        Vid tillämpning av 5 a, 6 h, 7 a, 11, 15, 22, 25, 26 och 39 §§ gäller följande särskilda bestämmelser om beräkning av anställningstid:
+
+        1. En arbetstagare som byter anställning genom att övergå från en arbetsgivare till en annan får i den senare anställningen tillgodoräkna sig också tiden i den förra, om arbetsgivarna vid tidpunkten för övergången tillhör samma koncern.
+        2. En arbetstagare som byter anställning i samband med att ett företag, en verksamhet eller en del av en verksamhet övergår från en arbetsgivare till en annan genom en sådan övergång som omfattas av 6 b § får tillgodoräkna sig tiden hos den förra arbetsgivaren när anställningstid ska beräknas hos den senare. Detta gäller även vid byte av anställning i samband med konkurs.
+        3. Om det sker flera sådana byten av anställning som avses i 1-2, får arbetstagaren räkna samman anställningstiderna hos alla arbetsgivarna.
+      en: |-
+        When applying Sections 5a, 6h 7a, 11, 15, 22, 25, 26 and 39, the following special provisions on calculating the duration of employment apply:
+
+        1. An employee who changes employment by transferring from one employer to another may add the time spent in the first position to the time spent in the second position, if the employers belong to the same group at the time of the transfer.
+        2. An employee who changes employment in connection with the transfer of an undertaking, a business or part of a business from one employer to another through a transfer encompassed by Section 6b may add the time spent with the first employer when the length of employment with the second employer is calculated. This also applies in connection with a change of employment in connection with bankruptcy.
+        3. If several such changes of employment as are referred to in points 1–2 occur, the employee may add the periods of employment with all the employers together.
+    section: "3"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Om en arbetstagare har haft tre eller flera särskilda visstidsanställningar
+        enligt 5 § första stycket 1 hos samma arbetsgivare under en och samma kalendermånad,
+        ska även tiden mellan anställningarna räknas som anställningstid i särskild
+        visstidsanställning vid tillämpning av 5 a, 7 a, 15, 25 och 26 §§.
+      en:
+        If an employee has had three or more specific fixed-term contracts under Section
+        5, first paragraph, point 1 with the same employer within the same calendar
+        month, the time between contracts is also calculated as time employed in specific
+        fixed-term employment when applying Sections 5a, 7a, 15, 25 and 26.
+    section: "3"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Arbetstagare som har fått återanställning enligt 25 § ska anses ha uppnått
+        den anställningstid som krävs för besked enligt 15 § och företrädesrätt enligt
+        25 §. Lag (2022:835).
+      en:
+        Employees who have been re-employed under Section 25 shall be treated as having
+        achieved the length of employment required for notification under Section 15
+        and right to priority under Section 25. (SFS 2022:835).
+    section: "3"
+    paragraph: "3"
+  - type: group_heading
+    text:
+      sv: Anställningsavtalet
+      en: Employment contracts
+  - type: section_heading
+    text:
+      sv: 4 §
+      en: Section 4
+    section: "4"
+    slug: section-4
+  - type: paragraph_text
+    text:
+      sv:
+        Anställningsavtal gäller tills vidare. Avtal om tidsbegränsad anställning
+        får dock träffas i de fall som anges i 5 och 6 §§. Om ett sådant avtal träffas
+        i annat fall, kan arbetstagaren på det sätt som anges i 36 § få domstols förklaring
+        att avtalet ska gälla tills vidare.
+      en:
+        Employment contracts apply for an indefinite term. However, fixed-term employment
+        contracts may be entered into in cases referred to in Sections 5 and 6. If such
+        a contract is entered into under other circumstances, the employee can obtain
+        a court declaration that the contract shall be valid for an indefinite term,
+        as stated in Section 36.
+    section: "4"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Anställningsavtal som gäller tills vidare kan sägas upp av arbetsgivaren eller
+        arbetstagaren för att upphöra efter en viss uppsägningstid. En tidsbegränsad
+        anställning upphör utan föregående uppsägning vid anställningstidens utgång
+        eller när arbetet är slutfört, om inte något annat har avtalats eller följer
+        av 5 a eller 6 §. I 4 b § finns en särskild regel om skyldighet att lämna anställningen
+        i samband med att arbetstagaren får rätt till hel sjukersättning enligt socialförsäkringsbalken.
+      en:
+        Employment contracts that are valid for an indefinite term may be terminated
+        by the employer or the employee with effect following a certain notice period.
+        Fixed-term employment ends without prior notice at the expiry of the period
+        of employment or when the work is completed, unless otherwise agreed or unless
+        otherwise follows from Section 5a or Section 6. Section 4b contains a specific
+        regulation on the obligation to leave a position of employment when an employee
+        becomes entitled to full sickness compensation under the Social Insurance Code.
+    section: "4"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        En arbetstagare får med omedelbar verkan frånträda sin anställning, om arbetsgivaren
+        i väsentlig mån har åsidosatt sina åligganden mot arbetstagaren.
+      en:
+        An employee may resign from their position with immediate effect if the employer
+        has neglected their obligations towards the employee in substantial respects.
+    section: "4"
+    paragraph: "3"
+  - type: paragraph_text
+    text:
+      sv:
+        I de fall som avses i 18 § kan en arbetsgivare genom avskedande avbryta anställningen
+        med omedelbar verkan.
+      en:
+        In cases referred to in Section 18, an employer may terminate employment with
+        immediate effect by summary dismissal.
+    section: "4"
+    paragraph: "4"
+  - type: paragraph_text
+    text:
+      sv:
+        Att arbetsgivaren i vissa fall är skyldig att informera och överlägga med
+        arbetstagaren och berörd arbetstagarorganisation samt tillämpa ett visst förfarande
+        i samband med att ett anställningsavtal ingås eller upphör, följer av 6, 8-10,
+        15, 16, 19, 20, 28-32, 33, 33 a och 33 c §§. Lag (2022:835).
+      en:
+        Pursuant to Sections 6, 8–10, 15, 16, 19, 20, 28–32, 33, 33a and 33c, an employer
+        is, in certain cases, obliged to inform and engage in consultations with the
+        employee and the relevant employee organisation, and apply certain procedures
+        in connection with the entry into, and termination of, an employment contract.
+        (SFS 2022:835)
+    section: "4"
+    paragraph: "5"
+  - type: section_heading
+    text:
+      sv: 4 a §
+      en: Section 4a
+    section: 4a
+    slug: section-4a
+  - type: paragraph_text
+    text:
+      sv: Anställningsavtal avser heltid, om inte något annat har avtalats.
+      en: Employment contracts refer to full-time work, unless otherwise agreed.
+    section: 4a
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Om anställningsavtalet inte avser heltid, ska arbetsgivaren på arbetstagarens
+        begäran skriftligen ange skälet till detta. Informationen ska lämnas inom tre
+        veckor från det att begäran framställts. Lag (2022:835).
+      en:
+        If an employment contract does not refer to full-time work, the employer must
+        indicate the reason for this in writing at the employee’s request. The information
+        must be provided within three weeks of the request being presented. (SFS 2022:835)
+    section: 4a
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 4 b §
+      en: Section 4b
+    section: 4b
+    slug: section-4b
+  - type: paragraph_text
+    text:
+      sv:
+        Om en arbetsgivare vill att en arbetstagare ska lämna sin anställning i samband
+        med att arbetstagaren enligt socialförsäkringsbalken får rätt till hel sjukersättning,
+        ska arbetsgivaren skriftligen ge arbetstagaren besked om detta så snart arbetsgivaren
+        har fått kännedom om beslutet om sjuk- ersättning. Lag (2022:835).
+      en:
+        If an employer wishes an employee to leave their employment upon becoming
+        entitled to full sickness compensation under the Social Insurance Code, the
+        employer must give the employee written notice of this immediately upon learning
+        of the decision concerning sickness compensation. (SFS 2022:835)
+    section: 4b
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 5 §
+      en: Section 5
+    section: "5"
+    slug: section-5
+  - type: paragraph_text
+    text:
+      sv: |-
+        Avtal om tidsbegränsad anställning får träffas
+
+        1. för särskild visstidsanställning,
+        2. för vikariat, eller
+        3. för säsongsarbete.
+      en: |-
+        A contract of employment for a fixed term may be concluded for:
+
+        1. general fixed-term employment;
+        2. temporary substitute employment:
+        3. seasonal employment.
+    section: "5"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        En arbetsgivare får dock inte anställa en arbetstagare för vikariat i syfte
+        att kringgå arbetstagarens rätt enligt 3 § andra stycket. Lag (2022:835).
+      en:
+        However, an employer must not employ an employee for a substitute position
+        to circumvent the employee’s rights under Section 3, second paragraph. (SFS
+        2022:835)
+    section: "5"
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 5 a §
+      en: Section 5a
+    section: 5a
+    slug: section-5a
+  - type: paragraph_text
+    text:
+      sv: |-
+        En särskild visstidsanställning övergår till en tillsvidareanställning när arbetstagaren har varit anställd hos arbetsgivaren i särskild visstidsanställning i sammanlagt mer än tolv månader
+
+        1. under en femårsperiod, eller
+        2. under en period då arbetstagaren har haft tidsbegränsade anställningar hos arbetsgivaren i form av särskild visstidsanställning, vikariat eller säsongsarbete och anställningarna följt på varandra.
+      en: |-
+        Specific fixed-term employment is transformed into indefinite-term employment when an employee has been employed by the employer in a specific fixed-term position for a total of more than twelve months:
+
+        1. during a five-year period; or
+        2. during a period in which an employee has been employed by the employer in fixed-term periods of employment in the form of specific fixed-term employment, temporary substitute employment or seasonal employment and the periods of employment have succeeded one another.
+    section: 5a
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        En anställning har följt på en annan om den tillträtts inom sex månader från
+        den föregående anställningens slutdag.
+      en:
+        An employment contract has succeeded another where it has begun within six
+        months of the last day of the previous contract.
+    section: 5a
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Ett vikariat övergår till en tillsvidareanställning när en arbetstagare har
+        varit anställd hos arbetsgivaren i vikariat i sammanlagt mer än två år under
+        en femårsperiod. Lag (2022:835).
+      en:
+        Temporary substitute employment is transformed into indefinite-term employment
+        when an employee has been employed by the employer in a substitute position
+        for a total of more than two years during a five-year period. (SFS 2022:835)
+    section: 5a
+    paragraph: "3"
+  - type: section_heading
+    text:
+      sv: 5 b §
+      en: Section 5b
+    section: 5b
+    slug: section-5b
+  - type: paragraph_text
+    text:
+      sv: Har betecknats 33 d § genom lag (2019:528).
+      en: Has been designated section 33d (SFS 2019:528).
+    section: 5b
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 6 §
+      en: Section 6
+    section: "6"
+    slug: section-6
+  - type: paragraph_text
+    text:
+      sv:
+        Avtal får även träffas om tidsbegränsad provanställning, om prövotiden är
+        högst sex månader.
+      en:
+        A contract for probationary employment of a limited duration may also be entered
+        into, provided that the probationary period does not exceed six months.
+    section: "6"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Vill inte arbetsgivaren eller arbetstagaren att anställningen skall fortsätta
+        efter det att prövotiden har löpt ut, skall besked om detta lämnas till motparten
+        senast vid prövotidens utgång. Görs inte detta, övergår provanställningen i
+        en tillsvidareanställning.
+      en:
+        Where the employer or employee does not wish the employment to continue after
+        the expiry of the probationary period, notification of such must be given to
+        the other party not later than at the expiry of the probationary period. In
+        the absence of the above-mentioned notice, the probationary employment shall
+        become indefinite-term employment.
+    section: "6"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Om inte annat har avtalats, får en provanställning avbrytas även före prövotidens
+        utgång. Lag (1994:1685).
+      en:
+        Unless otherwise agreed, probationary employment may also be terminated prior
+        to the expiration of the probationary period. (SFS 1994:1685).
+    section: "6"
+    paragraph: "3"
+  - type: section_heading
+    text:
+      sv: 6 a §
+      en: Section 6a
+    section: 6a
+    slug: section-6a
+  - type: paragraph_text
+    text:
+      sv: Har upphävts genom lag (2006:439).
+      en: Has been repealed by law (SFS 2006:439).
+    section: 6a
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 6 b §
+      en: Section 6b
+    section: 6b
+    slug: section-6b
+  - type: paragraph_text
+    text:
+      sv:
+        Vid övergång av ett företag, en verksamhet eller en del av en verksamhet från
+        en arbetsgivare till en annan, övergår också de rättigheter och skyldigheter
+        på grund av de anställningsavtal och de anställningsförhållanden som gäller
+        vid tidpunkten för övergången på den nya arbetsgivaren. Den tidigare arbetsgivaren
+        är dock också ansvarig gentemot arbetstagaren för ekonomiska förpliktelser som
+        hänför sig till tiden före övergången. Detta stycke gäller även arbetstagare
+        i allmän tjänst och på sjögående fartyg.
+      en:
+        In conjunction with the transfer of an undertaking, a business or a part of
+        a business from one employer to another, the rights and obligations under contracts
+        of employment and employment relationships that existed at the time of the transfer
+        to the new employer shall also be transferred. The previous employer shall,
+        however, be liable to the employee for any financial obligations that are related
+        to the period prior to the transfer. This paragraph shall also apply to employees
+        who are employed within the public sector or on sea-going vessels.
+    section: 6b
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv: Första stycket gäller inte vid övergång i samband med konkurs.
+      en:
+        The provisions contained in the first paragraph shall not apply to transfers
+        in conjunction with bankruptcies.
+    section: 6b
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv: Första stycket gäller inte heller ålders-, invaliditets- eller efterlevandeförmåner.
+      en:
+        Nor shall the provisions contained in the first paragraph apply to old-age,
+        invalidity, or survivor benefits.
+    section: 6b
+    paragraph: "3"
+  - type: paragraph_text
+    text:
+      sv:
+        Trots bestämmelserna i första stycket skall anställningsavtalet och anställningsförhållandet
+        inte övergå till en ny arbetsgivare, om arbetstagaren motsätter sig detta. Lag
+        (1994:1685).
+      en:
+        Notwithstanding the provisions of the first paragraph, contracts of employment
+        and employment relationships shall not be transferred to a new employer in the
+        absence of consent to such by the employee. (SFS 1994:1685).
+    section: 6b
+    paragraph: "4"
+  - type: section_heading
+    text:
+      sv: 6 c §
+      en: Section 6c
+    section: 6c
+    slug: section-6c
+  - type: paragraph_text
+    text:
+      sv:
+        En arbetsgivare ska lämna skriftlig information till en arbetstagare om alla
+        villkor som är av väsentlig betydelse för anställningsförhållandet.
+      en:
+        An employer must provide an employee with written information on all terms
+        and conditions that are of essential importance to the employment relationship.
+    section: 6c
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv: |-
+        Informationen ska innehålla åtminstone följande uppgifter:
+
+        1. arbetsgivarens och arbetstagarens namn och adress, anställningens tillträdesdag samt arbetsplats eller, om det inte finns någon fast eller huvudsaklig arbetsplats, uppgift om att arbetet ska utföras på olika platser eller att arbetstagaren själv får bestämma sin arbetsplats,
+        2. en kort specificering eller beskrivning av arbetstagarens arbetsuppgifter och yrkesbenämning eller tjänstetitel,
+        3. om anställningen gäller tills vidare eller för begränsad tid eller om den är en provanställning, samt
+           a) vid anställning tills vidare: de uppsägningstider som gäller,
+           b) vid anställning för begränsad tid: anställningens slutdag eller de förutsättningar som gäller för att anställningen ska upphöra och om anställningen avser särskild visstidsanställning, vikariat eller säsongsarbete,
+           c) vid provanställning: prövotidens längd och eventuella villkor för provanställningen,
+        4. begynnelselön och andra löneförmåner, som ska anges separat, och hur ofta och på vilket sätt lönen ska betalas ut,
+        5. längden på arbetstagarens normala arbetsdag eller arbetsvecka eller, om detta inte går att fastställa på grund av hur arbetsgivaren förlägger arbetstiden, uppgift om anställningens arbetstidsmått på annat sätt,
+        6. vad som ska gälla för övertids- eller mertidsarbete och ersättning för sådant arbete, i förekommande fall,
+        7. minsta tidsfrist för besked om den ordinarie arbetstidens och jourtidens förläggning samt i förekommande fall
+          a) att förläggningen kommer att variera mellan olika klockslag och dagar,
+          b) regler för skiftbyte,
+        8. i fråga om arbetstagare som hyrs ut av bemanningsföretag: uppgift om kundföretagens namn och adress,
+        9. uppgift om rätt till utbildning som tillhandahålls av arbetsgivaren, i förekommande fall,
+        10. längden på arbetstagarens betalda semester,
+        11. de bestämmelser som arbetsgivaren och arbetstagaren ska följa när någon av dem vill avsluta anställningsförhållandet,
+        12. att arbetsgivaravgifter betalas till staten samt uppgift om det skydd för social trygghet som tillhandahålls av arbetsgivaren, och
+        13. tillämpligt kollektivavtal, i förekommande fall.
+      en: |-
+        The information must contain at least the following details:
+
+        1. the employer’s and employee’s names and addresses, the commencement date of the employment and the workplace or, if there is no permanent or primary workplace, information about whether the work is to be carried out in different locations or whether the employee may decide on their workplace;
+        2. a short specification or description of the employee’s tasks and occupational designation or title;
+        3. whether the employment is for an indefinite term or for a fixed term or if it is probationary employment; and
+          a) for indefinite-term employment: the notice periods that apply;
+          b) for fixed-term employment: the last day of the contract or the terms and conditions that apply for the termination of employment and whether the employment is specific fixed-term employment, substitute employment or seasonal work;
+        c) for probationary employment: the length of the probationary period and any terms and conditions of the probationary employment;
+        4. the starting rate of pay and other employment benefits, which must be indicated separately, and how often and in what way the wage will be paid;
+        5. the length of the employee’s normal work day or work week or, if this cannot be specified due to the way the employer schedules working hours, information about how the employment’s working hours are otherwise arranged;
+        6. what will apply for overtime or additional time and compensation for such work, where relevant;
+        7. the minimum time period for notification of the scheduling of ordinary working hours and on-call time and, where relevant;
+          a) that the scheduling of these hours will vary between times and days;
+          b) regulations for changes of shift;
+        8. for workers from temporary agencies: the client company’s name and address;
+        9. information about the right to training provided by the employer, where relevant;
+        10. the length of the employee’s paid annual leave;
+        11. the provisions that the employer and employee must follow when one of them wishes to terminate the employment relationship
+        12. that the employer’s social security contributions are paid to central government and information about the social security protection provided by the employer; and
+        13. the applicable collective agreement, where relevant.
+    section: 6c
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Information enligt första stycket och andra stycket 1-7 ska lämnas så snart
+        som möjligt, dock senast den sjunde kalenderdagen efter det att arbetstagaren
+        har börjat arbeta. Information enligt andra stycket 3 b ska oavsett anställningstidens
+        längd lämnas i samband med att anställningen ingås när anställningen avser särskild
+        visstidsanställning. Information enligt andra stycket 8 ska lämnas så snart
+        informationen är känd. Information enligt andra stycket 9-13 ska lämnas senast
+        en månad efter det att arbetstagaren har börjat arbeta.
+      en:
+        Information under the first paragraph and the second paragraph, points 1–7
+        must be provided as soon as possible, but no later than the seventh calendar
+        day after the employee has begun work. Information under the second paragraph,
+        point 3b must, irrespective of the length of the employment, be provided when
+        the employment contract is entered into where the employment concerns specific
+        fixed-term employment. Information under the second paragraph, point 8 must
+        be provided as soon as the information is known. Information under the second
+        paragraph, points 9–13 must be provided no later than one month after the employee
+        has begun work.
+    section: 6c
+    paragraph: "3"
+  - type: paragraph_text
+    text:
+      sv: |-
+        Vissa uppgifter får, om det är lämpligt, lämnas i form av hänvisningar till lagar, andra författningar eller kollektivavtal som reglerar dessa frågor. Det gäller uppgifterna i
+
+        1. andra stycket 3 a,
+        2. andra stycket 3 b i fråga om förutsättningar för anställningens upphörande,
+        3. andra stycket 5 i fråga om uppgifter om längd på en normal arbetsdag eller arbetsvecka, och
+        4. andra stycket 3 c, 4, 6, 7 b och 9-12. Lag (2022:835).
+      en: |-
+        Certain information may, where appropriate, be provided through references to acts, other statutes or collective agreements that regulate those matters. This concerns the information under:
+
+        1. the second paragraph, point 3a;
+        2. the second paragraph, point 3b regarding terms and conditions for termination of the employment;
+        3. the second paragraph, point 5 regarding information about the length of a normal work day or work week; and
+        4. the second paragraph, points 3c, 4, 6, 7b and 9–12. (SFS 2022:835)
+    section: 6c
+    paragraph: "4"
+  - type: section_heading
+    text:
+      sv: 6 d §
+      en: Section 6d
+    section: 6d
+    slug: section-6d
+  - type: paragraph_text
+    text:
+      sv:
+        Om en arbetstagare sänds utomlands för att arbeta längre än fyra på varandra
+        följande veckor ska arbetsgivaren före avresan lämna skriftlig information till
+        arbetstagaren enligt 6 c §, om det inte redan har skett.
+      en:
+        As regards employees stationed abroad, the employer shall, if the posting
+        is intended to endure for a longer period than four consecutive weeks, prior
+        to departure provide written information to the employee in accordance with
+        section 6 c, unless this has already been done.
+    section: 6d
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv: |-
+        Arbetsgivaren ska före avresan även lämna skriftlig information som innehåller åtminstone följande uppgifter:
+
+        1. vilket land eller vilka länder som arbetet ska utföras i och anställningstiden utomlands,
+        2. den valuta som lönen ska betalas i,
+        3. de kontantersättningar och naturaförmåner som följer av arbetet, och
+        4. om ersättning för hemresa betalas ut och, om så är fallet, villkoren för hemresa.
+      en: |-
+        Prior to departure, the employer must also provide written information containing at least the following details:
+
+        1. the country or countries where the work will be carried out and the length of service abroad;
+        2. the currency in which the wage will be paid;
+        3. the cash compensation and payments in kind resulting from the work; and
+        4. whether compensation is paid for travel home and, if so, conditions for travel home.
+    section: 6d
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv: |-
+        Vid utstationering enligt 23 § lagen (1999:678) om utstationering av arbetstagare ska informationen dessutom innehålla följande uppgifter:
+
+        1. den ersättning och andra villkor som blir tillämpliga enligt 23 § lagen om utstationering av arbetstagare,
+        2. ytterligare ersättning som hör ihop med utstationeringen och regler om ersättning för utgifter för resa, kost och logi, i förekommande fall, och
+        3. en länk till värdlandets officiella nationella webbplats i enlighet med artikel 5.2 i Europaparlamentets och rådets direktiv 2014/67/EU av den 15 maj 2014 om tillämpning av direktiv 96/71/EG om utstationering av arbetstagare i samband med tillhandahållande av tjänster och om ändring av förordning (EU) nr 1024/2012 om administrativt samarbete genom informationssystemet för den inre marknaden (IMI- förordningen), i den ursprungliga lydelsen.
+      en: |-
+        For postings under Section 23 of the Posting of Workers Act (1999:678), the information must also contain the following details:
+
+        1. the compensation and other terms and conditions that are applicable under Section 23 of the Posting of Workers Act;
+        2. additional compensation associated with the posting and regulations on compensation for expenses for travel, board and lodging, where applicable; and
+        3. a link to the host country’s national website in accordance with Article 5(2) of Directive 2014/67/EU of the European Parliament and of the Council of 15 May 2014 on the enforcement of Directive 96/71/EC concerning the posting of workers in the framework of the provision of services and amending Regulation (EU) No 1024/2012 on administrative cooperation through the International Market Information System (‘the IMI Regulation’), in the original wording.
+    section: 6d
+    paragraph: "3"
+  - type: paragraph_text
+    text:
+      sv:
+        De uppgifter som avses i andra stycket 2 och tredje stycket 1 får, om det
+        är lämpligt, lämnas i form av hänvisningar till bestämmelser i lagar, andra
+        författningar eller kollektivavtal som reglerar dessa frågor. Lag (2022:448).
+      en:
+        The information referred to in items 2 and 3 may, provided it is appropriate,
+        be provided in the form of references to acts, other enactments or collective
+        bargaining agreements governing such issues. (SFS 2022:448).
+    section: 6d
+    paragraph: "4"
+  - type: section_heading
+    text:
+      sv: 6 e §
+      en: Section 6e
+    section: 6e
+    slug: section-6e
+  - type: paragraph_text
+    text:
+      sv:
+        Om förutsättningarna för anställningen ändras genom ett beslut av arbetsgivaren
+        eller genom en överenskommelse mellan arbetsgivaren och arbetstagaren och ändringen
+        gäller någon av de uppgifter som arbetsgivaren har informerat om, eller skulle
+        ha informerat om, ska arbetsgivaren lämna skriftlig information om ändringen
+        så snart som möjligt, dock senast den dag då ändringen ska börja tillämpas.
+        Lag (2022:448).
+      en:
+        If the terms and conditions of the employment are changed through a decision
+        of the employer or through an agreement between the employer and the employee,
+        and the change concerns any of the information that the employer has provided,
+        or would have provided, the employer must provide written information about
+        the change as soon as possible, but no later than the date on which the change
+        will begin to apply. (SFS 2022:448)
+    section: 6e
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 6 f §
+      en: Section 6f
+    section: 6f
+    slug: section-6f
+  - type: paragraph_text
+    text:
+      sv:
+        Arbetsgivaren skall informera arbetstagare med tidsbegränsad anställning om
+        lediga tillsvidareanställningar och provanställningar. Informationen får lämnas
+        genom att den görs allmänt tillgänglig på arbetsplatsen.
+      en:
+        The employer shall provide employees with fixed term employment with information
+        about indefinite-term employment and probationary employment vacancies. The
+        information may be provided by it being made generally available at the workplace.
+    section: 6f
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Till föräldralediga arbetstagare med tidsbegränsad anställning skall informationen,
+        om arbetstagaren begärt det, lämnas direkt till honom eller henne. Lag (2007:389).
+      en:
+        As regards employees with fixed-term employment who are on parental leave,
+        the information shall, if the employee so requires, be provided directly to
+        him or her. (SFS 2007:389)
+    section: 6f
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 6 g §
+      en: Section 6g
+    section: 6g
+    slug: section-6g
+  - type: paragraph_text
+    text:
+      sv:
+        Arbetsgivaren ska på begäran av en arbetstagare lämna skriftlig information
+        om arbetstagarens sammanlagda anställningstid. Arbetsgivaren ska på begäran
+        av en arbetstagare som är tidsbegränsat anställd enligt 5 § 1-3 lämna skriftlig
+        information om alla anställningar som har betydelse för tillämpning av 5 a §.
+        För varje sådan anställning ska den tidsbegränsade anställningens form, tillträdesdag
+        och slutdag anges.
+      en:
+        At the request of an employee, the employer shall provide written information
+        about the employee’s aggregate period of employment. At the request of an employee
+        who is employed in a fixed-term employment under Section 5, points 1–3, the
+        employer shall provide written information about all periods of employment that
+        are relevant in the application of Section 5a. For each period of employment
+        of this type, the form of fixed-term employment, the commencement date of employment
+        and the final date of employment shall be given.
+    section: 6g
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Information enligt första stycket ska lämnas inom tre veckor från det att
+        begäran framställts. Vid beräkning av anställningstiden och vid bedömning av
+        vilka tidigare anställningar som omfattas av informationsskyldigheten ska även
+        anställningar enligt 3 § första stycket 1-3 beaktas. Lag (2016:248).
+      en:
+        Information pursuant to the first paragraph shall be provided within three
+        weeks of the request being presented. When calculating the length of employment
+        and when determining which previous periods of employment are covered by the
+        obligation to provide information, account shall also be taken of periods of
+        employment under Section 3, first paragraph, points 1–3. (SFS 2016:248)
+    section: 6g
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 6 h §
+      en: Section 6h
+    section: 6h
+    slug: section-6h
+  - type: paragraph_text
+    text:
+      sv:
+        Om en arbetstagare med tidsbegränsad anställning begär en annan anställningsform
+        eller en högre sysselsättningsgrad, eller om en arbetstagare som är anställd
+        tills vidare begär en högre sysselsättningsgrad, ska arbetsgivaren lämna ett
+        skriftligt svar till arbetstagaren inom en månad efter begäran. I det skriftliga
+        svaret ska skälen för arbetsgivarens ställningstagande anges.
+      en:
+        If an employee with a fixed-term contract requests a different form of employment
+        or more working hours, or if an employee who is employed for an indefinite term
+        requests more working hours, the employer must provide a written reply to the
+        employee within one month of the request. The reason for the employer’s position
+        must be provided in the written reply.
+    section: 6h
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        En förutsättning för att arbetstagaren ska ha rätt till ett skriftligt svar
+        är att han eller hon när begäran görs har varit anställd hos arbetsgivaren i
+        sammanlagt minst sex månader och inte är provanställd.
+      en:
+        An employee’s entitlement to a written reply is conditional on them having
+        been employed by the employer for a total of at least six months, and not being
+        employed on a probationary basis, when the request is made.
+    section: 6h
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Om arbetstagaren gör en ny begäran inom tolv månader från den senaste begäran
+        är arbetsgivaren inte skyldig att lämna ett skriftligt svar, under förutsättning
+        att den senaste begäran gav rätt till ett skriftligt svar enligt andra stycket.
+        Lag (2022:448).
+      en:
+        If the employee makes a new request within twelve months of the previous request,
+        the employer is not obliged to provide a written reply, provided that the employee
+        was entitled to a written reply to previous request under the second paragraph.
+        (SFS 2022:448)
+    section: 6h
+    paragraph: "3"
+  - type: group_heading
+    text:
+      sv: Annan anställning
+      en: Other employment
+  - type: section_heading
+    text:
+      sv: 6 i §
+      en: Section 6i
+    section: 6i
+    slug: section-6i
+  - type: paragraph_text
+    text:
+      sv:
+        En arbetsgivare får inte förbjuda en arbetstagare att under anställningen
+        ha en anställning hos en annan arbetsgivare.
+      en:
+        An employer must not prohibit an employee from taking employment with another
+        employer during the employment.
+    section: 6i
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv: |-
+        Första stycket gäller dock inte om den andra anställningen
+
+        1. är arbetshindrande,
+        2. konkurrerar med arbetsgivarens verksamhet på ett sätt som kan orsaka skada, eller
+        3. på något annat sätt kan skada arbetsgivarens verksamhet.
+      en: |-
+        However, the first paragraph does not apply if the other employment:
+
+        1. interferes with the employee’s duties;
+        2. competes with the employer’s activities in a way that could cause harm; or
+        3. could harm the employer’s activity in some other way.
+    section: 6i
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        En arbetsgivare får inte missgynna en arbetstagare på grund av att arbetstagaren
+        under anställningen har en anställning hos en annan arbetsgivare. Lag (2022:448).
+      en:
+        An employer must not disadvantage an employee as a result of the employee
+        having employment with another employer during the employment. (SFS 2022:448)
+    section: 6i
+    paragraph: "3"
+  - type: group_heading
+    text:
+      sv: Uppsägning från arbetsgivarens sida
+      en: Notice of termination by the employer
+  - type: section_heading
+    text:
+      sv: 7 §
+      en: Section 7
+    section: "7"
+    slug: section-7
+  - type: paragraph_text
+    text:
+      sv:
+        Uppsägning från arbetsgivarens sida ska grunda sig på sakliga skäl. Sakliga
+        skäl kan vara arbetsbrist eller förhållanden som hänför sig till arbetstagaren
+        personligen.
+      en:
+        Notices of termination by the employer must be based on objective grounds.
+        Objective grounds include a lack of work, or circumstances personally attributable
+        to the employee.
+    section: "7"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        En uppsägning är inte grundad på sakliga skäl om det är skäligt att kräva
+        att arbetsgivaren bereder arbetstagaren annat arbete hos sig. Om arbetsgivaren
+        tidigare har berett arbetstagaren annat arbete hos sig på grund av förhållanden
+        som hänför sig till arbetstagaren personligen, ska arbetsgivaren anses ha uppfyllt
+        sin omplaceringsskyldighet, om det inte finns särskilda skäl.
+      en:
+        Notice of termination is not based on objective grounds if it is reasonable
+        to require the employer to provide the employee with different work. If the
+        employer has previously provided the employee with different work due to circumstances
+        personally attributable to the employee, the employer is considered to have
+        fulfilled its redeployment obligation, unless there are special grounds.
+    section: "7"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Vid en sådan övergång av ett företag, en verksamhet eller en del av en verksamhet
+        som sägs i 6 b § ska övergången i sig inte utgöra sakliga skäl för att säga
+        upp arbetstagaren. Detta förbud ska dock inte hindra uppsägningar som sker av
+        ekonomiska, tekniska eller organisatoriska skäl där förändringar i arbetsstyrkan
+        ingår.
+      en:
+        A transfer of an undertaking, activities or a part of activities under Section
+        6b does not constitute objective grounds to terminate the employee’s contract.
+        However, this prohibition does not prevent termination based on economic, technical
+        or organisational reasons that entail changes in the labour force.
+    section: "7"
+    paragraph: "3"
+  - type: paragraph_text
+    text:
+      sv:
+        Om uppsägningen beror på förhållanden som hänför sig till arbetstagaren personligen,
+        får den inte grundas enbart på omständigheter som arbetsgivaren har känt till
+        antingen mer än två månader innan underrättelse lämnades enligt 30 § eller,
+        om någon sådan underrättelse inte lämnats, två månader före tidpunkten för uppsägningen.
+        Arbetsgivaren får dock grunda uppsägningen enbart på omständigheter som arbetsgivaren
+        har känt till mer än två månader, om tidsöverdraget berott på att arbetsgivaren
+        på arbetstagarens begäran eller med arbetstagarens medgivande dröjt med underrättelsen
+        eller uppsägningen eller om det finns synnerliga skäl för att åberopa omständigheterna.
+        Lag (2022:835).
+      en:
+        If notice of termination is based on circumstances personally attributable
+        to the employee, it must not be based solely on circumstances that were known
+        to the employer for more than two months before notification was provided under
+        Section 30 or, if no such notification has been provided, two months before
+        the date of the notice of termination. However, the employer may base the notice
+        of termination solely on circumstances known to the employer for more than two
+        months if the time discrepancy is due to the employer delaying the notification
+        or notice of termination at the employee’s request or with the employee’s consent,
+        or if there are special grounds to cite the circumstances. (SFS 2022:835)
+    section: "7"
+    paragraph: "4"
+  - type: section_heading
+    text:
+      sv: 7 a §
+      en: Section 7a
+    section: 7a
+    slug: section-7a
+  - type: paragraph_text
+    text:
+      sv: |-
+        Vid en omorganisation som på en och samma driftsenhet innebär att en eller flera arbetstagare, vars arbetsuppgifter är lika, ska erbjudas omplacering enligt 7 § andra stycket till nytt arbete som bara innebär sänkt sysselsättningsgrad, ska arbetsgivaren iaktta följande turordningsregler bland de arbetstagare som har högre sysselsättningsgrad än den lägsta som avses att erbjudas:
+
+        1. Arbetstagare med kortare anställningstid ska erbjudas omplacering före arbetstagare med längre anställningstid.
+        2. Erbjudande med lägre sysselsättningsgrad ska lämnas före erbjudande med högre sysselsättningsgrad. Lag (2022:835).
+      en: |-
+        A reorganisation that involves one or more employees in the same operational unit with the same tasks being offered redeployment under Section 7, second paragraph to new duties that only entail reduced working hours, the employer must observe the following order of priority rules applicable to employees who have more working hours than the lowest number it intends to offer:
+
+        1. Employees with a shorter employment time must be offered redeployment before employees with a longer employment time.
+        2. Offers entailing fewer working hours must be made before offers entailing more working hours. (SFS 2022:835)
+    section: 7a
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 7 b §
+      en: Section 7b
+    section: 7b
+    slug: section-7b
+  - type: paragraph_text
+    text:
+      sv:
+        En arbetstagare som accepterar ett erbjudande om omplacering enligt 7 § andra
+        stycket till nytt arbete som bara innebär sänkt sysselsättningsgrad har rätt
+        till en omställningstid. Under omställningstiden får arbetstagaren behålla sin
+        sysselsättningsgrad och sina anställningsförmåner. Omställningstiden börjar
+        löpa när arbetstagaren accepterar erbjudandet och är lika lång som den uppsägningstid
+        som skulle ha gällt vid en uppsägning från arbetsgivarens sida, dock längst
+        tre månader. Lag (2022:835).
+      en:
+        An employee who accepts an offer of redeployment under Section 7, second paragraph
+        to new duties that only entail reduced working hours is entitled to an adjustment
+        period. During the adjustment period, the employee may retain their working
+        hours and employment benefits. The adjustment period begins when the employee
+        accepts the offer and is as long as the period of notice that would have applied
+        for a notice of termination by the employer, but no more than three months.
+        (SFS 2022:835)
+    section: 7b
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 8 §
+      en: Section 8
+    section: "8"
+    slug: section-8
+  - type: paragraph_text
+    text:
+      sv: Uppsägning från arbetsgivarens sida skall vara skriftlig.
+      en: Notice of termination by the employer must be given in writing.
+    section: "8"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        I uppsägningsbeskedet skall arbetsgivaren ange vad arbetstagaren skall iaktta
+        för det fall att arbetstagaren vill göra gällande att uppsägningen är ogiltig
+        eller yrka skadestånd med anledning av uppsägningen. I beskedet skall vidare
+        anges om arbetstagaren har företrädesrätt till återanställning eller ej. Har
+        arbetstagaren företrädesrätt och krävs det anmälan för att företrädesrätten
+        skall kunna göras gällande, skall det också anges.
+      en:
+        In the notice of termination, the employer must state the procedure to be
+        followed by the employee in the event the employee wishes to claim that the
+        notice of termination is invalid or to claim damages as a consequence of the
+        termination. Such notice shall also state whether or not the employee has rights
+        of priority concerning re-employment. Information shall also be included in
+        the notice, where applicable, that notification is required in order for the
+        employee to exercise such rights.
+    section: "8"
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 9 §
+      en: Section 9
+    section: "9"
+    slug: section-9
+  - type: paragraph_text
+    text:
+      sv:
+        Arbetsgivaren är skyldig att på arbetstagarens begäran uppge de omständigheter
+        som åberopas som grund för uppsägningen. Uppgiften skall vara skriftlig, om
+        arbetstagaren begär det.
+      en:
+        The employer is obligated, upon request by the employee, to state the circumstances
+        on which notice of termination is based. This statement must be in writing,
+        where the employee so requests.
+    section: "9"
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 10 §
+      en: Section 10
+    section: "10"
+    slug: section-10
+  - type: paragraph_text
+    text:
+      sv:
+        Uppsägningsbeskedet skall lämnas till arbetstagaren personligen. Är det inte
+        skäligt att kräva detta, får beskedet i stället sändas i rekommenderat brev
+        till arbetstagarens senast kända adress.
+      en:
+        Notice of termination must be delivered to an employee personally. Where this
+        cannot reasonably be required, notice may instead be posted by registered letter
+        to the employee's last known address.
+    section: "10"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Uppsägning anses ske när arbetstagaren får del av uppsägningen. Om arbetstagaren
+        inte kan anträffas och ett uppsägningsbesked har sänts i brev enligt första
+        stycket, anses uppsägning ha skett tio dagar efter det att brevet lämnades till
+        posten för befordran. Har arbetstagaren semester, anses uppsägning ha skett
+        tidigast dagen efter den då semestern upphörde.
+      en:
+        Notice of termination shall be deemed effective when received by the employee.
+        Where the employee cannot be reached and notice of termination has been dispatched
+        by letter according to the first paragraph, notice of termination shall be deemed
+        effective 10 days after the letter was submitted to the post office for delivery.
+        If the employee is on holiday, notice of termination shall be deemed effective
+        not earlier than the day after the holiday ends.
+    section: "10"
+    paragraph: "2"
+  - type: group_heading
+    text:
+      sv: Uppsägningstid
+      en: Period of notice
+  - type: section_heading
+    text:
+      sv: 11 §
+      en: Section 11
+    section: "11"
+    slug: section-11
+  - type: paragraph_text
+    text:
+      sv:
+        För både arbetsgivare och arbetstagare gäller en minsta uppsägningstid av
+        en månad.
+      en:
+        "The minimum period of notice for both employer and employee shall be one
+        month. "
+    section: "11"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv: |-
+        Arbetstagaren har rätt till en uppsägningstid av
+
+        - två månader, om den sammanlagda anställningstiden hos arbetsgivaren är minst två år men kortare än fyra år,
+        - tre månader, om den sammanlagda anställningstiden är minst fyra år men kortare än sex år,
+        - fyra månader, om den sammanlagda anställningstiden är minst sex år men kortare än åtta år,
+        - fem månader, om den sammanlagda anställningstiden är minst åtta år men kortare än tio år, och
+        - sex månader, om den sammanlagda anställningstiden är minst tio år.
+      en: |-
+        An employee is entitled to a period of notice of:
+
+        - two months, if the total period of employment with the employer is at least two years but less than four years;
+        - three months, if the total period of employment is at least four years but less than six years;
+        - four months, if the total period of employment is at least six years but less than eight years;
+        - five months, if the total period of employment is at least eight years but less than ten years; and
+        - six months, if the total period of employment is at least ten years.
+    section: "11"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv: |-
+        Om en arbetstagare som är föräldraledig enligt 4 eller 5 § föräldraledighetslagen (1995:584) sägs upp på grund av arbetsbrist, börjar uppsägningstiden löpa
+
+        - när arbetstagaren helt eller delvis återupptar arbetet, eller
+        - när arbetstagaren skulle ha återupptagit sitt arbete enligt den anmälan om föräldraledighet som gäller när uppsägningen sker. Lag (2015:759).
+      en: |-
+        If an employee who is on parental leave under Section 4 or 5 of the Parental Leave Act (1995:584) is given notice of termination due to a shortage of work, the period of notice should begin:
+
+        - when the employee fully or partly resumes their work; or
+        - when the employee would have resumed their work according to the application for parental leave that applies when notice of termination is given. (SFS 2015:759).
+    section: "11"
+    paragraph: "3"
+  - type: group_heading
+    text:
+      sv: Lön och andra förmåner under uppsägningstiden
+      en: Pay and other benefits during the period following notice of termination
+  - type: section_heading
+    text:
+      sv: 12 §
+      en: Section 12
+    section: "12"
+    slug: section-12
+  - type: paragraph_text
+    text:
+      sv:
+        En arbetstagare som har blivit uppsagd har rätt att under uppsägningstiden
+        behålla sin lön och andra anställningsförmåner även om arbetstagaren inte får
+        några arbetsuppgifter alls eller får andra arbetsuppgifter än tidigare. Lag
+        (1984:1008).
+      en:
+        An employee who has been given notice is entitled to retain pay and other
+        employment benefits during the period of notice, notwithstanding that the employee
+        is not assigned any duties or is assigned duties different from those the employee
+        previously performed. (SFS 1984:1008).
+    section: "12"
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 13 §
+      en: Section 13
+    section: "13"
+    slug: section-13
+  - type: paragraph_text
+    text:
+      sv:
+        Om arbetsgivaren har förklarat att arbetstagaren inte behöver stå till förfogande
+        under uppsägningstiden eller en del därav, får arbetsgivaren från förmåner enligt
+        12 § första stycket avräkna inkomster som arbetstagaren under samma tid har
+        förvärvat i annan anställning. Arbetsgivaren har också rätt att avräkna inkomster
+        som arbetstagaren under denna tid uppenbarligen kunde ha förvärvat i annan godtagbar
+        anställning. Lag (1993:718).
+      en:
+        Where the employer has stated that the employee need not be available for
+        work following notice of termination or need only work for part of the period
+        of notice any income earned by the employee from other employment during the
+        same period may be deducted by the employer from benefits payable under Section
+        12, first paragraph. The employer is also entitled to deduct income that the
+        employee obviously could have earned from other suitable employment during this
+        period. (SFS 1993:718).
+    section: "13"
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 14 §
+      en: Section 14
+    section: "14"
+    slug: section-14
+  - type: paragraph_text
+    text:
+      sv:
+        En uppsagd arbetstagare får inte förflyttas till annan ort under uppsägningstiden,
+        om arbetstagarens möjligheter att söka nytt arbete därigenom skulle icke obetydligt
+        försämras.
+      en:
+        An employee who has been given notice of termination may not be transferred
+        to another locality during the period of notice, if the employee's opportunities
+        of seeking new employment are thereby impaired to an extent that is not insignificant.
+    section: "14"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Under uppsägningstiden har en uppsagd arbetstagare också rätt till skälig
+        ledighet från anställningen med bibehållna anställningsförmåner för att besöka
+        arbetsförmedlingen eller på annat sätt söka arbete.
+      en:
+        An employee who has received notice of termination is also entitled, during
+        the period of notice, to reasonable leave of absence from the employment with
+        full employment benefits in order to visit an employment agency or otherwise
+        seek work.
+    section: "14"
+    paragraph: "2"
+  - type: group_heading
+    text:
+      sv: Besked om att tidsbegränsad anställning inte kommer att fortsätta
+      en: Notification that fixed-term employment will not be continued
+  - type: section_heading
+    text:
+      sv: 15 §
+      en: Section 15
+    section: "15"
+    slug: section-15
+  - type: paragraph_text
+    text:
+      sv:
+        En arbetstagare som är anställd för begränsad tid enligt 5 § och som inte
+        kommer att få fortsatt anställning när anställningen upphör, ska få besked av
+        arbetsgivaren om detta minst en månad före anställningstidens utgång. En förutsättning
+        för rätt till sådant besked är dock att arbetstagaren, när anställningen upphör,
+        har varit anställd hos arbetsgivaren sammanlagt mer än tolv månader under de
+        senaste tre åren eller sammanlagt mer än nio månader i särskild visstidsanställning
+        under de senaste tre åren. Är anställningstiden så kort att besked inte kan
+        lämnas en månad i förväg, ska beskedet i stället lämnas när anställningen börjar.
+      en:
+        An employee who is employed for a fixed term as provided in Section 5 and
+        who will not be given further employment when the employment ends, must be notified
+        to this effect by the employer not less than one month before the expiration
+        of the period of employment. However, a condition for the right to such notification
+        is that the employee, when the employment terminates, has been employed by the
+        employer for a total of more than twelve months over the past three years, or
+        a total of more than nine months in specific fixed-term employment over the
+        past three years. If the term of employment is so short that notification cannot
+        be provided one month in advance, notification must instead be provided when
+        the employment begins.
+    section: "15"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Om en säsongsanställd arbetstagare, som när anställningen upphör har varit
+        säsongsanställd hos arbetsgivaren mer än sex månader under de senaste två åren,
+        inte kommer att få fortsatt säsongsanställning vid den nya säsongens början,
+        ska arbetsgivaren ge arbetstagaren besked om detta minst en månad innan den
+        nya säsongen börjar. Lag (2022:835).
+      en:
+        Where a seasonal employee, who at the end of the employment has been employed
+        by the employer for a specific season for more than six months during the past
+        two years, will not be given further seasonal employment at the beginning of
+        the new season, the employer must notify the employee to this effect at least
+        one month prior to the commencement of the new season. (SFS 2022:835)
+    section: "15"
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 16 §
+      en: Section 16
+    section: "16"
+    slug: section-16
+  - type: paragraph_text
+    text:
+      sv: Besked enligt 15 § skall vara skriftligt.
+      en: Notification under Section 15 must be in writing.
+    section: "16"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        I beskedet skall arbetsgivaren ange vad arbetstagaren skall iaktta för det
+        fall att arbetstagaren vill föra talan om att anställningsavtalet skall förklaras
+        gälla tills vidare eller yrka skadestånd för brott mot 4 § första stycket. I
+        beskedet skall vidare anges om arbetstagaren har företrädesrätt till återanställning
+        eller ej. Har arbetstagaren företrädesrätt och krävs det anmälan för att företrädesrätten
+        skall kunna göras gällande, skall det också anges.
+      en:
+        The employer must state in the notification the procedure to be followed by
+        the employee in the event the employee wishes to initiate proceedings to have
+        the contract declared to apply as an indefinite-term employment, or to claim
+        damages for a breach of Section 4, first paragraph of this Act. The notification
+        must also inform the employee whether or not the employee is entitled to rights
+        of priority in connection with re-employment. Information shall also be included
+        in the notice, where applicable, that notification is required in order for
+        the employee to exercise such rights.
+    section: "16"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Beskedet skall lämnas till arbetstagaren personligen. Är det inte skäligt
+        att kräva detta, får beskedet i stället sändas i rekommenderat brev till arbetstagarens
+        senast kända adress.
+      en:
+        Notification must be delivered to the employee personally. If this cannot
+        reasonably be required, notification may instead be posted by registered letter
+        to the employee's last known address.
+    section: "16"
+    paragraph: "3"
+  - type: section_heading
+    text:
+      sv: 17 §
+      en: Section 17
+    section: "17"
+    slug: section-17
+  - type: paragraph_text
+    text:
+      sv:
+        En arbetstagare som har fått besked enligt 15 § första stycket har rätt till
+        skälig ledighet från anställningen med bibehållna anställningsförmåner för att
+        besöka arbetsförmedlingen eller på annat sätt söka arbete.
+      en:
+        An employee who has received notification under Section 15, first paragraph,
+        is entitled to a reasonable leave of absence with full employment benefits in
+        order to visit an employment agency or otherwise seek work.
+    section: "17"
+    paragraph: "1"
+  - type: group_heading
+    text:
+      sv: Avskedande
+      en: Summary dismissal
+  - type: section_heading
+    text:
+      sv: 18 §
+      en: Section 18
+    section: "18"
+    slug: section-18
+  - type: paragraph_text
+    text:
+      sv:
+        Avskedande får ske, om arbetstagaren grovt har åsidosatt sina åligganden mot
+        arbetsgivaren.
+      en:
+        An employee may be summarily dismissed where he has grossly neglected his
+        obligations to the employer.
+    section: "18"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Avskedandet får inte grundas enbart på omständigheter som arbetsgivaren har
+        känt till antingen mer än två månader innan underrättelse lämnades enligt 30
+        § eller, om någon sådan underrättelse inte lämnats, två månader före tidpunkten
+        för avskedandet. Arbetsgivaren får dock grunda avskedandet enbart på omständigheter
+        som han har känt till mer än två månader, om tidsöverdraget berott på att han
+        på arbetstagarens begäran eller med dennes medgivande dröjt med underrättelsen
+        eller avskedandet eller om det finns synnerliga skäl för att omständigheterna
+        får åberopas. Lag (1993:1496).
+      en:
+        Summary dismissal may not be based solely on circumstances that were known
+        to the employer more than two months before notice was given under Section 30
+        or, where no such notice was given, two months before the date of dismissal.
+        However, the employer may base the summary dismissal entirely on circumstances
+        known to him for more than two months if upon the request of the employee or
+        with the consent of the employee the employer has delayed the giving of notice
+        or dismissal or where there are extraordinary reasons for invoking such circumstances.
+        (SFS 1993:1496).
+    section: "18"
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 19 §
+      en: Section 19
+    section: "19"
+    slug: section-19
+  - type: paragraph_text
+    text:
+      sv: Avskedande skall vara skriftligt.
+      en: Notice of summary dismissal by the employer must be given in writing.
+    section: "19"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        I beskedet om avskedande skall arbetsgivaren ange vad arbetstagaren skall
+        iaktta för det fall att arbetstagaren vill göra gällande att avskedandet är
+        ogiltigt eller yrka skadestånd med anledning av avskedandet.
+      en:
+        The employer shall state in the notice of summary dismissal the procedures
+        that the employee must comply with in the event the employee wishes to claim
+        that the dismissal is invalid or wishes to claim damages as a consequence of
+        the dismissal.
+    section: "19"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Arbetsgivaren är skyldig att på arbetstagarens begäran uppge de omständigheter
+        som åberopas som grund för avskedandet. Uppgiften skall vara skriftlig, om arbetstagaren
+        begär det.
+      en:
+        The employer is obligated, upon request by the employee, to state the circumstances
+        on which notice of summary dismissal is based. This statement must be in writing,
+        where the employee so requests.
+    section: "19"
+    paragraph: "3"
+  - type: section_heading
+    text:
+      sv: 20 §
+      en: Section 20
+    section: "20"
+    slug: section-20
+  - type: paragraph_text
+    text:
+      sv:
+        Beskedet om avskedande skall lämnas till arbetstagaren personligen. Är det
+        inte skäligt att kräva detta, får beskedet i stället sändas i rekommenderat
+        brev till arbetstagarens senast kända adress.
+      en:
+        Notice of summary dismissal must be delivered to an employee personally. Where
+        this cannot reasonably be required, notice may instead be posted by registered
+        letter to the employee's last known address.
+    section: "20"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Avskedande anses ske när arbetstagaren får del av avskedandet. Om arbetstagaren
+        inte kan anträffas och ett besked om avskedande har sänts i brev enligt första
+        stycket, anses avskedande ha skett tio dagar efter det att brevet lämnades till
+        posten för befordran. Har arbetstagaren semester, anses avskedande ha skett
+        tidigast dagen efter den då semestern upphörde.
+      en:
+        Notice of summary dismissal shall be deemed given when communicated to the
+        employee. Where the employee cannot be reached and notice of summary dismissal
+        has been dispatched by letter as provided in the first paragraph, notice of
+        summary dismissal shall be deemed given 10 days after the letter was submitted
+        to the post office for delivery. If the employee is on holiday, notice of dismissal
+        shall be deemed given not earlier than the day after the holiday ends.
+    section: "20"
+    paragraph: "2"
+  - type: group_heading
+    text:
+      sv: Lön och andra förmåner under permittering
+      en: Pay and other benefits during lay offs
+  - type: section_heading
+    text:
+      sv: 21 §
+      en: Section 21
+    section: "21"
+    slug: section-21
+  - type: paragraph_text
+    text:
+      sv:
+        En arbetstagare som permitteras har rätt till samma lön och andra anställningsförmåner
+        som om arbetstagaren hade fått behålla sina arbetsuppgifter. Detta gäller dock
+        inte om permitteringen är en följd av att arbetet är säsongbetonat eller av
+        andra skäl inte är sammanhängande till sin natur. Lag (1984:1008).
+      en:
+        An employee who is laid off is entitled the same pay and other employment
+        benefits as if the employee had been allowed to continue his or her duties.
+        This however, does not apply where the lay off is a consequence of the seasonal
+        nature of the work or the fact that the work is otherwise inherently intermittent.
+        (SFS 1984:1008).
+    section: "21"
+    paragraph: "1"
+  - type: group_heading
+    text:
+      sv: Turordning vid uppsägning
+      en: Order of priority in connection with termination of employment
+  - type: section_heading
+    text:
+      sv: 22 §
+      en: Section 22
+    section: "22"
+    slug: section-22
+  - type: paragraph_text
+    text:
+      sv: Vid uppsägning på grund av arbetsbrist ska arbetsgivaren iaktta följande turordningsregler.
+      en:
+        In the event of notice of termination on the grounds of shortage of work,
+        the employer shall observe the following rules on priority.
+    section: "22"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Innan turordningen fastställs får en arbetsgivare, oavsett antalet turordningskretsar,
+        undanta högst tre arbetstagare som enligt arbetsgivarens bedömning är av särskild
+        betydelse för den fortsatta verksamheten. Om ett sådant undantag har gjorts,
+        får inga ytterligare undantag göras vid en uppsägning som sker inom tre månader
+        efter att den första uppsägningen skett.
+      en:
+        Before the order of priority is determined, an employer may, regardless of
+        the number of groups involved in the order of priority, exclude at most three
+        employees whom the employer deems to be particularly important for its continued
+        activities. If such exclusion take place, no additional exclusions are permitted
+        in the event of any notice of termination within three months after the first
+        notice of termination took place.
+    section: "22"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Om arbetsgivaren har flera driftsenheter, fastställs en turordning för varje
+        enhet för sig. Enbart den omständigheten att en arbetstagare har sin arbetsplats
+        i sin bostad medför inte att den arbetsplatsen utgör en egen driftsenhet. Om
+        arbetsgivaren är eller brukar vara bunden av kollektivavtal, fastställs en särskild
+        turordning för varje avtalsområde. Finns det i ett sådant fall flera driftsenheter
+        på samma ort, ska det inom en arbetstagarorganisations avtalsområde fastställas
+        en gemensam turordning för samtliga enheter på orten, om organisationen begär
+        det senast vid förhandlingar enligt 29 §.
+      en:
+        Where the employer has several operational units, the order of termination
+        shall be determined separately within each unit. The circumstance alone that
+        one employee has his workplace at his home, does not mean that the workplace
+        comprises a separate operational unit. If the employer is, or is usually, bound
+        by a collective bargaining agreement, a special order of termination shall be
+        established for each agreement sector. Where, under circumstances as mentioned
+        above, there are several production units in the same locality, a single order
+        of termination shall be drawn up for all the units in the locality that fall
+        within the agreement sector of an organisation of employees, provided the organisation
+        makes a request to this effect not later than the time for negotiations under
+        Section 29.
+    section: "22"
+    paragraph: "3"
+  - type: paragraph_text
+    text:
+      sv:
+        Turordningen för de arbetstagare som inte undantagits bestäms med utgångspunkt
+        i varje arbetstagares sammanlagda anställningstid hos arbetsgivaren. Arbetstagare
+        med längre anställningstid har företräde framför arbetstagare med kortare anställningstid.
+        Vid lika anställningstid ger högre ålder företräde. Kan en arbetstagare endast
+        efter omplacering beredas fortsatt arbete hos arbetsgivaren, gäller som förutsättning
+        för företräde enligt turordningen att arbetstagaren har tillräckliga kvalifikationer
+        för det fortsatta arbetet. Lag (2022:835).
+      en:
+        The order of termination for those employees who are not exempted is determined
+        on the basis of each employee's total time of employment with the employer.
+        Employees with longer employment times shall have priority over employees with
+        shorter employment times. In the event of equal employment times, priority shall
+        be given to the older employee. Where it is only possible to offer continued
+        work to an employee with the employer following a re-location of the employee,
+        priority shall be contingent on the employee possessing satisfactory qualifications
+        for the continued work. (SFS 2022:835)
+    section: "22"
+    paragraph: "4"
+  - type: section_heading
+    text:
+      sv: 23 §
+      en: Section 23
+    section: "23"
+    slug: section-23
+  - type: paragraph_text
+    text:
+      sv:
+        Arbetstagare som har nedsatt arbetsförmåga och som på grund därav har beretts
+        särskild sysselsättning hos arbetsgivaren skall, om det kan ske utan allvarliga
+        olägenheter, få företräde till fortsatt arbete oberoende av turordningen.
+      en:
+        An employee who has reduced working capacity and who has, therefore, been
+        given special duties by the employer shall be given priority for continued work,
+        notwithstanding the rules on priority, where such can be accomplished without
+        serious inconvenience to the employer.
+    section: "23"
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 24 §
+      en: Section 24
+    section: "24"
+    slug: section-24
+  - type: paragraph_text
+    text:
+      sv: har upphävts genom lag (1984:1008).
+      en: Repealed (SFS 1984:1008).
+    section: "24"
+    paragraph: "1"
+  - type: group_heading
+    text:
+      sv: Företrädesrätt till återanställning m.m.
+      en: Rights of priority for re-employment, etc.
+  - type: section_heading
+    text:
+      sv: 25 §
+      en: Section 25
+    section: "25"
+    slug: section-25
+  - type: paragraph_text
+    text:
+      sv: |-
+        Arbetstagare som har sagts upp på grund av arbetsbrist har företrädesrätt till återanställning i den verksamhet där de tidigare har varit sysselsatta. Detsamma gäller arbetstagare som har anställts för begränsad tid enligt 5 § och som på grund av arbetsbrist inte har fått fortsatt anställning. En förutsättning för företrädesrätt är dock att arbetstagaren dels har tillräckliga kvalifikationer för den nya anställningen, dels har uppnått en tillräcklig anställningstid hos arbetsgivaren. Anställningstiden ska
+
+        1. vara sammanlagt mer än tolv månader under de senaste tre åren,
+        2. när det gäller företrädesrätt till ny särskild visstidsanställning, vara sammanlagt mer än nio månader i sådan anställning under de senaste tre åren, eller
+        3. när det gäller företrädesrätt till ny säsongsanställning för en tidigare säsongsanställd arbetstagare, vara sammanlagt mer än sex månader under de senaste två åren.
+      en: |-
+        Employees whose employment has been terminated based on a lack of work have a preferential right to re-employment in the organisation where they were previously employed. The same applies to employees who have been employed for a fixed term under Section 5 and who have not been offered continued employment due to a lack of work. However, for this preferential right to apply, the employee must be sufficiently qualified for the new employment and have had a sufficiently long period of employment with the employer. The period employment must:
+
+        1. total more than twelve months over the past three years;
+        2. as regards a preferential right to new specific fixed-term employment, total at least nine months in such employment over the past three years; or
+        3. as regards a preferential right to new seasonal employment for a previously seasonally employed worker, total at least six months over the past two years.
+    section: "25"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Företrädesrätten gäller från den tidpunkt då uppsägning skedde eller besked
+        lämnades eller skulle ha lämnats enligt 15 § första stycket och därefter till
+        dess nio månader har förflutit från den dag då anställningen upphörde. Vid säsongsanställning
+        gäller företrädesrätten i stället från tidpunkten då besked lämnades eller skulle
+        ha lämnats enligt 15 § andra stycket och därefter till dess nio månader har
+        förflutit från den nya säsongens början. Har under de nu nämnda tidsperioderna
+        företaget, verksamheten eller en del av verksamheten övergått till en ny arbetsgivare
+        genom en sådan övergång som omfattas av 6 b §, gäller företrädesrätten mot den
+        nya arbetsgivaren. Företrädesrätten gäller även i de fall att den tidigare arbetsgivaren
+        försatts i konkurs.
+      en:
+        The right to priority shall apply from time of the notice of termination or
+        when notice was given or should have been given under Section 15, first paragraph,
+        and thereafter until nine months from the date that the employment ceased. With
+        respect to seasonal employment, rights of priority shall instead apply from
+        the time when notice was given or should have been given under Section 15, second
+        paragraph, and thereafter until nine months have elapsed from the commencement
+        of the new season. Where during the above-mentioned periods of time the undertaking,
+        the business or the part of the business in which the activities are conducted
+        has been transferred to a new employer by such a transfer as is subject to Section
+        6 b, the right to priority shall apply with respect to the new employer. Rights
+        of priority shall also apply in circumstances where the previous employer was
+        put into bankruptcy.
+    section: "25"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Om arbetsgivaren har flera driftsenheter eller om det i arbetsgivarens verksamhet
+        finns olika kollektivavtalsområden, gäller företrädesrätten anställning inom
+        den enhet och det avtalsområde där arbetstagaren var sysselsatt när den tidigare
+        anställningen upphörde. Om det i ett sådant fall finns flera driftsenheter på
+        samma ort, ska inom en arbetstagarorganisations avtalsområde företrädesrätten
+        gälla arbetsgivarens samtliga enheter på orten, om organisationen begär det
+        senast vid förhandlingar enligt 32 §. Lag (2022:835).
+      en:
+        Where the employer has several production units, or if the employer's business
+        involves several collective bargaining agreement sectors, the rights of priority
+        shall apply to employment within the unit and the collective bargaining agreement
+        sector to which the employee belonged at the termination of the previous employment.
+        Where, under such circumstances, there are several production units in the same
+        locality, priority within the collective bargaining agreement sector of an organisation
+        of employees shall apply to all of the employer's production units in the locality,
+        provided such a request is made by the organisation not later than the time
+        for negotiations as provided for in Section 32. (SFS 2022:835).
+    section: "25"
+    paragraph: "3"
+  - type: section_heading
+    text:
+      sv: 25 a §
+      en: Section 25a
+    section: 25a
+    slug: section-25a
+  - type: paragraph_text
+    text:
+      sv:
+        En deltidsanställd arbetstagare som har anmält till sin arbetsgivare att han
+        eller hon vill ha en anställning med högre sysselsättningsgrad, dock högst heltid,
+        har trots 25 § företrädesrätt till sådan anställning. Som förutsättning för
+        företrädesrätten gäller att arbetsgivarens behov av arbetskraft tillgodoses
+        genom att den deltidsanställde anställs med en högre sysselsättningsgrad och
+        att den deltidsanställde har tillräckliga kvalifikationer för de nya arbetsuppgifterna.
+      en:
+        Notwithstanding Section 25, a part-time employee who has notified his or her
+        employer that he or she desires to have employment at a higher level of occupation,
+        though at most full-time, has a priority right to such employment. This right
+        is contingent upon the employer’s need of labour being satisfied by the part-time
+        employee being employed at a higher level of occupation and that the parttime
+        employee is adequately qualified for the new work tasks.
+    section: 25a
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Om arbetsgivaren har flera driftsenheter, gäller företrädesrätten anställning
+        inom den enhet där arbetstagaren är sysselsatt på deltid.
+      en:
+        If an employer has several production units, the priority right applies to
+        employment at the unit where the employee is engaged part-time.
+    section: 25a
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Företrädesrätten gäller inte mot den som har rätt till omplacering enligt
+        7 § andra stycket. Lag (2006:440).
+      en:
+        The priority right does not apply as regards a person who is entitled to re-allocation
+        of work under Section 7, second paragraph. (SFS 2006:440).
+    section: 25a
+    paragraph: "3"
+  - type: section_heading
+    text:
+      sv: 26 §
+      en: Section 26
+    section: "26"
+    slug: section-26
+  - type: paragraph_text
+    text:
+      sv:
+        Om flera arbetstagare har företrädesrätt till återanställning enligt 25 §
+        eller företrädesrätt till en anställning med högre sysselsättningsgrad enligt
+        25 a §, bestäms turordningen dem emellan med utgångspunkt i varje arbetstagares
+        sammanlagda anställningstid hos arbetsgivaren. Arbetstagare med längre anställningstid
+        har företräde framför arbetstagare med kortare anställningstid. Vid lika anställningstid
+        ger högre ålder företräde. Lag (1996:1424).
+      en:
+        Where several employees are entitled to priority for re-employment under Section
+        25 or priority right to employment at a higher level of occupation under Section
+        25 a, the order in which they are inter se to be re-employed shall be determined
+        on the basis of each employee's total period of employment with the employer.
+        Employees who have longer periods of employment shall have priority over employees
+        with shorter periods of employment. In the event of equal periods of employment,
+        the employee who is senior in age shall be given priority. (SFS 1996:1424).
+    section: "26"
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 27 §
+      en: Section 27
+    section: "27"
+    slug: section-27
+  - type: paragraph_text
+    text:
+      sv:
+        Har besked om företrädesrätt till återanställning lämnats enligt 8 § andra
+        stycket eller 16 § andra stycket, kan företrädesrätt inte göras gällande innan
+        arbetstagaren har anmält anspråk på företrädesrätt hos arbetsgivaren.
+      en:
+        Where notice regarding the right of priority to re-employment has been given
+        under Section 8, second paragraph or Section 16, second paragraph, the right
+        of priority may not be exercised by the employee prior to notice by the employee
+        to the employer of his intention to exercise such right.
+    section: "27"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        En arbetstagare som antar ett erbjudande om återanställning behöver inte tillträda
+        den nya anställningen förrän efter skälig övergångstid.
+      en:
+        An employee who accepts an offer of re-employment shall not be obligated to
+        commence the new employment until after a reasonable period of transition.
+    section: "27"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Om arbetstagaren avvisar ett erbjudande om återanställning som skäligen borde
+        ha godtagits, har arbetstagaren förlorat sin företrädesrätt.
+      en:
+        Where an employee declines an offer of re-employment that the employee should
+        reasonably have accepted, any right to priority shall be forfeited.
+    section: "27"
+    paragraph: "3"
+  - type: group_heading
+    text:
+      sv: Förhandlingar m.m.
+      en: Negotiations, etc.
+  - type: section_heading
+    text:
+      sv: 28 §
+      en: Section 28
+    section: "28"
+    slug: section-28
+  - type: paragraph_text
+    text:
+      sv:
+        En arbetsgivare som är bunden av kollektivavtal och som träffar avtal om tidsbegränsad
+        anställning för arbete som avses med kollektivavtalet, skall snarast underrätta
+        den berörda lokala arbetstagarorganisationen om anställningsavtalet. Underrättelse
+        skall lämnas även när kollektivavtal tillfälligt inte gäller.
+      en:
+        An employer who is bound by a collective bargaining agreement and who enters
+        into a contract of fixed-term employment regarding work governed by the collective
+        bargaining agreement, shall immediately notify the relevant local organisation
+        of employees of the contract of employment. Such notice shall also be given
+        when a collective bargaining agreement is temporarily not in force.
+    section: "28"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Någon underrättelse behöver dock inte lämnas, om anställningstiden är högst
+        en månad.
+      en:
+        However, no such notice need be given where the period of employment is not
+        more than one month.
+    section: "28"
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 29 §
+      en: Section 29
+    section: "29"
+    slug: section-29
+  - type: paragraph_text
+    text:
+      sv:
+        I fråga om en arbetsgivares skyldighet att förhandla före beslut om uppsägning
+        på grund av arbetsbrist, permittering eller återintagning efter permittering
+        gäller 11-14 §§ lagen (1976:580) om medbestämmande i arbetslivet.
+      en:
+        Sections 11 - 14 of the Employment (Co-determination in the Workplace) Act
+        (1976:580) shall apply in respect of the duty of employers to enter into negotiations
+        before deciding on termination of employment on the grounds of a shortage of
+        work, lay- offs or re-engagement following lay-offs. (SFS 1989:963).
+    section: "29"
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 30 §
+      en: Section 30
+    section: "30"
+    slug: section-30
+  - type: paragraph_text
+    text:
+      sv:
+        En arbetsgivare som vill avskeda eller säga upp en arbetstagare på grund av
+        omständigheter som hänför sig till arbetstagaren personligen skall underrätta
+        arbetstagaren om detta i förväg. Gäller underrättelsen uppsägning skall den
+        lämnas minst två veckor i förväg. Gäller den avskedande skall den lämnas minst
+        en vecka i förväg. Är arbetstagaren fackligt organiserad, skall arbetsgivaren
+        samtidigt med underrättelsen varsla den lokala arbetstagarorganisation som arbetstagaren
+        tillhör.
+      en:
+        An employer who wishes to summarily dismiss an employee or to give notice
+        terminating employment for reasons relating to the employee personally, shall
+        inform the employee of this in advance. Information concerning termination shall
+        be given at least two weeks in advance. Information concerning summary dismissal
+        shall be given at least one week in advance. If the employee is a union member,
+        the employer shall notify the local organisation of employees to which the employee
+        belongs at the same time as notice is given to the employee.
+    section: "30"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Arbetstagaren och den lokala arbetstagarorganisation som arbetstagaren tillhör
+        har rätt till överläggning med arbetsgivaren om den åtgärd som underrättelsen
+        och varslet avser. En förutsättning är dock att överläggning begärs senast en
+        vecka efter det att underrättelsen eller varslet lämnades.
+      en:
+        The employee and the local organisation of employees to which the employee
+        belongs are entitled to consultations with the employer concerning the measure
+        to which the information and the notice relate. This shall apply provided that
+        such consultations are requested not more than one week after information or
+        notice was given.
+    section: "30"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Har överläggning begärts, får arbetsgivaren inte verkställa uppsägning eller
+        avskedande förrän överläggningen har avslutats. Lag (1989:963).
+      en:
+        Where such consultations have been requested, the employer may not give notice
+        of termination or summarily dismiss the employee until the consultations have
+        been concluded. (SFS 1989:963).
+    section: "30"
+    paragraph: "3"
+  - type: section_heading
+    text:
+      sv: 30 a §
+      en: Section 30a
+    section: 30a
+    slug: section-30a
+  - type: paragraph_text
+    text:
+      sv:
+        En arbetsgivare som ger en arbetstagare besked enligt 15 § om att en tidsbegränsad
+        anställning skall upphöra skall samtidigt varsla den lokala arbetstagarorganisation
+        som arbetstagaren tillhör.
+      en:
+        An employer who gives an employee notice, under Section 15, of the termination
+        of fixed-term employment, shall at the same time notify the local organisation
+        of employees to which the employee belongs.
+    section: 30a
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Arbetstagaren och den lokala arbetstagarorganisationen har rätt till överläggning
+        med arbetsgivaren om beskedet. Lag (1989:963).
+      en:
+        The employee and the local organisation of employees are entitled to enter
+        into consultations with the employer concerning the notice. (SFS 1989:963).
+    section: 30a
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 31 §
+      en: Section 31
+    section: "31"
+    slug: section-31
+  - type: paragraph_text
+    text:
+      sv:
+        En arbetsgivare som avser att ge en arbetstagare besked om att en provanställning
+        skall avbrytas i förtid eller avslutas utan att övergå i en tillsvidareanställning
+        skall underrätta arbetstagaren om detta minst två veckor i förväg. Är arbetstagaren
+        fackligt organiserad, skall arbetsgivaren samtidigt med underrättelsen varsla
+        den lokala arbetstagarorganisation som arbetstagaren tillhör.
+      en:
+        An employer who intends to give notice to an employee that probationary employment
+        will be terminated prematurely, or that such employment will be terminated without
+        it being converted into indefinite-term employment, shall notify the employee
+        of such at least two weeks in advance. Where the employee is a union member,
+        the employer shall notify the local organisation of employees to which the employee
+        belongs at the same time as notice is given to the employee.
+    section: "31"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Arbetstagaren och den lokala arbetstagarorganisationen har rätt till överläggning
+        med arbetsgivaren om beskedet.
+      en:
+        The employee, and the local organisation of employees to which the employee
+        belongs, shall be entitled to consultations with the employer concerning the
+        notice.
+    section: "31"
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 32 §
+      en: Section 32
+    section: "32"
+    slug: section-32
+  - type: paragraph_text
+    text:
+      sv:
+        En arbetsgivare som avser att anställa en arbetstagare, när någon annan har
+        företrädesrätt till återanställning i verksamheten eller företrädesrätt till
+        en anställning med högre sysselsättningsgrad, skall först förhandla med den
+        berörda arbetstagarorganisationen på det sätt som anges i 11-14 §§ lagen (1976:580)
+        om medbestämmande i arbetslivet. Detsamma gäller när fråga uppkommer om vem
+        av flera företrädesberättigade som skall få återanställning eller en anställning
+        med högre sysselsättningsgrad. Lag (1996:1424).
+      en:
+        An employer who intends to employ an employee under circumstances where another
+        person has rights of priority for re-employment in the business or rights of
+        priority for employment at a higher level of occupation, shall first negotiate
+        with the relevant organisation of employees under Sections 11 - 14 of the Employment
+        (Co-determination in the Workplace) Act (1976:580). The abovementioned provision
+        shall also apply where a question arises as to which of several persons with
+        rights of priority shall obtain re-employment or employment at a higher level
+        of occupation. (SFS 1996:1424).
+    section: "32"
+    paragraph: "1"
+  - type: group_heading
+    text:
+      sv: Rätt att kvarstå i anställningen till 69 år
+      en: Right to remain in the employment up to the age of 69
+  - type: section_heading
+    text:
+      sv: 32 a §
+      en: Section 32a
+    section: 32a
+    slug: section-32a
+  - type: paragraph_text
+    text:
+      sv:
+        En arbetstagare har rätt att kvarstå i anställningen till utgången av den
+        månad då han eller hon fyller 69 år, om inte något annat följer av denna lag.
+        Lag (2019:529).
+      en:
+        An employee is entitled to remain in the employment up to the end of the month
+        when he or she attains the age of 69, unless otherwise prescribed by this Act.
+        (SFS 2019:529).
+    section: 32a
+    paragraph: "1"
+  - type: group_heading
+    text:
+      sv: Särskilda bestämmelser för arbetstagare som har fyllt 69 år
+      en: Special provisions for employees aged 69 or over
+  - type: section_heading
+    text:
+      sv: 33 §
+      en: Section 33
+    section: "33"
+    slug: section-33
+  - type: paragraph_text
+    text:
+      sv: |-
+        Vid uppsägning av en arbetstagare som har fyllt 69 år ska följande bestämmelser inte tillämpas:
+
+        1. 7 § om sakliga skäl för uppsägning,
+        2. 8 § andra stycket om innehållet i ett uppsägningsbesked,
+        3. 9 § om skyldighet för arbetsgivaren att uppge grunden för uppsägningen, och
+        4. 34 § om ogiltigförklaring av uppsägning. Lag (2022:836).
+      en: |-
+        In the event of notice of termination of an employee aged 69 or over, the following provisions will not apply:
+
+        1. Section 7 regarding objective grounds for notice of termination;
+        2. Section 8, second paragraph regarding the contents of a notice of termination;
+        3. Section 9 regarding the employer’s obligation to state the grounds for notice of termination; and
+        4. Section 34 regarding invalidity of a notice of termination. (SFS 2022:836)
+    section: "33"
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 33 a §
+      en: Section 33a
+    section: 33a
+    slug: section-33a
+  - type: paragraph_text
+    text:
+      sv:
+        Vid uppsägning av en arbetstagare som har fyllt 69 år ska 30 § om underrättelse,
+        varsel och rätt till överläggning tillämpas, om inte förhandling enligt 11-14
+        §§ lagen (1976:580) om medbestämmande i arbetslivet har hållits i frågan. Lag
+        (2019:529).
+      en:
+        In the event of notice of termination of an employee aged 69 or over, Section
+        30 regarding notification to the employee and trade union and the right to mediation
+        applies, unless negotiations under Sections 11–14 of the Employment (Co-determination
+        in the Workplace) Act (1976:580) have been held on the matter. (SFS 2019:529)
+    section: 33a
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 33 b §
+      en: Section 33b
+    section: 33b
+    slug: section-33b
+  - type: paragraph_text
+    text:
+      sv:
+        En arbetstagare som har fyllt 69 år har inte rätt till längre uppsägningstid
+        än en månad och har inte heller företrädesrätt enligt 22, 23, 25 eller 25 a
+        §. Lag (2019:529).
+      en:
+        An employee aged 69 or over is not entitled to more than one month’s notice
+        of termination and does not have a preferential right to re-employment under
+        Section 22, 23, 25 or 25a. (SFS 2019:529)
+    section: 33b
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 33 c §
+      en: Section 33c
+    section: 33c
+    slug: section-33c
+  - type: paragraph_text
+    text:
+      sv:
+        Vid avskedande av en arbetstagare som har fyllt 69 år tillämpas inte bestämmelsen
+        i 35 § om ogiltigförklaring. I den situationen behöver ett besked enligt 19
+        § andra stycket inte innehålla information om vad arbetstagaren ska iaktta om
+        arbetstagaren vill göra gällande att avskedandet är ogiltigt. Lag (2019:529).
+      en:
+        In the event of the dismissal of an employee aged 69 or over, the provisions
+        of Section 35 concerning invalidity do not apply. In this situation, notification
+        under Section 19, second paragraph does not need to contain information about
+        what the employee must observe if they wish to claim that the dismissal is invalid.
+        (SFS 2019:529)
+    section: 33c
+    paragraph: "1"
+  - type: section_heading
+    text:
+      sv: 33 d §
+      en: Section 33d
+    section: 33d
+    slug: section-33d
+  - type: paragraph_text
+    text:
+      sv:
+        För en arbetstagare som har fyllt 69 år övergår inte en särskild visstidsanställning
+        eller ett vikariat till en tillsvidareanställning enligt 5 a §. Lag (2022:836)
+      en:
+        For an employee aged 69 or over, specific fixed-term employment or temporary
+        substitute employment is not transformed into indefinite-term employment under
+        Section 5a. (SFS 2022:836).
+    section: 33d
+    paragraph: "1"
+  - type: group_heading
+    text:
+      sv: Tvister om giltigheten av uppsägningar eller avskedanden m.m.
+      en: Disputes concerning validity of notices of termination or dismissals, etc.
+  - type: section_heading
+    text:
+      sv: 34 §
+      en: Section 34
+    section: "34"
+    slug: section-34
+  - type: paragraph_text
+    text:
+      sv:
+        Om en arbetstagare sägs upp utan sakliga skäl, ska uppsägningen förklaras
+        ogiltig på yrkande av arbetstagaren. Detta gäller dock inte om uppsägningen
+        angrips endast därför att den strider mot turordningsregler.
+      en:
+        Where notice of termination is given without objective grounds, the notice
+        shall be declared invalid upon the application of the employee. However, the
+        above-mentioned provision shall not apply where the notice of termination is
+        challenged solely on the grounds that it is in breach of the rules regarding
+        priority.
+    section: "34"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Vid en tvist om ogiltighet av en uppsägning kan domstol inte för tiden fram
+        till det slutliga avgörandet besluta att anställningen ska bestå efter uppsägningstidens
+        utgång. Lag (2022:835).
+      en:
+        In the event of a dispute concerning invalidity of a notice of termination,
+        the court cannot, for the period up to the final ruling, decide that the employment
+        must continue beyond the expiry of the period of notice. (SFS 2022:835)
+    section: "34"
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 35 §
+      en: Section 35
+    section: "35"
+    slug: section-35
+  - type: paragraph_text
+    text:
+      sv:
+        Har en arbetstagare blivit avskedad under omständigheter som inte ens skulle
+        ha räckt till för en giltig uppsägning, ska avskedandet förklaras ogiltigt på
+        yrkande av arbetstagaren.
+      en:
+        Where an employee has been summarily dismissed under circumstances that would
+        not constitute grounds for a valid notice of termination, the summary dismissal
+        shall be declared invalid upon the application of the employee.
+    section: "35"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Vid en tvist om ogiltighet av ett avskedande kan domstol inte för tiden fram
+        till det slutliga avgörandet besluta att anställningen ska bestå. Lag (2022:835).
+      en:
+        In the event of a dispute concerning invalidity of a dismissal, the court
+        cannot, for the period up to the final ruling, decide that the employment must
+        continue. (SFS 2022:835)
+    section: "35"
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 36 §
+      en: Section 36
+    section: "36"
+    slug: section-36
+  - type: paragraph_text
+    text:
+      sv:
+        Ett anställningsavtal som har tidsbegränsats i strid mot 4 § första stycket
+        ska förklaras gälla tills vidare på yrkande av arbetstagaren.
+      en:
+        A contract of employment, the term of which has been limited in contravention
+        of Section 4, first paragraph, shall, upon the application of the employee,
+        be declared valid for an indefinite term.
+    section: "36"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Om ett sådant yrkande framställs, kan domstol besluta att anställningen trots
+        avtalet ska bestå tills tvisten har slutligt avgjorts. Arbetstagaren har rätt
+        till lön och andra förmåner enligt 12-14 §§ så länge anställningen består.
+      en:
+        Where such an application is brought, a court may order that the employment
+        shall continue, notwithstanding the contract, pending final adjudication of
+        the dispute. The employee shall be entitled to pay and other benefits under
+        Sections 12 - 14 for the duration of the employment.
+    section: "36"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Första och andra styckena tillämpas inte för vikariat, om grunden för arbetstagarens
+        yrkande bara är att arbetsgivarens syfte med anställningen varit att kringgå
+        arbetstagarens rätt enligt 3 § andra stycket. Lag (2022:835).
+      en:
+        The first and second paragraphs do not apply to substitute positions if the
+        grounds for the employee’s claim are that it was the employer’s aim to circumvent
+        the employee’s rights under Section 3, second paragraph through the employment.
+        (SFS 2022:835)
+    section: "36"
+    paragraph: "3"
+  - type: section_heading
+    text:
+      sv: 37 §
+      en: Section 37
+    section: "37"
+    slug: section-37
+  - type: paragraph_text
+    text:
+      sv:
+        Om en domstol genom lagakraftvunnen dom har ogiltigförklarat en uppsägning
+        eller ett avskedande, får arbetsgivaren inte avstänga arbetstagaren från arbete
+        på grund av de omständigheter som har föranlett uppsägningen eller avskedandet.
+      en:
+        Where a court has issued a final order that a notice of termination or a summary
+        dismissal is invalid, the employer may not suspend the employee from work as
+        a consequence of the circumstances that caused the notice of termination or
+        summary dismissal.
+    section: "37"
+    paragraph: "1"
+  - type: group_heading
+    text:
+      sv: Skadestånd
+      en: Damages
+  - type: section_heading
+    text:
+      sv: 38 §
+      en: Section 38
+    section: "38"
+    slug: section-38
+  - type: paragraph_text
+    text:
+      sv:
+        En arbetsgivare som bryter mot denna lag skall betala inte bara lön och andra
+        anställningsförmåner som arbetstagaren kan ha rätt till utan även ersättning
+        för skada som uppkommer. En arbetstagare är skadeståndsskyldig om han eller
+        hon inte iakttar den uppsägningstid som anges i 11 § första stycket.
+      en:
+        An employer who violates this Act shall be liable for damages for loss suffered
+        by the employee as well as pay and other employment benefits to which the employee
+        may be entitled. An employee who fails to comply with the notice obligations
+        mentioned in Section 11, first paragraph, shall be liable for damages to the
+        employer.
+    section: "38"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Skadestånd enligt första stycket kan avse både ersättning för den förlust
+        som uppkommer och ersättning för den kränkning som lagbrottet innebär. Ersättning
+        för förlust som avser tid efter anställningens upphörande får under alla förhållanden
+        bestämmas till högst det belopp som anges i 39 §.
+      en:
+        Damages under the first paragraph may comprise both compensation for losses
+        sustained and for violation of the Act. Compensation for losses in respect of
+        the period following the cessation of employment may not, under any circumstances,
+        exceed the amount mentioned in Section 39.
+    section: "38"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv: Om det är skäligt, kan skadeståndet sättas ned eller helt falla bort.
+      en: Where reasonable, damages may be reduced, in whole or in part.
+    section: "38"
+    paragraph: "3"
+  - type: section_heading
+    text:
+      sv: 38 a §
+      en: Section 38a
+    section: 38a
+    slug: section-38a
+  - type: paragraph_text
+    text:
+      sv:
+        Om en uppsägning enligt 7 § eller ett avskedande enligt 18 § ogiltigförklarats
+        och ersättning för den kränkning som lagbrottet innebär ska bestämmas, ska särskilt
+        syftet att motverka överträdelser av dessa bestämmelser beaktas.
+      en:
+        If a notice of termination under Section 7 or a dismissal under Section 18
+        is ruled invalid and compensation must be determined for the violation implied
+        by the legal infringement, particular consideration is given to the purpose
+        of discouraging infringements of these provisions.
+    section: 38a
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv: |-
+        Även när talan förs om ogiltighet av ett avskedande ska syftet att motverka överträdelser av 18 § särskilt beaktas när ersättning för kränkning bestäms vid ett lagstridigt avskedande men där det funnits sakliga skäl för uppsägning.
+        Lag (2022:835).
+      en:
+        Moreover, when action is brought concerning invalidity of a dismissal, particular
+        consideration is given to the purpose of discouraging violations of Section
+        18 when determining compensation for the violation implied where a dismissal
+        was unlawful, but based on objective grounds. (SFS 2022:835)
+    section: 38a
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 39 §
+      en: Section 39
+    section: "39"
+    slug: section-39
+  - type: paragraph_text
+    text:
+      sv:
+        Om en arbetsgivare vägrar att rätta sig efter en dom, varigenom en domstol
+        har ogiltigförklarat en uppsägning eller ett avskedande eller har förklarat
+        att en tidsbegränsad anställning skall gälla tills vidare, skall anställningsförhållandet
+        anses som upplöst. Arbetsgivaren skall för sin vägran betala skadestånd till
+        arbetstagaren enligt följande bestämmelser.
+      en:
+        Where an employer refuses to comply with a court order that notice of termination
+        or a summary dismissal is invalid, or that a fixed-term employment shall be
+        valid for an indefinite term, the employment relationship shall be deemed to
+        have been dissolved. As a consequence of the employer's refusal to comply with
+        the court order, the employer shall pay damages to the employee under the following
+        provisions.
+    section: "39"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Skadeståndet beräknas med utgångspunkt i arbetstagarens sammanlagda anställningstid
+        hos arbetsgivaren när anställningsförhållandet upplöses och bestäms till ett
+        belopp motsvarande
+      en: |-
+        Damages are to be determined according to the employee's total period of employment with the
+        employer at the time of dissolution of the employment relationship, and shall correspond to the
+        following amounts:
+    section: "39"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv: 16 månadslöner vid mindre än fem års anställningstid,
+      en: 16 months' pay for less than five years of employment;
+    section: "39"
+    paragraph: "3"
+  - type: paragraph_text
+    text:
+      sv: 24 månadslöner vid minst fem men mindre än tio års anställningstid,
+      en: 24 months' pay for at least five years but less than ten years of employment;
+    section: "39"
+    paragraph: "4"
+  - type: paragraph_text
+    text:
+      sv: 32 månadslöner vid minst tio års anställningstid.
+      en: 32 months' pay for ten or more years of employment;
+    section: "39"
+    paragraph: "5"
+  - type: paragraph_text
+    text:
+      sv:
+        Skadeståndet får dock inte bestämmas så att beloppet beräknas efter flera
+        månadslöner än som motsvarar antalet påbörjade anställningsmånader hos arbetsgivaren.
+        Har arbetstagaren varit anställd mindre än sex månader, skall beloppet likväl
+        motsvara sex månadslöner. Lag (2007:389).
+      en:
+        Damages may not be determined, however, in such a manner that such damages
+        are calculated on the basis of a greater number of months than have actually
+        been commenced with the employer. Where the employee has been employed by the
+        employer for less than six months, the amount assessed shall correspond to six
+        months' pay. (SFS 2007:389).
+    section: "39"
+    paragraph: "6"
+  - type: group_heading
+    text:
+      sv: Preskription
+      en: Limitations
+  - type: section_heading
+    text:
+      sv: 40 §
+      en: Section 40
+    section: "40"
+    slug: section-40
+  - type: paragraph_text
+    text:
+      sv:
+        En arbetstagare som avser att yrka ogiltigförklaring av en uppsägning eller
+        ett avskedande, skall underrätta arbetsgivaren om detta senast två veckor efter
+        det att uppsägningen eller avskedandet skedde. Har arbetstagaren inte fått något
+        sådant besked om ogiltighetstalan som avses i 8 § andra stycket eller 19 § andra
+        stycket, uppgår dock tidsfristen till en månad och räknas från den dag då anställningen
+        upphörde.
+      en:
+        An employee who intends to initiate proceedings to have a notice of termination
+        or a summary dismissal declared invalid shall notify the employer of such intention
+        not later than two weeks after notice of termination was given or summary dismissal
+        has occurred. Where, however, the employee has not been informed of the procedures
+        to be followed concerning invalidation, as provided in Section 8, second paragraph,
+        or Section 19, second paragraph, the period of limitation shall be one month
+        from the day on which the employment was terminated.
+    section: "40"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Om en arbetstagare gör gällande att ett anställningsavtal har tidsbegränsats
+        i strid mot 4 § första stycket och avser att yrka förklaring att avtalet skall
+        gälla tills vidare, skall arbetstagaren underrätta arbetsgivaren om detta senast
+        en månad efter anställningstidens utgång.
+      en:
+        Where an employee claims that the term of a contract of employment has been
+        limited in violation of Section 4, first paragraph, and where such employee
+        intends to initiate proceedings to have the contract declared valid for an indefinite
+        term, he shall notify the employer to this effect not later than one month after
+        the expiration of the period of employment.
+    section: "40"
+    paragraph: "2"
+  - type: paragraph_text
+    text:
+      sv:
+        Har inom underrättelsetiden påkallats förhandling rörande tvistefrågan enligt
+        lagen (1976:580) om medbestämmande i arbetslivet eller med stöd av kollektivavtal,
+        skall talan väckas inom två veckor efter det att förhandlingen avslutades. I
+        annat fall skall talan väckas inom två veckor efter det att tiden för underrättelse
+        gick ut.
+      en:
+        Where negotiations have been demanded within the period of notice in respect
+        of a matter governed by the Employment (Co-Determination in the Workplace) Act
+        (1976:580), or by a collective bargaining agreement, proceedings must be commenced
+        not more than two weeks after the conclusion of the negotiations. In circumstances
+        other than those referred to above, proceedings shall be commenced within two
+        weeks of the expiry of the period of notice.
+    section: "40"
+    paragraph: "3"
+  - type: section_heading
+    text:
+      sv: 41 §
+      en: Section 41
+    section: "41"
+    slug: section-41
+  - type: paragraph_text
+    text:
+      sv:
+        Den som vill kräva skadestånd eller framställa annat fordringsanspråk som
+        grundar sig på bestämmelserna i denna lag skall underrätta motparten om detta
+        inom fyra månader från den tidpunkt då den skadegörande handlingen företogs
+        eller fordringen förföll till betalning. Har en arbetstagare inte fått något
+        sådant besked om skadeståndstalan som avses i 8 § andra stycket eller 19 § andra
+        stycket, räknas tiden i stället från den dag då anställningen upphörde. Avser
+        arbetstagarens yrkande brott mot 4 § första stycket, räknas tidsfristen från
+        anställningstidens utgång. Avser arbetstagarens yrkande brott mot 6 f § räknas
+        tidsfristen från den dag då någon anställdes på den lediga anställningen.
+      en:
+        Any person who wishes to claim damages or advance other claims based upon
+        the provisions of this Act shall notify the other party to this effect not more
+        than four months after the date on which the action giving rise to the damages
+        was taken or the claim became payable. Where an employee has not been informed
+        of the procedures to be followed for bringing a claim for damages as referred
+        to in Section 8, second paragraph, or Section 19, second paragraph, the period
+        of notice shall be calculated commencing on the day on which the employment
+        was terminated. Where the employee's claim relates to a breach of Section 4,
+        first paragraph, the period of limitation shall commence at the expiry of employment.
+        If the employee’s claim relates to a breach of Section 6 f, the time limit is
+        counted from the date on which anyone was appointed to the vacant employment.
+    section: "41"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Har inom underrättelsetiden påkallats förhandling rörande tvistefrågan enligt
+        lagen (1976:580) om medbestämmande i arbetslivet eller med stöd av kollektivavtal,
+        skall talan väckas inom fyra månader efter det att förhandlingen avslutades.
+        I annat fall skall talan väckas inom fyra månader efter det att tiden för underrättelse
+        gick ut. Lag (2006:439).
+      en:
+        Where negotiations have been demanded within the period of notice in respect
+        of a matter governed by the Employment (Co-Determination in the Workplace) Act
+        (1976:580), or by a collective bargaining agreement, proceedings must be commenced
+        not more than four months after the conclusion of the negotiations. In circumstances
+        other than those referred to above, proceedings shall be commenced within four
+        months of the expiry of the period of notice. (SFS 2006:439).
+    section: "41"
+    paragraph: "2"
+  - type: section_heading
+    text:
+      sv: 42 §
+      en: Section 42
+    section: "42"
+    slug: section-42
+  - type: paragraph_text
+    text:
+      sv:
+        Lämnas inte underrättelse eller väcks inte talan inom den tid som föreskrivs
+        i 40 eller 41 §, har parten förlorat sin talan.
+      en:
+        A claim shall lapse where notice has not been given or proceedings have not
+        been commenced in respect thereof within the period stated in Sections 40 or
+        41.
+    section: "42"
+    paragraph: "1"
+  - type: group_heading
+    text:
+      sv: Rättegången
+      en: "Legal Proceedings "
+  - type: section_heading
+    text:
+      sv: 43 §
+      en: Section 43
+    section: "43"
+    slug: section-43
+  - type: paragraph_text
+    text:
+      sv:
+        Mål om tillämpning av denna lag handläggs enligt lagen (1974:371) om rättegången
+        i arbetstvister. Mål som avses i 34-36 §§ ska handläggas skyndsamt.
+      en:
+        Proceedings concerning the application of this Act shall be conducted in accordance
+        with the Labour Disputes (Judicial Procedure) Act (1974:371). Proceedings under
+        Sections 34 - 36 shall be conducted expeditiously.
+    section: "43"
+    paragraph: "1"
+  - type: paragraph_text
+    text:
+      sv:
+        Ett yrkande om beslut enligt 36 § andra stycket får inte bifallas utan att
+        motparten har fått tillfälle att yttra sig. Om ett dröjsmål skulle medföra risk
+        för skada, får dock domstolen omedelbart bifalla yrkandet att gälla till dess
+        något annat beslutas. Beslut som en tingsrätt har meddelat under rättegången
+        får överklagas särskilt. Lag (2022:835).
+      en:
+        A request for a decision under Section 36, second paragraph must not be approved
+        without the other party having the opportunity to make a statement. However,
+        if a delay would entail a risk of harm, the court may immediately approve the
+        request until a further decision is taken. Decisions issued by a district court
+        during legal proceedings may be appealed separately. (SFS 2022:835)
+    section: "43"
+    paragraph: "2"

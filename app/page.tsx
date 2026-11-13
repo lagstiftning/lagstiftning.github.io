@@ -10,7 +10,6 @@ import { Main } from "@svenskamodellen/components/Main";
 import { TopLevelHeading } from "@svenskamodellen/components/TopLevelHeading";
 
 export default function Home() {
-  const deploymentUrl = "https://lagstiftning.github.io";
   return (
     <>
       <Breadcrumbs>
@@ -34,7 +33,7 @@ export default function Home() {
           <LegislationList>
             <LegislationItem>
               <LegislationLink
-                href={`${deploymentUrl}/arbetsmiljolagen/2023:349/`}
+                href="/arbetsmiljolagen/2023:349/"
               >
                 The Work Environment Act
               </LegislationLink>
@@ -45,7 +44,7 @@ export default function Home() {
 
             <LegislationItem>
               <LegislationLink
-                href={`${deploymentUrl}/medbestammandelagen/2021:1114/`}
+                href="/medbestammandelagen/2021:1114/"
               >
                 The Co-Determination Act
               </LegislationLink>
@@ -58,7 +57,7 @@ export default function Home() {
 
             <LegislationItem>
               <LegislationLink
-                href={`${deploymentUrl}/lagen-om-anstallningsskydd/2022:836/`}
+                href="/lagen-om-anstallningsskydd/2022:836/"
               >
                 The Employment Protection Act
               </LegislationLink>
@@ -69,7 +68,7 @@ export default function Home() {
 
             <LegislationItem>
               <LegislationLink
-                href={`${deploymentUrl}/arbetstidslagen/2022:450/`}
+                href="/arbetstidslagen/2022:450/"
               >
                 The Working Hours Act
               </LegislationLink>

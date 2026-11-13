@@ -1,0 +1,3731 @@
+name:
+  sv: Arbetsmiljölagen
+  en: The Swedish Work Environment Act
+abbreviation: AML
+code: 2023:349
+elements:
+- type: document_heading
+  text:
+    sv: Arbetsmiljölag (1977:1160)
+    en: Work Environment Act (1977:1160)
+- type: chapter_heading
+  text:
+    sv: 1 kap. Lagens ändamål och tillämpningsområde
+    en: Chapter 1 Purpose and scope of the Act
+  chapter: '1'
+- type: section_heading
+  text:
+    sv: 1 §
+    en: Section 1
+  chapter: '1'
+  section: '1'
+  slug: chapter-1-section-1
+- type: paragraph_text
+  text:
+    sv: Lagens ändamål är att förebygga ohälsa och olycksfall i arbetet samt att även
+      i övrigt uppnå en god arbetsmiljö. _Lag (1994:579)._
+    en: The purpose of this Act is to prevent occupational illness and accidents and
+      to otherwise ensure a good work environment. Act (1994:579).
+  chapter: '1'
+  section: '1'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 2 §
+    en: Section 2
+  chapter: '1'
+  section: '2'
+  slug: chapter-1-section-2
+- type: paragraph_text
+  text:
+    sv: Denna lag gäller varje verksamhet i vilken arbetstagare utför arbete för en
+      arbetsgivares räkning. I fråga om fartygsarbete gäller lagen även när svenska
+      fartyg används till sjöfart utanför Sveriges sjöterritorium.
+    en: This Act applies to every activity in which employees perform work on behalf
+      of an employer. The Act also applies to work on ships even when a Swedish ship
+      is used for maritime transport outside the territorial waters of Sweden.
+  chapter: '1'
+  section: '2'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: I fråga om fartyg och fartygsarbete ska vad som sägs i denna lag om Arbetsmiljöverket
+      i stället gälla Transportstyrelsen. Vad som sägs om en arbetsgivare i denna
+      lag ska såvitt avser fartyg också gälla en redare, även då fartygsarbete utförs
+      av någon annan än den som är anställd av redaren. Med redare likställs i denna
+      lag den som i redarens ställe utövar ett avgörande inflytande över fartygets
+      drift.
+    en: Regarding ships and work on ships, the provisions of this Act concerning the
+      Swedish Work Environment Authority shall apply to the Swedish Transport Agency
+      instead. The provisions of this Act concerning employers shall, as regards ships,
+      also apply to shipowners, even when work on the ship is performed by someone
+      other than a person employed by the shipowner. In this Act, a party who exercises
+      decisive influence on the operation of the ship in the shipowner’s stead shall
+      be equated with a shipowner.
+  chapter: '1'
+  section: '2'
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: Om skyldigheter i vissa avseenden för andra än arbetsgivare och arbetstagare
+      finns bestämmelser i 3 och 5 kap.
+    en: Chapters 3 and 5 contain provisions concerning obligations in certain respects
+      of persons other than employers and employees.
+  chapter: '1'
+  section: '2'
+  paragraph: '3'
+- type: paragraph_text
+  text:
+    sv: |-
+      I lagen finns också bestämmelser om marknadskontroll.
+      Lag (2022:1109).
+    en: |-
+      The law also contains provisions regarding market control.
+      Act (2022:1109).
+  chapter: '1'
+  section: '2'
+  paragraph: '4'
+- type: section_heading
+  text:
+    sv: 2 a §
+    en: Section 2a
+  chapter: '1'
+  section: 2a
+  slug: chapter-1-section-2a
+- type: paragraph_text
+  text:
+    sv: Bestämmelser om befälhavarens skyldigheter vid fartygsarbete finns i fartygssäkerhetslagen
+      (2003:364).
+    en: Provisions on the obligations of masters in connection with work on ships
+      are contained in the Ship Safety Act (2003:364)
+  chapter: '1'
+  section: 2a
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: I fråga om varor som är avsedda för konsumenter eller som kan antas komma
+      att användas av konsumenter gäller också produktsäkerhetslagen (2004:451). Lag
+      (2018:126).
+    en: The Product Safety Act (2004:451) also applies as regards products that are
+      intended for consumers or that it may be assumed will be used by consumers.
+  chapter: '1'
+  section: 2a
+  paragraph: '2'
+- type: section_heading
+  text:
+    sv: 2 b §
+    en: Section 2b
+  chapter: '1'
+  section: 2b
+  slug: chapter-1-section-2b
+- type: paragraph_text
+  text:
+    sv: Bestämmelser om tillverkning, utsläppande på marknaden och användning av ämnen,
+      även när de ingår i blandningar eller i varor, finns i Europaparlamentets och
+      rådets förordning (EG) nr 1907/2006 av den 18 december 2006 om registrering,
+      utvärdering, godkännande och begränsning av kemikalier (Reach), inrättande av
+      en europeisk kemikaliemyndighet, ändring av direktiv 1999/45/EG och upphävande
+      av rådets förordning (EEG) nr 793/93 och kommissionens förordning (EG) nr 1488/94
+      samt rådets direktiv 76/769/EEG och kommissionens direktiv 91/155/EEG, 93/67/EEG,
+      93/105/EG och 2000/21/EG.
+    en: Provisions on the manufacturing, placing on the market and use of substances,
+      even when they are included in mixtures or in goods, in preparations or in articles,
+      are given in Regulation (EC) No 1907/2006 of the European Parliament and of
+      the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation
+      and Restriction of Chemicals (REACH), establishing a European Chemicals Agency,
+      amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93
+      and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC
+      and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC. Act
+      (2010:1543).
+  chapter: '1'
+  section: 2b
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: |-
+      Bestämmelser om utformning och tillverkning av personlig skyddsutrustning finns i Europaparlamentets och rådets förordning (EU) nr 2016/425 av den 9 mars 2016 om personlig skyddsutrustning och om upphävande av rådets direktiv 89/686/EEG.
+      Lag (2018:126).
+    en: Provisions on the design and manufacturing of personal protective equipment
+      are given in Regulation (EU) No 2016/425 of the European Parliament and of the
+      Council of 9 March 2016 on personal protective equipment and repealing Council
+      Directive 89/686/EEC. Act (2018:126).
+  chapter: '1'
+  section: 2b
+  paragraph: '2'
+- type: section_heading
+  text:
+    sv: 2 c §
+    en: Section 2c
+  chapter: '1'
+  section: 2c
+  slug: chapter-1-section-2c
+- type: paragraph_text
+  text:
+    sv: Bestämmelserna i 2 kap. 1 § första stycket, 2 och 3 §§ och 3 kap. 4 § andra
+      stycket gäller utländska fartyg inom Sveriges sjöterritorium. Regeringen får
+      meddela föreskrifter om att även andra bestämmelser i lagen ska gälla för sådana
+      fartyg. Lag (2018:126).
+    en: The provisions in Chapter 2, Section 1, first paragraph, Sections 2 and 3,
+      and Chapter 3, Section 4, second paragraph apply to foreign ships in the territorial
+      waters of Sweden. The Government may issue regulations prescribing that other
+      provisions of the law shall also apply to such vessels. Law (2018:126).
+  chapter: '1'
+  section: 2c
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 3 §
+    en: Section 3
+  chapter: '1'
+  section: '3'
+  slug: chapter-1-section-3
+- type: paragraph_text
+  text:
+    sv: |-
+      Vid tillämpning av 2-4 och 7-9 kap. ska med arbetstagare likställas
+
+      1. den som genomgår utbildning, med undantag för barn i förskolan och elever i fritidshemmet,
+      2. den som under vård i anstalt utför anvisat arbete,
+      3. den som tjänstgör enligt lagen (1994:1809) om totalförsvarsplikt och annan som fullgör i lag föreskriven tjänstgöring eller som deltar i frivillig utbildning för verksamhet inom totalförsvaret.
+    en: |-
+      For the purposes of Chapters 2–4 and 7–9, the following persons are to be treated as employees:
+
+      1. persons undergoing education or training, with the exception of children in preschool and pupils in out-of-school centres;
+      2. persons in institutional care performing work that they have been assigned;
+      3. persons serving under the National Total Defence Service Act (1994:1809) and other persons performing duties prescribed by an act or voluntarily participating in education or training for activities within the scope of the total defence.
+  chapter: '1'
+  section: '3'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: De som avses i första stycket 1 och 2 ska likställas med arbetstagare även
+      vid tillämpning av 5 kap. 1 och 3 §§. I fråga om dem som genomgår utbildning
+      finns dessutom särskilda bestämmelser i 6 kap. 6 a, 8, 15, 17 och 18 §§, 7 kap.
+      13 och 14 §§ samt 9 kap. 3 §.
+    en: Persons referred to in points 1 and 2 of the first paragraph are also to be
+      treated as employees for the purposes of Chapter 5, Sections 1 and 3. In addition,
+      Chapter 6, Sections 6a, 8, 15, 17 and 18, Chapter 7, Sections 13 and 14, and
+      Chapter 9, Section 3 contain special provisions concerning persons undergoing
+      education or training.
+  chapter: '1'
+  section: '3'
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: I fall som avses i första och andra styckena ska det som i lagen sägs om arbetsgivare
+      gälla den som driver den verksamhet i vilken arbetet utförs. Lag (2010:856).
+    en: In cases referred to in the first and second paragraphs, the provisions of
+      this Act concerning employers shall apply to a person conducting the activities
+      in the context of which the work is performed. Act (2010:856).
+  chapter: '1'
+  section: '3'
+  paragraph: '3'
+- type: section_heading
+  text:
+    sv: 4 §
+    en: Section 4
+  chapter: '1'
+  section: '4'
+  slug: chapter-1-section-4
+- type: paragraph_text
+  text:
+    sv: För deltagare i arbetsmarknadspolitiska program är denna lag tillämplig i
+      den utsträckning som framgår av 7 § lagen (2000:625) om den arbetsmarknadspolitiska
+      verksamheten.
+    en: For participants in labour market policy programmes, this Act applies to the
+      extent stated in Section 7 of the Labour Market Policy Programmes Act (2000:625).
+  chapter: '1'
+  section: '4'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: För deltagare i praktik eller annan kompetenshöjande verksamhet som har anvisats
+      av socialnämnd är denna lag tillämplig i den utsträckning som framgår av 4 kap.
+      6 § socialtjänstlagen (2001:453).
+    en: For participants in work experience or other skills enhancement activities
+      who have been assigned to these activities by a social welfare committee, this
+      Act applies to the extent stated in Chapter 4, Section 6 of the Social Services
+      Act (2001:453).
+  chapter: '1'
+  section: '4'
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: För dem som Migrationsverket ger sysselsättning enligt 4 § lagen (1994:137)
+      om mottagande av asylsökande m.fl. är denna lag tillämplig i den utsträckning
+      som framgår av 5 § lagen om mottagande av asylsökande m.fl.
+    en: For persons given employment by the Swedish Migration Agency under Section
+      4 of the Reception of Asylum Seekers and Others Act (1994:137), this Act applies
+      to the extent stated in Section 5 of the Reception of Asylum Seekers and Others
+      Act.
+  chapter: '1'
+  section: '4'
+  paragraph: '3'
+- type: paragraph_text
+  text:
+    sv: Att denna lag i vissa fall, utöver vad som framgår av 2 § första stycket andra
+      meningen, gäller även utomlands framgår av 5 § lagen (2010:449) om Försvarsmaktens
+      personal vid internationella militära insatser. Lag (2020:476).
+    en: Section 5 of the Act on Swedish Armed Forces Personnel in International Military
+      Operations (2010:449) states that this Act also applies abroad in certain cases
+      other than those indicated in Section 2, first paragraph, second sentence. Act
+      (2020:476).
+  chapter: '1'
+  section: '4'
+  paragraph: '4'
+- type: section_heading
+  text:
+    sv: 5 §
+    en: Section 5
+  chapter: '1'
+  section: '5'
+  slug: chapter-1-section-5
+- type: paragraph_text
+  text:
+    sv: |-
+      Regeringen eller den myndighet som regeringen bestämmer får meddela särskilda föreskrifter för totalförsvaret med avvikelse från denna lag.
+      Lag (1991:677).
+    en: The Government or the authority designated by the Government may issue special
+      regulations concerning the total defence in derogation from this Act. Act (1991:677).
+  chapter: '1'
+  section: '5'
+  paragraph: '1'
+- type: chapter_heading
+  text:
+    sv: 2 kap. Arbetsmiljöns beskaffenhet
+    en: Chapter 2 The state of the work environment
+  chapter: '2'
+- type: section_heading
+  text:
+    sv: 1 §
+    en: Section 1
+  chapter: '2'
+  section: '1'
+  slug: chapter-2-section-1
+- type: paragraph_text
+  text:
+    sv: Arbetsmiljön skall vara tillfredsställande med hänsyn till arbetets natur
+      och den sociala och tekniska utvecklingen i samhället. Vid fartygsarbete skall
+      arbetsmiljön vara tillfredsställande också med hänsyn till sjösäkerhetens krav.
+    en: The work environment must be satisfactory, taking into account the nature
+      of the work and social and technological developments in society. In the case
+      of work on ships, the work environment must also be satisfactory with regard
+      to the requirements of maritime safety.
+  chapter: '2'
+  section: '1'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Arbetsförhållandena skall anpassas till människors olika förutsättningar i
+      fysiskt och psykiskt avseende.
+    en: Working conditions must be adapted to people’s differing physical and mental
+      capabilities.
+  chapter: '2'
+  section: '1'
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: Arbetstagaren skall ges möjlighet att medverka i utformningen av sin egen
+      arbetssituation samt i förändrings- och utvecklingsarbete som rör hans eget
+      arbete.
+    en: Employees must be given the opportunity to participate in the design of their
+      own work situation and in processes of change and development affecting their
+      own work.
+  chapter: '2'
+  section: '1'
+  paragraph: '3'
+- type: paragraph_text
+  text:
+    sv: |-
+      Teknik, arbetsorganisation och arbetsinnehåll skall utformas så att arbetstagaren inte utsätts för fysiska eller psykiska belastningar som kan medföra ohälsa eller olycksfall. Därvid skall även löneformer och förläggning av arbetstid beaktas.
+      Starkt styrt eller bundet arbete skall undvikas eller begränsas.
+    en: Technologies, the organisation of work and the content of work must be designed
+      in such a way that the employee is not subjected to physical strain or mental
+      stress that may lead to illness or accidents. Forms of remuneration and the
+      organisation of working time must also be taken into account in this connection.
+      Closely controlled or restricted conditions of work must be avoided or limited.
+  chapter: '2'
+  section: '1'
+  paragraph: '4'
+- type: paragraph_text
+  text:
+    sv: Det skall eftersträvas att arbetet ger möjligheter till variation, social
+      kontakt och samarbete samt sammanhang mellan enskilda arbetsuppgifter.
+    en: Efforts must be made to ensure that the work provides opportunities for variety,
+      social contact and cooperation, as well as coherence between different tasks.
+  chapter: '2'
+  section: '1'
+  paragraph: '5'
+- type: paragraph_text
+  text:
+    sv: Det skall vidare eftersträvas att arbetsförhållandena ger möjligheter till
+      personlig och yrkesmässig utveckling liksom till självbestämmande och yrkesmässigt
+      ansvar. Lag (2003:365).
+    en: Furthermore, efforts must be made to ensure that working conditions provide
+      opportunities for personal and professional development, as well as for independence
+      and professional responsibility. Act (2003:365).
+  chapter: '2'
+  section: '1'
+  paragraph: '6'
+- type: section_heading
+  text:
+    sv: 2 §
+    en: Section 2
+  chapter: '2'
+  section: '2'
+  slug: chapter-2-section-2
+- type: paragraph_text
+  text:
+    sv: Arbete skall planläggas och anordnas så, att det kan utföras i en sund och
+      säker miljö.
+    en: Work must be planned and organised in such a way that it can be performed
+      in a healthy and safe environment.
+  chapter: '2'
+  section: '2'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 3 §
+    en: Section 3
+  chapter: '2'
+  section: '3'
+  slug: chapter-2-section-3
+- type: paragraph_text
+  text:
+    sv: Arbetslokal skall vara så utformad och inredd att den är lämplig från arbetsmiljösynpunkt.
+    en: The premises in which work is performed must be designed and equipped so as
+      to be suitable from a work environment perspective.
+  chapter: '2'
+  section: '3'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 4 §
+    en: Section 4
+  chapter: '2'
+  section: '4'
+  slug: chapter-2-section-4
+- type: paragraph_text
+  text:
+    sv: De arbetshygieniska förhållandena när det gäller luft, ljud, ljus, vibrationer
+      och liknande skall vara tillfredsställande.
+    en: The occupational hygiene conditions must be satisfactory as regards air quality,
+      acoustics, lighting, vibrations and other comparable factors.
+  chapter: '2'
+  section: '4'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: |-
+      Betryggande skyddsåtgärder skall vidtagas mot skada genom fall, ras, brand, explosion, elektrisk ström eller liknande.
+      Lag (2003:365).
+    en: Adequate safety measures must be taken to prevent injuries caused by falls,
+      collapses, fire, explosion, electricity or other comparable factors. Act (2003:365).
+  chapter: '2'
+  section: '4'
+  paragraph: '2'
+- type: section_heading
+  text:
+    sv: 5 §
+    en: Section 5
+  chapter: '2'
+  section: '5'
+  slug: chapter-2-section-5
+- type: paragraph_text
+  text:
+    sv: Maskiner, redskap och andra tekniska anordningar skall vara så beskaffade
+      och placerade och brukas på sådant sätt, att betryggande säkerhet ges mot ohälsa
+      och olycksfall.
+    en: Machinery, tools and other technical equipment must be constructed, positioned
+      and used so as to provide adequate safeguards against illness and accidents.
+  chapter: '2'
+  section: '5'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 6 §
+    en: Section 6
+  chapter: '2'
+  section: '6'
+  slug: chapter-2-section-6
+- type: paragraph_text
+  text:
+    sv: Ämne som kan föranleda ohälsa eller olycksfall får användas endast under förhållanden
+      som ger betryggande säkerhet.
+    en: Substances capable of causing illness or accidents may only be used in conditions
+      that provide adequate safety.
+  chapter: '2'
+  section: '6'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 7 §
+    en: Section 7
+  chapter: '2'
+  section: '7'
+  slug: chapter-2-section-7
+- type: paragraph_text
+  text:
+    sv: Kan betryggande skydd mot ohälsa eller olycksfall icke nås på annat sätt,
+      skall personlig skyddsutrustning användas. Denna skall tillhandahållas genom
+      arbetsgivarens försorg.
+    en: Personal protective equipment must be used when adequate protection against
+      illness or accidents cannot be achieved by other means. This equipment must
+      be provided by the employer.
+  chapter: '2'
+  section: '7'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: |-
+      Vid fartygsarbete skall den personliga skyddsutrustningen tillhandahållas av redaren, om inte någon annan som arbetstagaren är anställd hos har åtagit sig detta ansvar.
+      Lag (2003:365).
+    en: In the case of work on ships, personal protective equipment must be provided
+      by the shipowner, unless someone else by whom the employee is employed has assumed
+      this responsibility. Act (2003:365).
+  chapter: '2'
+  section: '7'
+  paragraph: '2'
+- type: section_heading
+  text:
+    sv: 8 §
+    en: Section 8
+  chapter: '2'
+  section: '8'
+  slug: chapter-2-section-8
+- type: paragraph_text
+  text:
+    sv: I den utsträckning som föranleds av arbetets art och arbetstagarnas behov
+      ska det finnas utrymmen och anordningar för personlig hygien, förtäring och
+      vila samt första hjälp vid olycksfall eller sjukdom.
+    en: Spaces and facilities for personal hygiene, consumption of food and rest,
+      as well as for first aid in the event of accidents or sickness, must be provided
+      to the extent appropriate to the nature of the work and the needs of the employees.
+  chapter: '2'
+  section: '8'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Fordon för personaltransport ska vara lämpade för ändamålet.
+    en: Personnel transport vehicles must be suited to their purpose.
+  chapter: '2'
+  section: '8'
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: Om utrymmen, anordningar, åtgärder för hjälp och vård vid olycksfall eller
+      sjukdom samt kost och vatten ombord på fartyg finns det ytterligare bestämmelser
+      i fartygssäkerhetslagen (2003:364). _Lag (2019:614)._
+    en: The Ship Safety Act (2003:364) contains further provisions on spaces, appliances,
+      measures for help and care in the event of accidents or sickness, and food and
+      water for employees on board ships. Act (2003:365).
+  chapter: '2'
+  section: '8'
+  paragraph: '3'
+- type: section_heading
+  text:
+    sv: 9 §
+    en: Section 9
+  chapter: '2'
+  section: '9'
+  slug: chapter-2-section-9
+- type: paragraph_text
+  text:
+    sv: |-
+      Särskilda bestämmelser om konstruktion och utformning av byggnader finns i plan- och bygglagen (2010:900) och föreskrifter som har meddelats med stöd av den lagen.
+      Lag (2010:905).
+    en: The Planning and Building Act (2010:900) and regulations issued pursuant to
+      that Act contain special provisions concerning the construction and design of
+      buildings. Act (2010:905).
+  chapter: '2'
+  section: '9'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 10 §
+    en: Section 10
+  chapter: '2'
+  section: '10'
+  slug: chapter-2-section-10
+- type: paragraph_text
+  text:
+    sv: Bestämmelser om arbetstid finns i arbetstidslagen (1982:673) och i föreskrifter
+      som har meddelats med stöd av den lagen.
+    en: The Working Hours Act (1982:673) and regulations issued pursuant to that Act
+      contain provisions concerning working hours.
+  chapter: '2'
+  section: '10'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Bestämmelser om arbetstiden och vilotiden vid fartygsarbete finns i lagen
+      (1998:958) om vilotid för sjömän och lagen (2016:960) om arbetstid vid inlandssjöfart.
+    en: The Rest Periods for Seamen Act (1998:958) and the Working Hours in Inland
+      Waterway Shipping Act (2016:960 contain provisions concerning working hours
+      and periods of rest in connection with work on ships.
+  chapter: '2'
+  section: '10'
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: Bestämmelser om arbetstiden vid visst vägtransportarbete finns i lagen (2005:395)
+      om arbetstid vid visst vägtransportarbete.
+    en: The Working Hours for Certain Road Transport Work Act (2005:395) contains
+      provisions concerning working hours for certain road transport work.
+  chapter: '2'
+  section: '10'
+  paragraph: '3'
+- type: paragraph_text
+  text:
+    sv: Särskilda bestämmelser om arbetstid för minderåriga finns i 5 kap. 5 §. Lag
+      (2016:961).
+    en: Chapter 5, Section 5 contains special provisions concerning working hours
+      for minors. Act (2016:961)
+  chapter: '2'
+  section: '10'
+  paragraph: '4'
+- type: chapter_heading
+  text:
+    sv: 3 kap. Allmänna skyldigheter
+    en: Chapter 3 General obligations
+  chapter: '3'
+- type: section_heading
+  text:
+    sv: 1 §
+    en: Section 1
+  chapter: '3'
+  section: '1'
+  slug: chapter-3-section-1
+- type: paragraph_text
+  text:
+    sv: Bestämmelserna i detta kapitel skall tillämpas med beaktande av kraven på
+      arbetsmiljöns beskaffenhet enligt 2 kap. Lag (1994:579).
+    en: The provisions of this Chapter shall be applied taking into account the requirements
+      relating to the state of the work environment set forth in Chapter 2. Act (1994:579).
+  chapter: '3'
+  section: '1'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 1 a §
+    en: Section 1a
+  chapter: '3'
+  section: 1a
+  slug: chapter-3-section-1a
+- type: paragraph_text
+  text:
+    sv: Arbetsgivare och arbetstagare skall samverka för att åstadkomma en god arbetsmiljö.
+      Lag (1994:579).
+    en: Employers and employees must cooperate to create a good work environment.
+      Act (1994:579).
+  chapter: '3'
+  section: 1a
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 2 §
+    en: Section 2
+  chapter: '3'
+  section: '2'
+  slug: chapter-3-section-2
+- type: paragraph_text
+  text:
+    sv: Arbetsgivaren skall vidta alla åtgärder som behövs för att förebygga att arbetstagaren
+      utsätts för ohälsa eller olycksfall. En utgångspunkt skall därvid vara att allt
+      sådant som kan leda till ohälsa eller olycksfall skall ändras eller ersättas
+      så att risken för ohälsa eller olycksfall undanröjs.
+    en: The employer must take all necessary measures to prevent the employee from
+      being exposed to illness or accidents. One starting point in this connection
+      must be that anything that can lead to illness or an accident must be changed
+      or replaced so as to eliminate the risk of illness or an accident.
+  chapter: '3'
+  section: '2'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Arbetsgivaren skall beakta den särskilda risk för ohälsa och olycksfall som
+      kan följa av att arbetstagaren utför arbete ensam.
+    en: The employer must take into account the special risk of illness and accidents
+      that may be associated with an employee performing work alone.
+  chapter: '3'
+  section: '2'
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: Lokaler samt maskiner, redskap, skyddsutrustning och andra tekniska anordningar
+      skall underhållas väl. Lag (2002:585).
+    en: Premises, machinery, tools, safety equipment and other technical equipment
+      must be kept in a good state of repair. Act (2002:585).
+  chapter: '3'
+  section: '2'
+  paragraph: '3'
+- type: section_heading
+  text:
+    sv: 2 a §
+    en: Section 2a
+  chapter: '3'
+  section: 2a
+  slug: chapter-3-section-2a
+- type: paragraph_text
+  text:
+    sv: |-
+      Arbetsgivaren ska systematiskt planera, leda och kontrollera verksamheten på ett sätt som leder till att arbetsmiljön uppfyller föreskrivna krav på en god arbetsmiljö.
+      Han ska utreda arbetsskador, fortlöpande undersöka riskerna i verksamheten och vidta de åtgärder som föranleds av detta.
+      Åtgärder som inte kan vidtas omedelbart ska tidsplaneras.
+    en: The employer must systematically plan, direct and monitor activities in a
+      manner that ensures that the work environment meets the prescribed requirements
+      for a good work environment. The employer must investigate work-related injuries,
+      continuously investigate the risks involved in the activities and take the measures
+      required as a result. A timetable must be set for measures that cannot be taken
+      immediately.
+  chapter: '3'
+  section: 2a
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Arbetsgivaren ska i den utsträckning verksamheten kräver dokumentera arbetsmiljön
+      och arbetet med denna. Handlingsplaner ska därvid upprättas.
+    en: To the extent required by the activity, the employer must document the work
+      environment and measures adopted with respect to it. Action plans must be drawn
+      up in this connection.
+  chapter: '3'
+  section: 2a
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: Arbetsgivaren ska vidare se till att det i hans verksamhet finns en på lämpligt
+      sätt organiserad arbetsanpassnings- och rehabiliteringsverksamhet för fullgörande
+      av de uppgifter som enligt denna lag och enligt 30 kap. socialförsäkringsbalken
+      vilar på honom. Lag (2010:1225).
+    en: Furthermore, the employer must ensure that her or his activities incorporate
+      suitably organised job modification and rehabilitation measures in fulfilment
+      of the duties required of her or him under this Act and under Chapter 30 of
+      the Social Insurance Code. Act (2010:1225).
+  chapter: '3'
+  section: 2a
+  paragraph: '3'
+- type: section_heading
+  text:
+    sv: 2 b §
+    en: Section 2b
+  chapter: '3'
+  section: 2b
+  slug: chapter-3-section-2b
+- type: paragraph_text
+  text:
+    sv: Regeringen får meddela föreskrifter i frågor som faller under Arbetsmiljöverkets
+      tillsynsansvar om att 2 a § första och andra styckena ska gälla även i fråga
+      om att följa Europaparlamentets och rådets förordning (EG) nr 1907/2006 av den
+      18 december 2006 om registrering, utvärdering, godkännande och begränsning av
+      kemikalier (Reach), inrättande av en europeisk kemikaliemyndighet, ändring av
+      direktiv 1999/45/EG och upphävande av rådets förordning (EEG) nr 793/93 och
+      kommissionens förordning (EG) nr 1488/94 samt rådets direktiv 76/ 769/EEG och
+      kommissionens direktiv 91/155/EEG, 93/67/EEG, 93/105/EG och 2000/21/EG. Lag
+      (2010:1543).
+    en: The Government may issue regulations on matters that come under the responsibility
+      of the Swedish Work Environment Authority for supervising the application of
+      Section 2a, first and second paragraphs, with respect to compliance with Regulation
+      (EC) No 1907/2006 of the European Parliament and of the Council of 18 December
+      2006 concerning the Registration, Evaluation, Authorisation and Restriction
+      of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive
+      1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation
+      (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives
+      91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC. Act (SFS 2010:1543).
+  chapter: '3'
+  section: 2b
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 2 c §
+    en: Section 2c
+  chapter: '3'
+  section: 2c
+  slug: chapter-3-section-2c
+- type: paragraph_text
+  text:
+    sv: Arbetsgivaren skall svara för att den företagshälsovård som arbetsförhållandena
+      kräver finns att tillgå.
+    en: The employer must ensure that the occupational health services required by
+      the working conditions are available.
+  chapter: '3'
+  section: 2c
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Med företagshälsovård avses en oberoende expertresurs inom områdena arbetsmiljö
+      och rehabilitering. Företagshälsovården skall särskilt arbeta för att förebygga
+      och undanröja hälsorisker på arbetsplatser samt ha kompetens att identifiera
+      och beskriva sambanden mellan arbetsmiljö, organisation, produktivitet och hälsa.
+      Lag (2010:1543).
+    en: "‘Occupational health services’ means an independent expert resource in the
+      work environment and rehabilitation fields. The occupational health services
+      must work specifically to prevent and eliminate health risks in workplaces and
+      must have the expertise to identify and describe the links between work environment,
+      organisation, productivity and health. Act (2010:1543)."
+  chapter: '3'
+  section: 2c
+  paragraph: '2'
+- type: section_heading
+  text:
+    sv: 3 §
+    en: Section 3
+  chapter: '3'
+  section: '3'
+  slug: chapter-3-section-3
+- type: paragraph_text
+  text:
+    sv: Arbetsgivaren skall se till att arbetstagaren får god kännedom om de förhållanden,
+      under vilka arbetet bedrivs, och att arbetstagaren upplyses om de risker som
+      kan vara förbundna med arbetet. Arbetsgivaren skall förvissa sig om att arbetstagaren
+      har den utbildning som behövs och vet vad han har att iaktta för att undgå riskerna
+      i arbetet. Arbetsgivaren skall se till att endast arbetstagare som har fått
+      tillräckliga instruktioner får tillträde till områden där det finns en påtaglig
+      risk för ohälsa eller olycksfall.
+    en: The employer must ensure that the employee acquires a good knowledge of the
+      conditions in which the work is conducted and that the employee is informed
+      of the risks that may be associated with the work. The employer must make sure
+      that the employee has received the necessary training and that she or he knows
+      what to do to avoid the risks associated with the work. The employer must ensure
+      that only employees who have received sufficient instructions have access to
+      areas where there is a clear and present risk of illness or accidents.
+  chapter: '3'
+  section: '3'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: |-
+      Arbetsgivaren skall genom att anpassa arbetsförhållandena eller vidta annan lämplig åtgärd ta hänsyn till arbetstagarens särskilda förutsättningar för arbetet. Vid arbetets planläggning och anordnande skall beaktas att människors förutsättningar att utföra arbetsuppgifter är olika.
+      Lag (2002:585).
+    en: The employer must take into account the particular fitness of the employee
+      to perform the work by adapting the working conditions or taking other appropriate
+      measures. In the planning and organisation of work, due account must be taken
+      of the fact that people’s fitness to perform working duties differs. Act (2002:585).
+  chapter: '3'
+  section: '3'
+  paragraph: '2'
+- type: section_heading
+  text:
+    sv: 3 a §
+    en: Section 3a
+  chapter: '3'
+  section: 3a
+  slug: chapter-3-section-3a
+- type: paragraph_text
+  text:
+    sv: En arbetsgivare ska utan dröjsmål underrätta den myndighet som regeringen
+      bestämmer om dödsfall eller svårare personskada som har inträffat i samband
+      med arbetets utförande.
+    en: An employer must notify the authority designated by the Government without
+      delay of any death or severe injury that has occurred in connection with the
+      performance of work
+  chapter: '3'
+  section: 3a
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: En arbetsgivare ska också utan dröjsmål underrätta samma myndighet om skador
+      i samband med arbetet som drabbat flera arbetstagare samtidigt och om tillbud
+      som inneburit allvarlig fara för liv och hälsa.
+    en: An employer must also notify the same authority without delay of injuries
+      in connection with work suffered by several employees at the same time and of
+      incidents that have entailed a serious danger to life and health.
+  chapter: '3'
+  section: 3a
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: Föreskrifter om befälhavares skyldighet att vid fartygsarbete rapportera vissa
+      händelser finns i 6 kap. 14 § sjölagen (1994:1009). Lag (2013:610).
+    en: Chapter 6, Section 14 of the Swedish Maritime Code (1994:1009) contains regulations
+      on the obligation of the master of a ship to report certain events in connection
+      with work on board a ship. Act (2013:610).
+  chapter: '3'
+  section: 3a
+  paragraph: '3'
+- type: section_heading
+  text:
+    sv: 4 §
+    en: Section 4
+  chapter: '3'
+  section: '4'
+  slug: chapter-3-section-4
+- type: paragraph_text
+  text:
+    sv: Arbetstagaren skall medverka i arbetsmiljöarbetet och delta i genomförandet
+      av de åtgärder som behövs för att åstadkomma en god arbetsmiljö. Han skall följa
+      givna föreskrifter samt använda de skyddsanordningar och iaktta den försiktighet
+      i övrigt som behövs för att förebygga ohälsa och olycksfall.
+    en: The employee must participate in work relating to the work environment and
+      take part in the implementation of the measures needed to create a good work
+      environment. The employee must comply with directions issued, use the safety
+      equipment and exercise the caution otherwise needed to prevent illness and accidents.
+  chapter: '3'
+  section: '4'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Om arbetstagaren finner att arbetet innebär omedelbar och allvarlig fara för
+      liv eller hälsa, skall han snarast underrätta arbetsgivaren eller skyddsombud.
+      Arbetstagaren är fri från ersättningsskyldighet för skada som uppstår till följd
+      av att han underlåter att utföra arbetet i avvaktan på besked om det skall fortsättas.
+      Lag (1991:677).
+    en: An employee who discovers that work involves an immediate and serious danger
+      to life or health must immediately notify the employer or a safety representative.
+      The employee is not liable to pay compensation for any loss resulting from her
+      or his non-performance of work pending instructions regarding the resumption
+      of work. Act (1991:677).
+  chapter: '3'
+  section: '4'
+  paragraph: '2'
+- type: section_heading
+  text:
+    sv: 5 §
+    en: Section 5
+  chapter: '3'
+  section: '5'
+  slug: chapter-3-section-5
+- type: paragraph_text
+  text:
+    sv: I fråga om arbete som arbetsgivare själv utför skall denna lag och med stöd
+      därav meddelade föreskrifter iakttagas i tillämpliga delar. Detsamma gäller
+      när två eller flera för gemensam räkning yrkesmässigt driver verksamhet utan
+      att ha arbetstagare anställd, dock ej om verksamheten bedrives endast av medlemmar
+      av samma familj.
+    en: Relevant parts of this Act and regulations issued pursuant to this Act shall
+      apply to work performed by the employer herself or himself. This also applies
+      when two or more persons engage in professional activities for their joint account
+      and without employees unless, however, the activities are conducted solely by
+      members of the same family.
+  chapter: '3'
+  section: '5'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet
+      utan anställd är skyldig att följa vad i denna lag och med stöd av den har föreskrivits
+      i fråga om teknisk anordning och ämne, som kan föranleda ohälsa eller olycksfall,
+      samt beträffande gemensamt arbetsställe.
+    en: Persons engaging in professional activities without employees, alone or with
+      members of their families, are obliged to comply with what is prescribed in
+      this Act and pursuant to this Act concerning technical equipment and substances
+      capable of causing illness or accidents, and also concerning shared workplaces.
+  chapter: '3'
+  section: '5'
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: Av 4 kap. 10 § framgår att föreskrifter får meddelas om skyldigheter även
+      i andra avseenden. Lag (1994:579).
+    en: Chapter 4, Section 10 provides that regulations may also be issued regarding
+      obligations in other respects. Act (1994:579).
+  chapter: '3'
+  section: '5'
+  paragraph: '3'
+- type: section_heading
+  text:
+    sv: 6 §
+    en: Section 6
+  chapter: '3'
+  section: '6'
+  slug: chapter-3-section-6
+- type: paragraph_text
+  text:
+    sv: |-
+      Den som låter utföra ett byggnads- eller anläggningsarbete ska
+
+      1. under varje skede av planeringen och projekteringen se till att arbetsmiljösynpunkter beaktas när det gäller såväl byggskedet som det framtida brukandet,
+      2. utse en lämplig byggarbetsmiljösamordnare för planering och projektering av arbetet med de uppgifter som anges i 7 a §, och
+      3. utse en lämplig byggarbetsmiljösamordnare för utförande av arbetet med de uppgifter som anges i 7 b och 7 f §§.
+    en: |-
+      A person who commissions building or civil engineering works must:
+
+      1. ensure, at every stage of the planning and design process, that work environment perspectives are taken into account with regard to both the construction phase and future use;
+      2. appoint a suitable building work environment coordinator for the planning and design of the work, with the duties specified in Section 7a; and
+      3. appoint a suitable building work environment coordinator for the performance of the work, with the duties specified in Sections 7b and 7f.
+  chapter: '3'
+  section: '6'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Den som låter utföra ett byggnads- eller anläggningsarbete kan utse sig själv
+      eller någon annan till byggarbetsmiljösamordnare. Om någon annan har utsetts
+      befrias dock inte den som låter utföra ett byggnads- eller anläggningsarbete
+      från ansvar för sådana arbetsuppgifter som anges i första stycket 2 eller 3.
+      Lag (2008:934).
+    en: A person who commissions building or civil engineering works may appoint herself
+      or himself or someone else as building work environment coordinator. However,
+      if someone else has been appointed, the person commissioning building or civil
+      engineering works is not released from responsibility for the duties indicated
+      in the first paragraph, points 2 and 3. Act (2008:934).
+  chapter: '3'
+  section: '6'
+  paragraph: '2'
+- type: section_heading
+  text:
+    sv: 7 §
+    en: Section 7
+  chapter: '3'
+  section: '7'
+  slug: chapter-3-section-7
+- type: paragraph_text
+  text:
+    sv: Under varje skede av planeringen och projekteringen av ett byggnads- eller
+      anläggningsarbete ska arkitekter, konstruktörer och andra som medverkar, inom
+      ramen för sina uppdrag, se till att arbetsmiljösynpunkter beaktas när det gäller
+      såväl byggskedet som det framtida brukandet. Lag (2008:934).
+    en: At every stage of the planning and design of building and civil engineering
+      works, architects, designers and other participants shall, within the framework
+      of their duties, ensure that work environment perspectives are taken into account
+      with regard to both the construction phase and future use. Act (2008:934).
+  chapter: '3'
+  section: '7'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 7 a §
+    en: Section 7a
+  chapter: '3'
+  section: 7a
+  slug: chapter-3-section-7a
+- type: paragraph_text
+  text:
+    sv: |-
+      Den byggarbetsmiljösamordnare som enligt 6 § första stycket 2 har utsetts för planering och projektering av ett byggnads- eller anläggningsarbete, ska samordna tillämpningen av relevanta arbetsmiljöregler som under varje skede av planeringen och projekteringen ska följas i fråga om såväl byggskedet som brukandet av byggnaden eller anläggningen. Det gäller särskilt då frågor om planeringen av arbetsmoment som ska utföras samtidigt eller efter varandra avgörs och när tidsåtgången för sådana arbetsmoment beräknas.
+      Byggarbetsmiljösamordnaren ska beakta en sådan arbetsmiljöplan och annan dokumentation som avses i 4 kap. 8 § andra stycket 1-3. Lag (2008:934).
+    en: The building work environment coordinator appointed for the planning and design
+      of building and civil engineering works in accordance with Section 6, first
+      paragraph, point 2 must coordinate the application of relevant work environment
+      regulations to be complied with at every stage of the planning and design process
+      with regard to both the construction phase and the use of the building or facility.
+      This applies in particular when decisions are made on issues relating to the
+      planning of operations that are to be carried out simultaneously or in succession,
+      and when the time required for such operations is calculated. The building work
+      environment coordinator must take into account work environment plans and other
+      documentation referred to in Chapter 4, Section 8, second paragraph, points
+      1–3. Act (2008:934).
+  chapter: '3'
+  section: 7a
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 7 b §
+    en: Section 7b
+  chapter: '3'
+  section: 7b
+  slug: chapter-3-section-7b
+- type: paragraph_text
+  text:
+    sv: |-
+      Den byggarbetsmiljösamordnare som enligt 6 § första stycket 3 har utsetts för utförande av ett byggnads- eller anläggningsarbete, ska se till att samordna arbetet med att förebygga risker för ohälsa och olycksfall på arbetsstället och utföra de uppgifter som framgår av 7 e § 2-5, samt
+
+      1. samordna tillämpningen av relevanta arbetsmiljöregler när tekniska eller organisatoriska frågor om planeringen av arbetsmoment som ska utföras samtidigt eller efter varandra avgörs och när tidsåtgången för sådana moment beräknas,
+      2. samordna tillämpningen av relevanta arbetsmiljöregler för att säkerställa att den eller de som bedriver verksamhet på arbetsstället tillämpar dessa regler på ett systematiskt sätt samt följer en arbetsmiljöplan,
+      3. samordna åtgärder för att kontrollera att byggnads- eller anläggningsarbetet med avseende på arbetsmiljön utförs på ett korrekt sätt,
+      4. vidta nödvändiga åtgärder för att säkerställa att endast behöriga personer ges tillträde till arbetsstället, och
+      5. organisera de uppgifter som enligt 7 g § ankommer på dem som bedriver verksamhet på ett gemensamt arbetsställe.
+      Lag (2008:934).
+    en: |-
+      The building work environment coordinator appointed for the performance of building or civil engineering works in accordance with Section 6, first paragraph, point 3 is responsible for coordinating work on preventing risks of illness and accidents at the workplace and performing the duties indicated in Section 7e, points 2–5, and:
+
+      1. coordinating the application of relevant work environment regulations when decisions are made on technical or organisational issues relating to the planning of operations that are to be carried out simultaneously or in succession, and when the time required for such operations is calculated;
+      2. coordinating the application of relevant work environment regulations to ensure that the party or parties engaging in activities at the workplace apply these regulations systematically and follow a work environment plan;
+      3. coordinating measures to verify that building and civil engineering works are performed correctly with respect to the work environment;
+      4. taking necessary measures to ensure that only authorised persons have access to the workplace; and
+      5. organising the duties incumbent under Section 7g on those conducting activities at a shared workplace. Act (2008:934).
+  chapter: '3'
+  section: 7b
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 7 c §
+    en: Section 7c
+  chapter: '3'
+  section: 7c
+  slug: chapter-3-section-7c
+- type: paragraph_text
+  text:
+    sv: |-
+      Det som sägs i 6 § och i föreskrifter som har meddelats med stöd av 4 kap. 8 § om den som låter utföra byggnads- eller anläggningsarbete ska i stället gälla en av denne anlitad uppdragstagare i den mån
+
+      1. uppdragstagaren har fått i uppdrag att självständigt ansvara för planering och projektering eller arbetets utförande, och
+      2. det skriftligen har avtalats att de uppgifter som avses i 6 § och i de anslutande föreskrifterna ska åvila uppdragstagaren vid utförandet av uppdraget.
+    en: |-
+      What is stated in Section 6 and in regulations issued pursuant to Chapter 4, Section 8 concerning a person commissioning building or civil engineering works shall instead apply to a contractor engaged by that person insofar as:
+
+      1. the contractor has been commissioned to take independent responsibility for the planning and design or the performance of the work; and
+      2. a written agreement has been made that the duties referred to in Section 6 and in the associated regulations will rest with the contractor in the performance of the commission.
+  chapter: '3'
+  section: 7c
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Om konsumenttjänstlagen (1985:716) ska tillämpas på uppdrag enligt första
+      stycket 1, ska det som sägs i 6 § och i föreskrifter som har meddelats med stöd
+      av 4 kap. 8 § gälla för uppdragstagaren vid arbetets utförande. Det gäller dock
+      inte om det skriftligen har avtalats att det som sägs i 6 § och i de anslutande
+      föreskrifterna i stället ska gälla för den som låter utföra byggnads- eller
+      anläggningsarbetet. Lag (2008:934).
+    en: If the Consumer Services Act (1985:716) is applicable to commissions under
+      the first paragraph, point 1, what is stated in Section 6 and in regulations
+      issued pursuant to Chapter 4, Section 8 shall apply to the contractor in the
+      performance of the commission. However, this does not apply if a written agreement
+      has been made that what is stated in Section 6 and in the associated regulations
+      shall instead apply to the person commissioning the building or civil engineering
+      works. Act (2008:934).
+  chapter: '3'
+  section: 7c
+  paragraph: '2'
+- type: section_heading
+  text:
+    sv: 7 d §
+    en: Section 7d
+  chapter: '3'
+  section: 7d
+  slug: chapter-3-section-7d
+- type: paragraph_text
+  text:
+    sv: Om ett fast driftsställe är gemensamt arbetsställe för flera verksamheter,
+      är den som råder över arbetsstället ansvarig för samordningen av arbetsmiljöfrågor.
+      Om ett fartyg är gemensamt arbetsställe för flera verksamheter är redaren ansvarig
+      för samordningen. Har ett fartyg tagits in på ett varv i Sverige är dock den
+      som svarar för varvsdriften ansvarig för samordningen. Ansvaret för samordning
+      av skyddsåtgärder som föranleds av att ett fartyg är under lastning eller lossning
+      i en svensk hamn åvilar den arbetsgivare som har ansvaret för detta arbete.
+    en: If a permanent place of business is a shared workplace for several businesses,
+      the party that is in control of the workplace is responsible for the coordination
+      of work environment issues. If a ship is a shared workplace for several businesses,
+      the shipowner is responsible for such coordination. However, if a ship has been
+      taken into a shipyard in Sweden, the party responsible for operating the shipyard
+      is responsible for such coordination. The responsibility for coordination of
+      safety measures required for the loading or unloading of a ship in a Swedish
+      port rests with the employer responsible for this work.
+  chapter: '3'
+  section: 7d
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Ansvaret för samordningen enligt första stycket kan överlåtas till någon som
+      bedriver verksamhet på arbetsstället eller, i fråga om lastning eller lossning
+      av ett fartyg i svensk hamn, på hamnen eller redaren.
+    en: The responsibility for coordination set forth in the first paragraph can be
+      transferred to a party conducting activities at the workplace or, where the
+      loading or unloading of a ship in a Swedish port is concerned, at the port,
+      or the shipowner.
+  chapter: '3'
+  section: 7d
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: |-
+      I fråga om annat gemensamt arbetsställe än som avses i första stycket kan de som bedriver verksamhet där komma överens om att en av dem ska vara ansvarig för samordningen. Det gäller inte för arbetsställen för byggnads- eller anläggningsarbete.
+      Lag (2008:934).
+    en: With regard to shared workplaces other than those referred to in the first
+      paragraph, those who are conducting activities there may agree that one of them
+      will be responsible for such coordination. This does not apply in the case of
+      workplaces for building or civil engineering works. Act (2008:934).
+  chapter: '3'
+  section: 7d
+  paragraph: '3'
+- type: section_heading
+  text:
+    sv: 7 e §
+    en: Section 7e
+  chapter: '3'
+  section: 7e
+  slug: chapter-3-section-7e
+- type: paragraph_text
+  text:
+    sv: |-
+      Den som är ansvarig för samordningen av arbetsmiljöfrågor enligt 7 d § ska se till att
+
+      1. arbetet med att förebygga risker för ohälsa och olycksfall samordnas på det gemensamma arbetsstället,
+      2. arbete tidsplaneras på det sätt som behövs för att förebygga risker för ohälsa och olycksfall till följd av att olika verksamheter pågår på arbetsstället,
+      3. allmänna skyddsanordningar inrättas och underhålls och allmänna skyddsregler för arbetsstället utfärdas,
+      4. ansvaret för de speciella skyddsanordningar som kan behövas för ett visst eller vissa arbeten klargörs, och
+      5. personalutrymmen och sanitära anordningar inrättas på arbetsstället i behövlig omfattning. Lag (2008:934).
+    en: |-
+      The party responsible for the coordination of work environment issues under Section 7d must ensure that:
+
+      1. work on preventing risks of illness and accidents is coordinated at the shared workplace;
+      2. work is scheduled as necessary to prevent risks of illness and accidents resulting from differing activities being conducted at the workplace;
+      3. general safety equipment is set up and maintained and general safety regulations are issued for the workplace;
+      4. the party responsible for the special safety equipment that may be needed for a certain type or certain types of work is clarified; and
+      5. social rooms and sanitary facilities are arranged at the workplace to the extent needed. Act (2008:934).
+  chapter: '3'
+  section: 7e
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 7 f §
+    en: Section 7f
+  chapter: '3'
+  section: 7f
+  slug: chapter-3-section-7f
+- type: paragraph_text
+  text:
+    sv: Om ett byggnads- eller anläggningsarbete utgör gemensamt arbetsställe med
+      annan verksamhet som avses i 7 d §, tillämpas 6-7 c §§ i fråga om byggnads-
+      eller anläggningsarbetet samt 7 d och 7 e §§ i fråga om den övriga verksamheten.
+    en: If building or civil engineering works share a workplace with other activities
+      referred to in Section 7d, sections 6–7c apply with respect to the building
+      or civil engineering works and Sections 7d and 7e with respect to the other
+      activities.
+  chapter: '3'
+  section: 7f
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: |-
+      Den som är ansvarig för samordningen av arbetsmiljöfrågor enligt 7 d § ska i syfte att åstadkomma tillfredsställande skyddsförhållanden se till att samråd kommer till stånd med den som har utsetts till byggarbetsmiljösamordnare enligt 6 §.
+      Lag (2008:934).
+    en: For the purpose of creating satisfactory safety conditions, the party responsible
+      for coordination of work environment issues under Section 7d must ensure that
+      consultations are held with the person appointed building work environment coordinator
+      under Section 6. Act (2008:934).
+  chapter: '3'
+  section: 7f
+  paragraph: '2'
+- type: section_heading
+  text:
+    sv: 7 g §
+    en: Section 7g
+  chapter: '3'
+  section: 7g
+  slug: chapter-3-section-7g
+- type: paragraph_text
+  text:
+    sv: De som samtidigt, eller i tidsmässig anslutning till varandra, bedriver verksamhet
+      på ett gemensamt arbetsställe, ska samråda och gemensamt verka för att åstadkomma
+      tillfredsställande skyddsförhållanden.
+    en: Those who conduct activities at a shared workplace, whether simultaneously
+      or in succession, must consult and make joint efforts to create satisfactory
+      safety conditions.
+  chapter: '3'
+  section: 7g
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Var och en av dem ska se till att den egna verksamheten och anordningarna
+      på det gemensamma arbetsstället inte medför att någon som arbetar där utsätts
+      för risk för ohälsa eller olycksfall.
+    en: Each of them separately must ensure that their own activities and arrangements
+      at the shared workplace do not entail that anyone working there is exposed to
+      a risk of illness or accident.
+  chapter: '3'
+  section: 7g
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: De som bedriver verksamhet eller arbetar på det gemensamma arbetsstället ska
+      följa anvisningar från en byggarbetsmiljösamordnare i fråga om byggnads- eller
+      anläggningsarbete och från den som är ansvarig för samordningen av arbetsmiljöfrågor
+      i övriga fall. Lag (2008:934).
+    en: Those who are conducting activities or working at the shared workplace must
+      follow instructions from a building work environment coordinator where building
+      and civil engineering works are concerned and from the party responsible for
+      coordinating work environment issues in other cases. Act (2008:934).
+  chapter: '3'
+  section: 7g
+  paragraph: '3'
+- type: section_heading
+  text:
+    sv: 7 h §
+    en: Section 7h
+  chapter: '3'
+  section: 7h
+  slug: chapter-3-section-7h
+- type: paragraph_text
+  text:
+    sv: Den som tillverkar monteringsfärdiga byggnader eller anläggningar ska se till
+      att arbetsmiljösynpunkter beaktas vid projekteringen när det gäller såväl byggskedet
+      som det framtida brukandet samt se till att olika delar av projekteringen samordnas.
+      Lag (2008:934).
+    en: Any person producing prefabricated buildings or facilities must ensure that
+      work environment perspectives are taken into account in connection with their
+      design, with regard to both the construction phase and future use, and ensure
+      that different aspects of the design are coordinated. Act (2008:934).
+  chapter: '3'
+  section: 7h
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 8 §
+    en: Section 8
+  chapter: '3'
+  section: '8'
+  slug: chapter-3-section-8
+- type: paragraph_text
+  text:
+    sv: Den som tillverkar, importerar, överlåter eller upplåter en maskin, ett redskap,
+      skyddsutrustning eller annan teknisk anordning ska se till att anordningen erbjuder
+      betryggande säkerhet mot ohälsa och olycksfall, när den släpps ut på marknaden,
+      avlämnas för att tas i bruk eller ställs ut till försäljning.
+    en: Any person who manufactures, imports, transfers or supplies a machine, tool,
+      safety equipment or other technical equipment must ensure that the equipment
+      offers adequate safeguards against illness and accidents when it is released
+      on the market, delivered for use or displayed for sale.
+  chapter: '3'
+  section: '8'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: En teknisk anordning som inte uppfyller kraven i första stycket får visas
+      på mässor, utställningar eller liknande om det tydligt anges att kraven inte
+      är uppfyllda och att anordningen inte får släppas ut på marknaden eller avlämnas
+      för att tas i bruk förrän den uppfyller kraven. Sätts anordningen i funktion
+      ska tillräckliga säkerhetsåtgärder vidtas mot olycksfall.
+    en: Technical equipment that does not comply with the requirements in the first
+      paragraph may be exhibited at trade fairs, exhibitions or similar events if
+      it is clearly indicated that the requirements have not been fulfilled and that
+      the equipment may not be released onto the market or delivered for use until
+      it fulfils such requirements. In the event that the equipment is operated, adequate
+      safety measures must be taken to avoid accidents.
+  chapter: '3'
+  section: '8'
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: Anvisningar för anordningens montering, installation, användning och skötsel
+      samt övriga uppgifter om anordningen som är av betydelse för att förebygga ohälsa
+      och olycksfall (produktinformation) ska medfölja vid avlämnandet genom tydlig
+      märkning, i form av handlingar eller på annat sätt. Information av särskild
+      betydelse för arbetsmiljön ska lämnas vid marknadsföring av anordningen. Lag
+      (2008:295).
+    en: Instructions for the assembly, installation, use and maintenance of the equipment,
+      and other information concerning the equipment that is material to the prevention
+      of illness and accidents (product information) must accompany the equipment
+      when it is delivered through clear labelling, in the form of documentation or
+      by some other means. Information of particular importance for the work environment
+      must be supplied in connection with the marketing of the equipment. Act (2008:295).
+  chapter: '3'
+  section: '8'
+  paragraph: '3'
+- type: section_heading
+  text:
+    sv: 8 a §
+    en: Section 8a
+  chapter: '3'
+  section: 8a
+  slug: chapter-3-section-8a
+- type: paragraph_text
+  text:
+    sv: Vad som sägs i 8 § gäller inte sådan skyddsutrustning som omfattas av Europaparlamentets
+      och rådets förordning (EU) nr 2016/425 av den 9 mars 2016 om personlig skyddsutrustning
+      och om upphävande av rådets direktiv 89/686/EEG. Lag (2018:126).
+    en: The provisions of Section 8 do not apply to personal protective equipment
+      covered by Regulation (EU) No 2016/425 of the European Parliament and of the
+      Council of 9 March 2016 on personal protective equipment and repealing Council
+      Directive 89/686/EEC. Act (2018:126).
+  chapter: '3'
+  section: 8a
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 9 §
+    en: Section 9
+  chapter: '3'
+  section: '9'
+  slug: chapter-3-section-9
+- type: paragraph_text
+  text:
+    sv: Den som tillverkar, importerar eller överlåter ett ämne, som kan föranleda
+      ohälsa eller olycksfall, skall vidta de åtgärder som behövs för att hindra eller
+      motverka att ämnet vid avsedd användning innebär risk från skyddssynpunkt.
+    en: Any person who manufactures, imports or transfers a substance capable of causing
+      illness or accidents must take the measures needed to prevent or counteract
+      any safety risks involved when the substance is used as intended.
+  chapter: '3'
+  section: '9'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Vad som sägs i 8 § tredje stycket om produktinformation och information vid
+      marknadsföring skall gälla även i fråga om ämnen som kan föranleda ohälsa eller
+      olycksfall. Lag (2002:585).
+    en: The provisions of Section 8, third paragraph concerning product information
+      and information in connection with marketing shall also apply with regard to
+      substances capable of causing illness or accidents. Act (2002:585).
+  chapter: '3'
+  section: '9'
+  paragraph: '2'
+- type: section_heading
+  text:
+    sv: 10 §
+    en: Section 10
+  chapter: '3'
+  section: '10'
+  slug: chapter-3-section-10
+- type: paragraph_text
+  text:
+    sv: |-
+      Den som överlåter eller upplåter en förpackad produkt skall se till att förpackningen inte innebär risk för ohälsa eller olycksfall.
+      Lag ( 1991:677).
+    en: Any person transferring or supplying a packaged product must ensure that the
+      packaging does not entail any risk of illness or accidents. Act (1991:677).
+  chapter: '3'
+  section: '10'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 11 §
+    en: Section 11
+  chapter: '3'
+  section: '11'
+  slug: chapter-3-section-11
+- type: paragraph_text
+  text:
+    sv: Den som installerar en teknisk anordning skall se till att behövliga skyddsanordningar
+      sätts upp och att i övrigt erforderliga skyddsåtgärder vidtas. Lag (1991:677).
+    en: Any person installing technical equipment must ensure that the necessary safety
+      features are put in place and that other requisite safety measures are taken.
+      Act (1991:677).
+  chapter: '3'
+  section: '11'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 12 §
+    en: Section 12
+  chapter: '3'
+  section: '12'
+  slug: chapter-3-section-12
+- type: paragraph_text
+  text:
+    sv: Den som råder över ett arbetsställe skall se till att det på arbetsstället
+      finns sådana fasta anordningar att den som arbetar där utan att vara arbetstagare
+      i förhållande till honom inte utsätts för risk för ohälsa eller olycksfall.
+      Han skall även se till att andra anordningar som finns på arbetsstället kan
+      användas utan sådan risk.
+    en: The person in control of a workplace must ensure that such permanent equipment
+      is located at the workplace to ensure that no person who works there without
+      being engaged by her or him as an employee is exposed to the risk of illness
+      or accidents. She or he must also ensure that other equipment at the workplace
+      can be used without such risk.
+  chapter: '3'
+  section: '12'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Den som anlitar inhyrd arbetskraft för att utföra arbete i sin verksamhet
+      skall vidta de skyddsåtgärder som behövs i detta arbete. Lag (1994:579).
+    en: Any person who engages contract labour to perform work in her or his business
+      must take the safety measures required by this work. Act (1994:579).
+  chapter: '3'
+  section: '12'
+  paragraph: '2'
+- type: section_heading
+  text:
+    sv: 13 §
+    en: Section 13
+  chapter: '3'
+  section: '13'
+  slug: chapter-3-section-13
+- type: paragraph_text
+  text:
+    sv: I 7 kap. 8 § föreskrivs om skyddsansvar i vissa fall för den som upplåter
+      en lokal, ett markområde eller ett utrymme under jord för arbete eller som personalutrymme.
+      Lag (1994:579).
+    en: Chapter 7, Section 8 contains provisions concerning the responsibility for
+      safety, in certain cases, of persons supplying premises, land or an underground
+      space for work or as social rooms. Act (1994:579).
+  chapter: '3'
+  section: '13'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 14 §
+    en: Section 14
+  chapter: '3'
+  section: '14'
+  slug: chapter-3-section-14
+- type: paragraph_text
+  text:
+    sv: Har upphävts genom lag (2008:934).
+    en: Repealed by Act (2008:934).
+  chapter: '3'
+  section: '14'
+  paragraph: '1'
+- type: chapter_heading
+  text:
+    sv: 4 kap. Bemyndiganden
+    en: Chapter 4 Authorisations
+  chapter: '4'
+- type: section_heading
+  text:
+    sv: 1 §
+    en: Section 1
+  chapter: '4'
+  section: '1'
+  slug: chapter-4-section-1
+- type: paragraph_text
+  text:
+    sv: |-
+      Regeringen eller den myndighet som regeringen bestämmer får, i fråga om tekniska anordningar eller ämnen som kan orsaka ohälsa eller olycksfall, meddela föreskrifter om
+
+      1. villkor för tillverkning, användning samt märkning eller annan produktinformation,
+      2. provning eller kontroll av att föreskrivna krav eller villkor är uppfyllda, och
+      3. förbud mot eller särskilda villkor för eller annan begränsning av utsläppande på marknaden.
+    en: |-
+      The Government or the authority designated by the Government may, with respect to technical equipment or substances capable of causing illness or accidents, issue regulations concerning:
+
+      1. conditions for manufacture, use and labelling or other product information;
+      2. testing or verification of the fulfilment of prescribed requirements or conditions; and
+      3. prohibitions against, special conditions for or other restrictions on placing on the market.
+  chapter: '4'
+  section: '1'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter
+      om utformning och användning av skyddsanordningar mot fall till lägre nivå.
+      Lag (2013:610).
+    en: The Government or the authority designated by the Government may issue regulations
+      on the design and use of safety equipment to protect against falls to lower
+      levels. Act (2013:610).
+  chapter: '4'
+  section: '1'
+  paragraph: '2'
+- type: section_heading
+  text:
+    sv: 2 §
+    en: Section 2
+  chapter: '4'
+  section: '2'
+  slug: chapter-4-section-2
+- type: paragraph_text
+  text:
+    sv: |-
+      Om det behövs för att förebygga ohälsa eller olycksfall i arbetet, får regeringen eller den myndighet som regeringen bestämmer meddela föreskrifter om att ett tillstånd, godkännande eller annat bevis om överensstämmelse med gällande krav fordras innan
+
+      1. arbetsprocesser, arbetsmetoder eller anläggningar får användas, och
+      2. tekniska anordningar eller ämnen som kan leda till ohälsa eller olycksfall får släppas ut på marknaden, användas eller avlämnas för att tas i bruk. Lag (2013:610).
+    en: |-
+      If necessary for the prevention of illness or accidents at work, the Government or the authority designated by the Government may issue regulations prescribing that a permit, approval or other certificate of compliance with the relevant requirements be required:
+
+      1. before work processes, work methods or facilities may be used; and
+      2. before technical equipment or substances capable of causing illness or accidents may be released on the market, used or delivered for use. Act (2013:610).
+  chapter: '4'
+  section: '2'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 3 §
+    en: Section 3
+  chapter: '4'
+  section: '3'
+  slug: chapter-4-section-3
+- type: paragraph_text
+  text:
+    sv: |-
+      Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om att
+
+      1. det på arbetsställen ska föras en förteckning över där befintliga tekniska anordningar av vissa slag eller vissa ämnen som kan leda till ohälsa eller olycksfall, och
+      2. arbetsgivare ska föra register över arbetstagare som utsätts för exposition som kan medföra ohälsa med uppgift om arbetet och expositionen samt att arbetsgivare ska lämna uppgifter ur registret till läkare.
+    en: |-
+      The Government or the authority designated by the Government may issue regulations prescribing that:
+
+      1. a register must be maintained at the workplace of certain types of technical equipment or certain substances present there that are capable of causing illness or accidents; and
+      2. an employer must maintain a register of employees who are exposed to substances that may lead to illness, with information regarding the work and the exposure, and the employer must provide information from the register to a doctor.
+  chapter: '4'
+  section: '3'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Regeringen eller den myndighet som regeringen bestämmer får också meddela
+      föreskrifter om undersökning av skyddsförhållandena i ett visst slag av verksamhet
+      och om installation av tekniska anordningar.
+    en: The Government or the authority designated by the Government may also issue
+      regulations concerning the inspection of safety conditions in a particular kind
+      of activity and the installation of technical equipment.
+  chapter: '4'
+  section: '3'
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: En arbetstagare ska på begäran ges tillfälle att ta del av de uppgifter i
+      register enligt första stycket 2 som rör honom eller henne. Lag (2013:610).
+    en: An employee must be given the opportunity, upon request, to obtain information
+      from a register compiled in compliance with the first paragraph, point 2, that
+      relates to her or him. Act (2013:610).
+  chapter: '4'
+  section: '3'
+  paragraph: '3'
+- type: section_heading
+  text:
+    sv: 4 §
+    en: Section 4
+  chapter: '4'
+  section: '4'
+  slug: chapter-4-section-4
+- type: paragraph_text
+  text:
+    sv: Om det är av särskild betydelse från skyddssynpunkt, får regeringen eller
+      den myndighet som regeringen bestämmer meddela föreskrifter om förbud att använda
+      arbetsprocesser, arbetsmetoder eller tekniska anordningar eller ämnen som kan
+      leda till ohälsa eller olycksfall. Lag (2013:610).
+    en: If special considerations of safety so demand, the Government or the authority
+      designated by the Government may issue regulations prohibiting the use of work
+      processes, work methods or technical equipment or substances capable of causing
+      illness or accidents. Act (2013:610).
+  chapter: '4'
+  section: '4'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 5 §
+    en: Section 5
+  chapter: '4'
+  section: '5'
+  slug: chapter-4-section-5
+- type: paragraph_text
+  text:
+    sv: Om ett arbete innebär risk för ohälsa eller olycksfall, får regeringen eller
+      den myndighet som regeringen bestämmer meddela föreskrifter om skyldighet att
+      ordna med läkarundersökning eller vaccinering eller annan förebyggande behandling
+      mot smitta av dem som sysselsätts eller ska sysselsättas i arbetet.
+    en: If a particular type of work involves a risk of illness or accidents, the
+      Government or the authority designated by the Government may issue regulations
+      making it obligatory to arrange medical examination or vaccination, or other
+      preventive treatment against infection, of persons who are employed or are intended
+      to be employed in the work concerned.
+  chapter: '4'
+  section: '5'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Regeringen eller den myndighet som regeringen bestämmer får också meddela
+      föreskrifter om förbud att till arbetet anlita den som vid läkarundersökning
+      har visat sjuklighet eller svaghet som gör honom eller henne särskilt mottaglig
+      för risk för ohälsa eller olycksfall. Lag (2013:610).
+    en: The Government or the authority designated by the Government may also issue
+      regulations prohibiting the engagement in such work of any person whom medical
+      examination has shown to be suffering from a disease or weakness rendering her
+      or him particularly vulnerable to a risk of illness or accident. Act (2013:610).
+  chapter: '4'
+  section: '5'
+  paragraph: '2'
+- type: section_heading
+  text:
+    sv: 6 §
+    en: Section 6
+  chapter: '4'
+  section: '6'
+  slug: chapter-4-section-6
+- type: paragraph_text
+  text:
+    sv: Om ett arbete medför särskild risk för vissa grupper av arbetstagare, får
+      regeringen eller den myndighet som regeringen bestämmer meddela föreskrifter
+      om förbud mot att arbetet utförs av arbetstagare som tillhör en sådan grupp
+      eller om att särskilda villkor ska gälla när arbetet utförs av sådana arbetstagare.
+      Lag (2013:610).
+    en: If a particular type of work involves a special risk to certain groups of
+      employees, the Government or the authority designated by the Government may
+      issue regulations prohibiting such work from being performed by employees belonging
+      to such a group, or prescribing that special conditions are to apply when the
+      work is performed by such employees. Act (2013:610).
+  chapter: '4'
+  section: '6'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 7 §
+    en: Section 7
+  chapter: '4'
+  section: '7'
+  slug: chapter-4-section-7
+- type: paragraph_text
+  text:
+    sv: |-
+      Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om att register ska föras vid en läkarundersökning som avses i 5 och 6 §§ med uppgifter om de undersöktas namn och om undersökningsresultatet.
+      Lag (2013:610).
+    en: The Government or the authority designated by the Government may issue regulations
+      prescribing that registers containing the names of the persons examined and
+      the results of their examinations must be kept in connection with medical examinations
+      referred to in Sections 5 and 6. Act (2013:610).
+  chapter: '4'
+  section: '7'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 8 §
+    en: Section 8
+  chapter: '4'
+  section: '8'
+  slug: chapter-4-section-8
+- type: paragraph_text
+  text:
+    sv: |-
+      Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om
+
+      1. förhandsanmälan
+      a) när det gäller skyldighet för den som låter utföra ett byggnads- eller anläggningsarbete att se till att en sådan anmälan lämnas till tillsynsmyndigheten, och
+      b) i övrigt, samt
+      2. skyldighet att i övrigt göra anmälan eller lämna uppgifter till tillsynsmyndigheten eller att förvara handlingar som har betydelse från skyddssynpunkt.
+    en: |-
+      The Government or the authority designated by the Government may issue regulations on:
+
+      1. advance notice
+      a) with respect to the obligation of the person commissioning building or civil engineering works to ensure that such notice is submitted to the supervisory authority; and
+      b) in other respects; and
+      2. the obligation to otherwise notify or submit information to the supervisory authority or to retain documents that are relevant from a safety perspective.
+  chapter: '4'
+  section: '8'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: |-
+      Regeringen eller den myndighet som regeringen bestämmer får vidare meddela föreskrifter om
+
+      1. att den som låter utföra ett byggnads- eller anläggningsarbete ska se till att
+      a) det upprättas en arbetsmiljöplan,
+      b) det utarbetas en till projektets art avpassad dokumentation som ska beaktas vid efterföljande arbeten, och
+      c) arbetsmiljöplanen och dokumentationen anpassas med hänsyn till hur arbetet fortskrider och de eventuella förändringar som ägt rum,
+      2. att en byggarbetsmiljösamordnare enligt 3 kap. 7 a § ska upprätta eller låta upprätta en arbetsmiljöplan och utarbeta en sådan dokumentation som avses i 1,
+      3. att en byggarbetsmiljösamordnare enligt 3 kap. 7 b § ska se till att det genomförs nödvändiga anpassningar av en arbetsmiljöplan och sådan dokumentation som avses i 1, och
+      4. skyldighet att i övrigt upprätta handlingar som har betydelse från skyddssynpunkt. Lag (2008:934).
+    en: |-
+      Furthermore, the Government or the authority designated by the Government may issue regulations prescribing:
+
+      1. that a person commissioning building or civil engineering works must ensure that:
+      a) a work environment plan is prepared;
+      b) documentation appropriate to the nature of the project is produced and taken into account in the subsequent work; and
+      c) the work environment plan and documentation are adapted to the progress of the work and any changes that have occurred;
+      2. that a building work environment coordinator as prescribed in Chapter 3, Section 7a must prepare a work environment plan or have such a plan prepared and produce the documentation referred to in point 1;
+      3. that a building work environment coordinator as prescribed in Chapter 3, Section 7b must ensure that necessary adaptations are made in the work environment plan and the documentation referred to in point 1; and
+      4. an obligation to otherwise prepare documents that are relevant from a safety perspective. Act (2008:934).
+  chapter: '4'
+  section: '8'
+  paragraph: '2'
+- type: section_heading
+  text:
+    sv: 9 §
+    en: Section 9
+  chapter: '4'
+  section: '9'
+  slug: chapter-4-section-9
+- type: paragraph_text
+  text:
+    sv: Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter
+      om skyldighet för läkare att hos tillsynsmyndigheten göra anmälan om sjukdom
+      som kan ha samband med arbete och att lämna tillsynsmyndigheten upplysningar
+      och biträde. Lag (2013:610).
+    en: The Government or the authority designated by the Government may issue regulations
+      requiring doctors to notify the supervisory authority of any sickness that may
+      be connected with work and to provide the supervisory authority with information
+      and assistance. Act (2013:610).
+  chapter: '4'
+  section: '9'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 10 §
+    en: Section 10
+  chapter: '4'
+  section: '10'
+  slug: chapter-4-section-10
+- type: paragraph_text
+  text:
+    sv: Regeringen eller den myndighet som regeringen bestämmer får meddela de ytterligare
+      föreskrifter om arbetsmiljöns beskaffenhet och om allmänna skyldigheter i fråga
+      om arbetsmiljön som behövs för att förebygga ohälsa och olycksfall i arbetet.
+    en: The Government or the authority designated by the Government may issue any
+      further regulations on the state of the work environment and general obligations
+      in respect of the work environment that are needed to prevent illness and accidents
+      at work.
+  chapter: '4'
+  section: '10'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: |-
+      Regeringen eller den myndighet som regeringen bestämmer får också meddela föreskrifter om att den som ensam eller gemensamt med en familjemedlem driver yrkesmässig verksamhet utan någon anställd ska följa denna lag och föreskrifter som har meddelats med stöd av lagen när det gäller skyldigheter i andra avseenden än som framgår av 3 kap. 5 § andra stycket.
+      Lag (2013:610).
+    en: The Government or the authority designated by the Government may also issue
+      regulations requiring a person who engages in professional activities alone
+      or with a family member, without employees, to comply with provisions of this
+      Act and regulations issued pursuant to this Act concerning obligations other
+      than those indicated in Chapter 3, Section 5, second paragraph. Act (2013:610).
+  chapter: '4'
+  section: '10'
+  paragraph: '2'
+- type: chapter_heading
+  text:
+    sv: 5 kap. Minderåriga
+    en: Chapter 5 Minors
+  chapter: '5'
+- type: section_heading
+  text:
+    sv: 1 §
+    en: Section 1
+  chapter: '5'
+  section: '1'
+  slug: chapter-5-section-1
+- type: paragraph_text
+  text:
+    sv: Med minderårig avses i denna lag den som icke har fyllt aderton år.
+    en: For the purposes of this Act, a ‘minor’ is a person who has not attained the
+      age of 18.
+  chapter: '5'
+  section: '1'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 2 §
+    en: Section 2
+  chapter: '5'
+  section: '2'
+  slug: chapter-5-section-2
+- type: paragraph_text
+  text:
+    sv: En minderårig får inte som arbetstagare eller på annat sätt anlitas till eller
+      utföra arbete före det kalenderår då den minderårige fyller sexton år och inte
+      heller innan den minderårige har fullgjort sin skolplikt.
+    en: A minor may not be engaged for or perform work, as an employee or in any other
+      capacity, before the calendar year in which the minor attains the age of 16
+      or before the minor has completed her or his compulsory education.
+  chapter: '5'
+  section: '2'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Första stycket hindrar inte att en minderårig som har fyllt tretton år anlitas
+      till eller utföra lätt arbete som inte är av sådant slag att det kan inverka
+      skadligt på den minderåriges hälsa, utveckling eller skolgång.
+    en: Notwithstanding the provisions of the first paragraph, a minor who has attained
+      the age of 13 may be engaged for, or perform, light work that will not have
+      a detrimental effect on the minor’s health, development or education.
+  chapter: '5'
+  section: '2'
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter
+      om undantag från första stycket för anlitande av en minderårig som inte har
+      fyllt tretton år. Ett sådant undantag får endast avse mycket lätt arbete av
+      sådant slag att speciella och betydande tillämpningsproblem skulle uppstå, om
+      undantag inte gavs.
+    en: The Government or the authority designated by the Government may issue regulations
+      concerning exceptions to the first paragraph for engaging the services of a
+      minor who has not attained the age of 13. Such an exception may only concern
+      very light work of a type that would entail that special and significant problems
+      of application would arise if an exception were not permitted.
+  chapter: '5'
+  section: '2'
+  paragraph: '3'
+- type: paragraph_text
+  text:
+    sv: Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter
+      om sådant arbete som avses i andra och tredje styckena.
+    en: The Government or the authority designated by the Government may issue regulations
+      concerning work referred to in the second and third paragraphs.
+  chapter: '5'
+  section: '2'
+  paragraph: '4'
+- type: paragraph_text
+  text:
+    sv: I sjömanslagen (1973:282) och fartygssäkerhetslagen (2003:364) finns särskilda
+      bestämmelser om minimiålder för fartygsarbete. Lag (2013:610).
+    en: |-
+      The Merchant Seaman Act (1973:282) and the Ship Safety Act (2003:364) contain special provisions
+      on the minimum age for work on ships. Act (2013:610).
+  chapter: '5'
+  section: '2'
+  paragraph: '5'
+- type: section_heading
+  text:
+    sv: 3 §
+    en: Section 3
+  chapter: '5'
+  section: '3'
+  slug: chapter-5-section-3
+- type: paragraph_text
+  text:
+    sv: En minderårig får inte anlitas till eller utföra arbete på ett sätt som medför
+      risk för olycksfall eller för överansträngning eller annan skadlig inverkan
+      på den minderåriges hälsa eller utveckling.
+    en: A minor may not be engaged for, or perform, work in a manner involving a risk
+      of accident or of overexertion or some other harmful effect on the minor’s health
+      or development.
+  chapter: '5'
+  section: '3'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter
+      om villkor för eller förbud mot att en minderårig anlitas till eller utför arbete
+      som medför påtaglig risk för olycksfall eller för överansträngning eller annan
+      skadlig inverkan på den minderåriges hälsa eller utveckling. Lag (2013:610).
+    en: The Government or the authority designated by the Government may issue regulations
+      concerning conditions for, or the prohibition of, a minor being engaged for,
+      or performing, work involving a substantial risk of accident or overexertion
+      or some other harmful effect on the minor’s health or development. Act (2013:610)
+  chapter: '5'
+  section: '3'
+  paragraph: '2'
+- type: section_heading
+  text:
+    sv: 4 §
+    en: Section 4
+  chapter: '5'
+  section: '4'
+  slug: chapter-5-section-4
+- type: paragraph_text
+  text:
+    sv: |-
+      Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om att det vid läkarundersökningar som har föreskrivits med stöd av 2 § fjärde stycket eller 3 § andra stycket ska föras register med uppgifter om de undersöktas namn och om undersökningsresultatet.
+      Lag (2013:610).
+    en: The Government or the authority designated by the Government may issue regulations
+      directing that, upon medical examinations prescribed pursuant to Section 2,
+      fourth paragraph, or Section 3, second paragraph, a register must be kept of
+      the names of the persons examined and the results of the examinations. Act (2013:610).
+  chapter: '5'
+  section: '4'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 5 §
+    en: Section 5
+  chapter: '5'
+  section: '5'
+  slug: chapter-5-section-5
+- type: paragraph_text
+  text:
+    sv: Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter
+      om arbetstidens längd och förläggning för minderåriga som anlitas till eller
+      utför arbete. Lag (2013:610).
+    en: The Government or the authority designated by the Government may issue regulations
+      concerning the duration and organisation of working time for minors who are
+      engaged for or perform work. Act (2013:610).
+  chapter: '5'
+  section: '5'
+  paragraph: '1'
+- type: chapter_heading
+  text:
+    sv: 6 kap. Samverkan mellan arbetsgivare och arbetstagare m.m.
+    en: Chapter 6 Cooperation between employers and employees, etc.
+  chapter: '6'
+- type: section_heading
+  text:
+    sv: 1 §
+    en: Section 1
+  chapter: '6'
+  section: '1'
+  slug: chapter-6-section-1
+- type: paragraph_text
+  text:
+    sv: Arbetsgivare och arbetstagare skall bedriva en på lämpligt sätt organiserad
+      arbetsmiljöverksamhet. Lag (1991:677).
+    en: Employers and employees must conduct suitably organised work environment activities.
+      Act (1991:677).
+  chapter: '6'
+  section: '1'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 2 §
+    en: Section 2
+  chapter: '6'
+  section: '2'
+  slug: chapter-6-section-2
+- type: paragraph_text
+  text:
+    sv: På ett arbetsställe, där minst fem arbetstagare regelbundet sysselsätts, ska
+      det bland arbetstagarna utses ett eller flera skyddsombud (arbetsmiljöombud).
+      Skyddsombud ska utses även på ett annat arbetsställe, om arbetsförhållandena
+      kräver det. För skyddsombud bör ersättare utses.
+    en: At every workplace where five or more employees are regularly employed, one
+      or more of the employees must be appointed safety representative (work environment
+      representative). Safety representatives must also be appointed at other workplaces
+      if the working conditions so require. Alternates should be appointed for safety
+      representatives.
+  chapter: '6'
+  section: '2'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Skyddsombud utses av en lokal arbetstagarorganisation som är eller brukar
+      vara bunden av kollektivavtal i förhållande till arbetsgivaren. Finns det inte
+      någon sådan organisation, utses skyddsombud av arbetstagarna.
+    en: Safety representatives are to be appointed by a local employees’ organisation
+      that is currently or customarily bound by a collective agreement with the employer.
+      In the absence of such an organisation, safety representatives are to be appointed
+      by the employees.
+  chapter: '6'
+  section: '2'
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: |-
+      För ett arbetsställe där sådan skyddskommitté som avses i 8 § inte har tillsatts får en lokal avdelning inom ett förbund eller en med sådan avdelning jämförlig sammanslutning av arbetstagare utse ett skyddsombud utanför kretsen av arbetstagarna på arbetsstället (regionalt skyddsombud).
+      Rätten att utse ett regionalt skyddsombud gäller endast om avdelningen eller sammanslutningen har någon medlem på arbetsstället.
+    en: In the case of a workplace for which no safety committee under Section 8 has
+      been appointed, the local branch of a federation or an association of employees
+      comparable to such a branch may appoint a safety representative from outside
+      the circle of employees at the workplace (a regional safety representative).
+      The right to appoint a regional safety representative applies only if the branch
+      or association has a member in the workplace.
+  chapter: '6'
+  section: '2'
+  paragraph: '3'
+- type: paragraph_text
+  text:
+    sv: Bestämmelser om hur skyddsombud på fartyg ska utses finns i fartygssäkerhetslagen
+      (2003:364). Lag (2009:870).
+    en: The Ship Safety Act (2003:364) contains provisions on how safety representatives
+      on ships are to be appointed. Act (2009:870).
+  chapter: '6'
+  section: '2'
+  paragraph: '4'
+- type: section_heading
+  text:
+    sv: 3 §
+    en: Section 3
+  chapter: '6'
+  section: '3'
+  slug: chapter-6-section-3
+- type: paragraph_text
+  text:
+    sv: Finns vid arbetsställe mer än ett skyddsombud, skall ett av ombuden utses
+      att vara huvudskyddsombud med uppgift att samordna skyddsombudens verksamhet.
+    en: If a workplace has more than one safety representative, one of the representatives
+      shall be appointed principal safety representative with the task of coordinating
+      the safety representatives’ activities.
+  chapter: '6'
+  section: '3'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 4 §
+    en: Section 4
+  chapter: '6'
+  section: '4'
+  slug: chapter-6-section-4
+- type: paragraph_text
+  text:
+    sv: Skyddsombud företräder arbetstagarna i arbetsmiljöfrågor och skall verka för
+      en tillfredsställande arbetsmiljö. I detta syfte skall ombudet inom sitt skyddsområde
+      vaka över skyddet mot ohälsa och olycksfall samt över att arbetsgivaren uppfyller
+      kraven i 3 kap. 2 a §. Skyddsombud på fartyg skall vidare vaka över att fartyget
+      har den bemanning som det skall ha enligt beslut eller föreskrifter.
+    en: A safety representative represents the employees in work environment matters
+      and must strive to promote a satisfactory work environment. To this end, the
+      representative is responsible, within her or his safety area, for monitoring
+      the safeguards against illness and accidents and compliance by the employer
+      with the requirements of Chapter 3, Section 2a. Safety representatives on ships
+      are also responsible for monitoring that the ship has the crew it is required
+      to have under any decision or regulations.
+  chapter: '6'
+  section: '4'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Skyddsombud skall delta vid planering av nya eller ändrade lokaler, anordningar,
+      arbetsprocesser, arbetsmetoder och av arbetsorganisation liksom vid planering
+      av användning av ämnen som kan medföra ohälsa eller olycksfall. Skyddsombud
+      skall vidare delta vid upprättande av handlingsplaner enligt 3 kap. 2 a §.
+    en: A safety representative must participate in the planning of new or altered
+      premises, equipment, work processes, work methods and of the organisation of
+      work, as well as the planning of the use of substances capable of causing illness
+      or accidents. Furthermore, a safety representative must participate in the establishment
+      of action plans as referred to in Chapter 3, Section 2a.
+  chapter: '6'
+  section: '4'
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: Arbetsgivaren skall underrätta skyddsombud om förändringar av betydelse för
+      arbetsmiljöförhållandena inom ombudets område.
+    en: Employers must notify safety representatives of any changes affecting safety
+      conditions within the representative’s area.
+  chapter: '6'
+  section: '4'
+  paragraph: '3'
+- type: paragraph_text
+  text:
+    sv: Arbetsgivare och arbetstagare svarar gemensamt för att skyddsombud får erforderlig
+      utbildning. Lag (2003:365).
+    en: Employers and employees are jointly responsible for ensuring that safety representatives
+      receive the requisite training. Act (2003:365).
+  chapter: '6'
+  section: '4'
+  paragraph: '4'
+- type: section_heading
+  text:
+    sv: 5 §
+    en: Section 5
+  chapter: '6'
+  section: '5'
+  slug: chapter-6-section-5
+- type: paragraph_text
+  text:
+    sv: Skyddsombud, som avses i 2 § andra stycket, har rätt till den ledighet som
+      fordras för uppdraget. Vid sådan ledighet bibehåller ombudet sina anställningsförmåner.
+    en: Safety representatives referred to in Section 2, second paragraph, are entitled
+      to the leave required for the performance of their function. Representatives
+      retain their employment benefits during any such leave.
+  chapter: '6'
+  section: '5'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 6 §
+    en: Section 6
+  chapter: '6'
+  section: '6'
+  slug: chapter-6-section-6
+- type: paragraph_text
+  text:
+    sv: Skyddsombud har rätt att taga del av de handlingar och erhålla de upplysningar
+      i övrigt som behövs för ombudets verksamhet.
+    en: A safety representative is entitled to access the documents and obtain the
+      other information needed for the representative's activities.
+  chapter: '6'
+  section: '6'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 6 a §
+    en: Section 6a
+  chapter: '6'
+  section: 6a
+  slug: chapter-6-section-6a
+  editorial_preamble: |-
+    > [!TIP]
+    > Statistics about 6:6a applications are available via the Arbetsmiljö project.
+    >
+    > See [https://arbetsmiljo.github.io/66a/](https://arbetsmiljo.github.io/66a/)
+- type: paragraph_text
+  text:
+    sv: |-
+      Om ett skyddsombud anser att åtgärder behöver vidtas för att uppnå en tillfredsställande arbetsmiljö, ska skyddsombudet vända sig till arbetsgivaren och begära sådana åtgärder. Skyddsombudet kan också begära att en viss undersökning ska göras för kontroll av förhållandena inom skyddsområdet. På framställning ska arbetsgivaren genast lämna skyddsombudet en skriftlig bekräftelse på att arbetsgivaren mottagit dennes begäran. Arbetsgivaren ska utan dröjsmål lämna besked i frågan. Gör arbetsgivaren inte det eller beaktas inte begäran inom skälig tid, ska Arbetsmiljöverket efter framställan av skyddsombudet pröva om föreläggande eller förbud enligt 7 kap. 7 § ska meddelas.
+      Sådan framställning av ett skyddsombud på fartyg ska i stället lämnas till Transportstyrelsen, som ska pröva om föreläggande eller förbud enligt fartygssäkerhetslagen (2003:364) ska meddelas.
+    en: If a safety representative considers that measures need to be taken to achieve
+      a satisfactory work environment, the safety representative must apply to the
+      employer for such measures. The safety representative may also request that
+      a certain investigation be carried out to verify conditions within the safety
+      area. Upon application, the employer must immediately give the safety representative
+      written confirmation that the employer has received the representative’s request.
+      The employer must make a response in the matter without delay. If the employer
+      fails to do so, or if the request is not considered within a reasonable time,
+      the Swedish Work Environment Authority, upon application from a safety representative,
+      must consider whether an order or prohibition should be issued under Chapter
+      7, Section 7. Such an application from a safety representative on a ship must
+      instead be submitted to the Swedish Transport Agency, which must consider whether
+      an order or prohibition should be issued under the Ship Safety Act (2003:364).
+  chapter: '6'
+  section: 6a
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Där skyddskommitté finns, kan skyddsombud direkt påkalla kommitténs behandling
+      av en arbetsmiljöfråga.
+    en: Where there is a safety committee, a safety representative may directly require
+      the committee to address a work environment issue.
+  chapter: '6'
+  section: 6a
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: Ett skyddsombuds begäran enligt första stycket får även avse skyddsåtgärder
+      som behövs för att arbetsgivaren på det arbetsställe där skyddsombudet är verksamt
+      ska uppfylla sina skyldigheter gentemot utomstående arbetskraft enligt 3 kap.
+      12 §.
+    en: A request from a safety representative under the first paragraph may also
+      concern safety measures needed for the employer at a workplace where the safety
+      representative is active to fulfil her or his obligations towards external labour
+      under Chapter 3, Section 12.
+  chapter: '6'
+  section: 6a
+  paragraph: '3'
+- type: paragraph_text
+  text:
+    sv: |-
+      Det som i första och andra styckena sägs om skyddsombud ska också gälla för studerandeskyddsombud som avses i 17 §.
+      Lag (2009:870).
+    en: The provisions of the first and second paragraphs concerning safety representatives
+      shall also apply to student safety representatives under Section 17. Act (2009:870).
+  chapter: '6'
+  section: 6a
+  paragraph: '4'
+- type: section_heading
+  text:
+    sv: 7 §
+    en: Section 7
+  chapter: '6'
+  section: '7'
+  slug: chapter-6-section-7
+- type: paragraph_text
+  text:
+    sv: Innebär visst arbete omedelbar och allvarlig fara för arbetstagares liv eller
+      hälsa och kan rättelse inte genast uppnås genom att skyddsombudet vänder sig
+      till arbetsgivaren, kan skyddsombudet bestämma att arbetet ska avbrytas i avvaktan
+      på ställningstagande av Arbetsmiljöverket.
+    en: If a particular task of work involves immediate and serious danger to the
+      life or health of an employee, and if no immediate remedy can be obtained by
+      applying to the employer, the safety representative may order the suspension
+      of that work pending a decision by the Swedish Work Environment Authority.
+  chapter: '6'
+  section: '7'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Om det är påkallat från skyddssynpunkt och rättelse inte genast kan uppnås
+      genom att skyddsombudet vänder sig till arbetsgivaren kan skyddsombudet i avvaktan
+      på Arbetsmiljöverkets ställningstagande avbryta arbete som en arbetstagare utför
+      ensam.
+    en: If safety considerations so demand, and if no immediate remedy can be obtained
+      by applying to the employer, the safety representative may order the suspension,
+      pending a decision by the Swedish Work Environment Authority, of work carried
+      out by an employee alone.
+  chapter: '6'
+  section: '7'
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: Överträds en tillsynsmyndighets förbud, som har vunnit laga kraft eller som
+      på grund av förordnande enligt 9 kap. 5 § ska gälla omedelbart, kan skyddsombudet
+      avbryta sådant arbete som avses med förbudet.
+    en: If a prohibition issued by a supervisory authority that has become final and
+      non-appealable or requires immediate compliance by virtue of an order under
+      Chapter 9, Section 5, is disregarded, a safety representative may immediately
+      suspend the work to which the prohibition refers.
+  chapter: '6'
+  section: '7'
+  paragraph: '3'
+- type: paragraph_text
+  text:
+    sv: Ett skyddsombuds åtgärder enligt första-tredje styckena får även avse arbete
+      som utförs av inhyrd arbetskraft i arbetsgivarens verksamhet.
+    en: Measures taken by a safety representative under the first to third paragraphs
+      may also concern work performed in the employer’s business by temporary employees.
+  chapter: '6'
+  section: '7'
+  paragraph: '4'
+- type: paragraph_text
+  text:
+    sv: För skada till följd av någon åtgärd som avses i denna paragraf är ett skyddsombud
+      fritt från ersättningsskyldighet.
+    en: A safety officer is not liable for any loss resulting from a measure referred
+      to in this Section.
+  chapter: '6'
+  section: '7'
+  paragraph: '5'
+- type: paragraph_text
+  text:
+    sv: Bestämmelser om rätten för ett skyddsombud att avbryta arbete på fartyg och
+      om verkan av en sådan åtgärd finns i fartygssäkerhetslagen (2003:364). Lag (2009:870).
+    en: The Ship Safety Act (2003:364) contains provisions on the right of a safety
+      representative to suspend work on a ship and on the effect of such action. Act
+      (2009:870).
+  chapter: '6'
+  section: '7'
+  paragraph: '6'
+- type: section_heading
+  text:
+    sv: 8 §
+    en: Section 8
+  chapter: '6'
+  section: '8'
+  slug: chapter-6-section-8
+- type: paragraph_text
+  text:
+    sv: Vid ett arbetsställe, där minst femtio arbetstagare regelbundet sysselsätts,
+      ska det finnas en skyddskommitté, sammansatt av företrädare för arbetsgivaren
+      och arbetstagarna. En skyddskommitté ska tillsättas även vid arbetsställen med
+      mindre antal arbetstagare, om det begärs av arbetstagarna.
+    en: At a workplace where at least fifty persons are regularly employed, there
+      must be a safety committee consisting of representatives of the employer and
+      of the employees. A safety committee must also be appointed at workplaces with
+      smaller numbers of employees if the employees so require.
+  chapter: '6'
+  section: '8'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Företrädare för de anställda utses bland arbetstagarna av en lokal arbetstagarorganisation
+      som är eller brukar vara bunden av kollektivavtal i förhållande till arbetsgivaren.
+      Finns det ingen sådan organisation utses företrädare av arbetstagarna.
+    en: The employees’ representatives are to be appointed from among the employees
+      by a local employees’ organisation that is currently or customarily bound by
+      a collective agreement with the employer. In the absence of such an organisation,
+      representatives are to be appointed by the employees.
+  chapter: '6'
+  section: '8'
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: |-
+      Vid ett arbetsställe där det finns studerandeskyddsombud ska även två av dessa ingå i skyddskommittén.
+      Studerandeskyddsombuden bestämmer själva vilka av dem som ska ingå i skyddskommittén.
+    en: At a workplace where there are student safety representatives, two of these
+      must also be included in the safety committee. The student safety representatives
+      decide among themselves which of them will be members of the safety committee.
+  chapter: '6'
+  section: '8'
+  paragraph: '3'
+- type: paragraph_text
+  text:
+    sv: |-
+      Bestämmelser om hur en skyddskommitté på fartyg ska tillsättas finns i fartygssäkerhetslagen (2003:364).
+      Lag (2009:870).
+    en: The Ship Safety Act (2003:364) contains provisions on how a safety committee
+      on a ship is to be appointed. Act (2009:870).
+  chapter: '6'
+  section: '8'
+  paragraph: '4'
+- type: section_heading
+  text:
+    sv: 9 §
+    en: Section 9
+  chapter: '6'
+  section: '9'
+  slug: chapter-6-section-9
+- type: paragraph_text
+  text:
+    sv: |-
+      Skyddskommittén skall delta i planeringen av arbetsmiljöarbetet på arbetsstället samt följa arbetets genomförande. Den skall noga följa utvecklingen i frågor som rör skyddet mot ohälsa och olycksfall samt verka för tillfredsställande arbetsmiljöförhållanden. En skyddskommitté på fartyg skall vidare vaka över att fartyget har den bemanning som det skall ha enligt beslut eller föreskrifter. I skyddskommittén skall behandlas frågor om
+
+      1. företagshälsovård,
+      2. handlingsplaner enligt 3 kap. 2 a §,
+      3. planering av nya eller ändrade lokaler, anordningar, arbetsprocesser, arbetsmetoder och av arbetsorganisation,
+      4. planering av användning av ämnen som kan föranleda ohälsa eller olycksfall,
+      5. upplysning och utbildning rörande arbetsmiljön,
+      6. arbetsanpassnings- och rehabiliteringsverksamheten på arbetsstället. Lag (2003:365).
+    en: |-
+      The safety committee must participate in the planning of work environment measures at the workplace and follow up the implementation of these measures. It must carefully monitor developments in matters relating to protection against illness and accidents and promote satisfactory work environment conditions. A safety committee on a ship must also monitor that the ship has the crew it is required to have under any decision or regulations. The safety committee shall deal with questions concerning:
+
+      1. occupational health services;
+      2. action plans as referred to in Chapter 3, Section 2a;
+      3. the planning of new or altered premises, equipment, work processes and work methods, and of the organisation of work;
+      4. the planning and use of substances capable of causing illness or accidents;
+      5. information and training concerning the work environment;
+      6. job modification and rehabilitation activities at the workplace. Act (2003:365).
+  chapter: '6'
+  section: '9'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 9 a §
+    en: Section 9a
+  chapter: '6'
+  section: 9a
+  slug: chapter-6-section-9a
+- type: paragraph_text
+  text:
+    sv: Till skyddskommitté som avses i 8 § får genom ett kollektivavtal utses ett
+      organ som behandlar också andra frågor än som anges i 9 §. Ett sådant organ
+      får ha en annan benämning än skyddskommitté.
+    en: Through a collective agreement, a body may be appointed to serve the function
+      of a safety committee referred to in Section 8 and also deal with issues other
+      than those specified in Section 9. Such a body may be termed something other
+      than ‘safety committee’.
+  chapter: '6'
+  section: 9a
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Denna paragraf är inte tillämplig i fråga om skyddskommitté på fartyg. Lag
+      (2011:741).
+    en: This Section is not applicable in the case of a safety committee on a ship.
+      Act (2011:741)
+  chapter: '6'
+  section: 9a
+  paragraph: '2'
+- type: section_heading
+  text:
+    sv: 10 §
+    en: Section 10
+  chapter: '6'
+  section: '10'
+  slug: chapter-6-section-10
+- type: paragraph_text
+  text:
+    sv: Skyddsombud får inte hindras att fullgöra sina uppgifter.
+    en: Safety representatives may not be hindered from fulfilling their duties
+  chapter: '6'
+  section: '10'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Om ett skyddsombud företräder en arbetstagare som utför arbete på ett arbetsställe
+      över vilket dennes arbetsgivare inte råder är den arbetsgivare som råder över
+      arbetsstället skyldig att låta skyddsombudet få tillträde dit i den omfattning
+      som ombudet behöver för att fullgöra sitt uppdrag.
+    en: If a safety representative represents an employee performing work at a workplace
+      that the employee’s employer does not have control of, the employer who has
+      control of the workplace is obliged to grant the safety representative access
+      to the workplace to the extent required by the representative to fulfil her
+      or his function.
+  chapter: '6'
+  section: '10'
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: |-
+      Skyddsombud får ej med anledning av sitt uppdrag ges försämrade arbetsförhållanden eller anställningsvillkor. När uppdraget upphör skall arbetstagaren vara tillförsäkrad arbetsförhållanden och anställningsvillkor, vilka överensstämmer med eller är likvärdiga med dem som skulle ha rått om han ej hade haft uppdraget.
+      Lag (1994:579).
+    en: A safety representative may not be given inferior work conditions or terms
+      of employment because of her or his appointment. On the termination of her or
+      his appointment, the employee shall be guaranteed working conditions and terms
+      of employment identical or equivalent to those that she or he would have had
+      if she or he had not held the appointment. Act (1994:579).
+  chapter: '6'
+  section: '10'
+  paragraph: '3'
+- type: section_heading
+  text:
+    sv: 11 §
+    en: Section 11
+  chapter: '6'
+  section: '11'
+  slug: chapter-6-section-11
+- type: paragraph_text
+  text:
+    sv: Bryter arbetsgivare eller arbetstagare mot 10 §, skall han ersätta uppkommen
+      skada. Vid bedömande om och i vad mån skada har uppstått skall hänsyn tagas
+      även till omständigheter av annan än rent ekonomisk betydelse. Om det med hänsyn
+      till skadans storlek eller andra omständigheter är skäligt, kan skadeståndet
+      nedsättas eller helt bortfalla.
+    en: An employer or employee contravening the provisions of Section 10 is obliged
+      to provide compensation for any loss or injury caused. In determining whether
+      and to what extent loss or injury has been caused, regard shall also be had
+      to circumstances that are not of a purely economic character. If it appears
+      reasonable in view of the extent of the loss or injury or other circumstances
+      involved, the damages may be reduced or completely waived.
+  chapter: '6'
+  section: '11'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Är flera ansvariga för skada, skall skadeståndsskyldigheten fördelas mellan
+      dem efter vad som är skäligt med hänsyn till omständigheterna.
+    en: If several persons are liable for loss or injury, the liability shall be apportioned
+      between them as is reasonable considering the circumstances.
+  chapter: '6'
+  section: '11'
+  paragraph: '2'
+- type: section_heading
+  text:
+    sv: 12 §
+    en: Section 12
+  chapter: '6'
+  section: '12'
+  slug: chapter-6-section-12
+- type: paragraph_text
+  text:
+    sv: Den som vill fordra skadestånd enligt 11 § skall underrätta motparten om sitt
+      anspråk inom fyra månader från det skadan inträffade. Har inom den tiden förhandling
+      rörande anspråket påkallats enligt lagen (1976:580) om medbestämmande i arbetslivet
+      eller med stöd av kollektivavtal, skall talan väckas inom fyra månader efter
+      det att förhandlingen avslutades. I annat fall skall talan väckas inom åtta
+      månader från skadans uppkomst.
+    en: Any person wishing to claim damages under Section 11 must notify the other
+      party of her or his claim within four months of the occurrence of the loss or
+      injury concerned. If, within that period, negotiations concerning the claim
+      have been demanded under the Employment (Co-Determination in the Workplace)
+      Act (1976:580), or by virtue of a collective agreement, an action must be brought
+      within four months from the conclusion of the negotiations. Otherwise an action
+      must be brought within eight months from the occurrence of the loss or injury.
+  chapter: '6'
+  section: '12'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Första stycket skall tillämpas på motsvarande sätt i fråga om anspråk på anställningsförmåner
+      enligt 5 §.
+    en: The first paragraph shall apply in a corresponding manner to claims concerning
+      employment benefits under Section 5.
+  chapter: '6'
+  section: '12'
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: Iakttages ej vad som föreskrives i första eller andra stycket, är rätten till
+      talan förlorad.
+    en: If the provisions of the first or second paragraph are not complied with,
+      the right of action will lapse.
+  chapter: '6'
+  section: '12'
+  paragraph: '3'
+- type: paragraph_text
+  text:
+    sv: |-
+      För skyddsombud på fartyg gäller fartygssäkerhetslagen (2003:364) i stället för vad som anges i denna paragraf.
+      Lag (2003:365).
+    en: For a safety representative on a ship, the Ship Safety Act (2003:364) shall
+      apply instead of the provisions of this Section. Act (2003:365).
+  chapter: '6'
+  section: '12'
+  paragraph: '4'
+- type: section_heading
+  text:
+    sv: 13 §
+    en: Section 13
+  chapter: '6'
+  section: '13'
+  slug: chapter-6-section-13
+- type: paragraph_text
+  text:
+    sv: Mål om tillämpning av 10 och 11 §§ handläggs enligt lagen (1974:371) om rättegången
+      i arbetstvister. I fråga om talan mot arbetstagare eller, i fall som avses i
+      10 § andra stycket, mot den som råder över ett arbetsställe gäller dock vad
+      som är föreskrivet om rättegång i allmänhet. Lag (1994:579).
+    en: Cases concerning the application of Sections 10 and 11 shall be dealt with
+      in accordance with the Labour Disputes (Judicial Procedure) Act (1974:371).
+      However, general provisions on judicial proceedings apply to claims against
+      an employee or, in cases referred to in Section 10, second paragraph, claims
+      against the person who has control of a workplace. Act (1994:579).
+  chapter: '6'
+  section: '13'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 14 §
+    en: Section 14
+  chapter: '6'
+  section: '14'
+  slug: chapter-6-section-14
+- type: paragraph_text
+  text:
+    sv: I förhållande till arbetsgivare vinner 4--7 och 10--13 §§ tillämpning när
+      den organisation eller de arbetstagare, som har utsett skyddsombudet, har underrättat
+      arbetsgivaren om valet eller, om arbetsgivaren icke har kunnat nås, sänt underrättelse
+      om valet till arbetsstället.
+    en: Sections 4–7 and 10–13 shall apply to an employer when the employer has been
+      notified of the choice of a safety representative by the organisation or the
+      employees making the appointment or, if the employer could not be reached, when
+      notice of the choice has been sent to the workplace.
+  chapter: '6'
+  section: '14'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 15 §
+    en: Section 15
+  chapter: '6'
+  section: '15'
+  slug: chapter-6-section-15
+- type: paragraph_text
+  text:
+    sv: Det som sägs i 5 §, 10 § första och tredje styckena samt 11-14 §§ ska tillämpas
+      på motsvarande sätt på en ledamot av en skyddskommitté som inte är studerandeskyddsombud.
+    en: The provisions of Section 5, Section 10, first and third paragraphs, and Sections
+      11–14 shall apply in a corresponding manner to members of safety committees
+      except student safety representatives.
+  chapter: '6'
+  section: '15'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: |-
+      För studerandeskyddsombud ska 10 § första och andra styckena, 11, 12 och 14 §§ tillämpas på motsvarande sätt. För mål om tillämpning av 10 och 11 §§ som rör studerandeskyddsombud gäller det som är föreskrivet om rättegång i allmänhet.
+      Lag (2009:870).
+    en: In the case of student safety representatives, Section 10, first and second
+      paragraphs, and Sections 11, 12 and 14 shall apply in a corresponding manner.
+      General provisions on judicial proceedings apply to cases concerning the application
+      of Sections 10 and 11 that relate to student safety representatives. Act (2009:870).
+  chapter: '6'
+  section: '15'
+  paragraph: '2'
+- type: section_heading
+  text:
+    sv: 16 §
+    en: Section 16
+  chapter: '6'
+  section: '16'
+  slug: chapter-6-section-16
+- type: paragraph_text
+  text:
+    sv: |-
+      Beträffande skyddsombud och ledamot av skyddskommitté, vilka har utsetts av organisation som avses i 2 § andra eller tredje stycket, äger även lagen (1974:358) om facklig förtroendemans ställning på arbetsplatsen tilllämpning. Har skyddsombud eller ledamot av skyddskommitté på fartyg utsetts av de ombordanställda, tillämpas lagen som om han eller hon var utsedd av sin lokala arbetstagarorganisation. Det som sägs i denna paragraf gäller dock inte i den mån ombuds eller ledamots rättigheter enligt detta kapitel eller enligt fartygssäkerhetslagen (2003:364) därigenom skulle inskränkas.
+      Lag (2003:365).
+    en: The Trade Union Representatives (Status at the Workplace) Act (1974:358) shall
+      also apply concerning safety representatives and safety committee members appointed
+      by organisations referred to in Section 2, second or third paragraph. If a safety
+      representative or a member of the safety committee on a ship has been appointed
+      by the employees on board, the Act shall be applied as if she or he was appointed
+      by their local employees’ organisation. However, the provisions of this Section
+      shall not apply insofar as the representative’s or member’s rights under this
+      Chapter or under the Ship Safety Act (2003:364) would be limited by this. Act
+      (2003:365)
+  chapter: '6'
+  section: '16'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 17 §
+    en: Section 17
+  chapter: '6'
+  section: '17'
+  slug: chapter-6-section-17
+- type: paragraph_text
+  text:
+    sv: De som genomgår utbildning ska av huvudmannen för utbildningen ges tillfälle
+      att medverka i arbetsmiljöarbetet på arbetsstället, om det är rimligt med hänsyn
+      till utbildningens art och utbildningsperiodens längd.
+    en: Persons undergoing education or training must be given the opportunity, by
+      the person responsible for the education or training, of taking part in work
+      environment activities at the workplace, if this is reasonable given the nature
+      of the education or training and its duration.
+  chapter: '6'
+  section: '17'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: |-
+      Omfattningen och utformningen av elevernas deltagande i skolans arbetsmiljöarbete ska anpassas efter deras ålder, mognad och förutsättningar i övrigt när det gäller
+
+      1. elever i förskoleklass och i lägre årskurs än årskurs 7 i grundskolan, specialskolan och i motsvarande utbildningar samt i sameskolan,
+      2. elever i anpassade grundskolan, anpassade gymnasieskolan och motsvarande utbildningar, och
+      3. elever i kommunal vuxenutbildning som anpassad utbildning.
+    en: |-
+      The scope and form of pupils’ participation in the school’s work environment activities must be adapted to take account of their age, maturity and other circumstances in the case of:
+
+      1. pupils in preschool class and in years below year 7 in compulsory school, special school and equivalent education, and Sami school;
+      2. pupils in adapted compulsory schools, adapted upper secondary schools, and equivalent education, and
+      3. pupils in municipal adult education as adapted education.
+  chapter: '6'
+  section: '17'
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: Elever i grundskolans årskurs 7-9, specialskolans årskurs 7-10 och gymnasieskolan
+      samt motsvarande utbildningar företräds i arbetsmiljöarbetet av elevskyddsombud.
+    en: Pupils in years 7-9 of compulsory school, years 7-10 of special school and
+      upper secondary school, and equivalent education, are represented in work environment
+      activities by pupil safety representatives.
+  chapter: '6'
+  section: '17'
+  paragraph: '3'
+- type: paragraph_text
+  text:
+    sv: De som genomgår eftergymnasial utbildning och annan utbildning för vuxna än
+      kommunal vuxenutbildning som anpassad utbildning företräds i arbetsmiljöarbetet
+      av studerandeskyddsombud. Ett studerandeskyddsombud ska vara minst 18 år. Lag
+      (2023:349).
+    en: Persons undergoing post-secondary education and adult education other than
+      municipal adult education as adapted education are represented in work environment
+      activities by student safety representatives. A student safety representative
+      must be at least 18 years old. Act (2023:349).
+  chapter: '6'
+  section: '17'
+  paragraph: '4'
+- type: section_heading
+  text:
+    sv: 18 §
+    en: Section 18
+  chapter: '6'
+  section: '18'
+  slug: chapter-6-section-18
+- type: paragraph_text
+  text:
+    sv: Elevskyddsombuden utses av eleverna och studerandeskyddsombuden av de studerande.
+    en: Pupil safety representatives are to be appointed by the pupils and student
+      safety representatives by the students.
+  chapter: '6'
+  section: '18'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Huvudmannen för utbildningen ska se till att elevskyddsombuden och studerandeskyddsombuden
+      får den utbildning och den ledighet som behövs för uppdraget.
+    en: The entity responsible for the education must ensure that pupil safety representatives
+      and student safety representatives receive the training and the leave required
+      for their function.
+  chapter: '6'
+  section: '18'
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: Elevskyddsombuden och studerandeskyddsombuden har rätt till den information
+      som behövs för uppdraget. För elevskyddsombuden gäller dock rätten till information
+      inte sådana uppgifter som är föremål för tystnadsplikt enligt 7 kap. 13 § första
+      stycket. I fråga om uppgifter som är föremål för sekretess i det allmännas verksamhet
+      gäller offentlighets- och sekretesslagen (2009:400). Lag (2009:870).
+    en: Pupil safety representatives and student safety representatives are entitled
+      to the information needed for their function. However, in the case of pupil
+      safety representatives, the right to information does not apply to information
+      that is subject to secrecy under Chapter 7, Section 13, first paragraph. The
+      Public Access to Information and Secrecy Act (2009:400) shall apply with respect
+      to information in the work of public authorities that is subject to secrecy.
+      Act (2009:870).
+  chapter: '6'
+  section: '18'
+  paragraph: '3'
+- type: chapter_heading
+  text:
+    sv: 7 kap. Tillsyn
+    en: Chapter 7 Supervision
+  chapter: '7'
+- type: section_heading
+  text:
+    sv: 1 §
+    en: Section 1
+  chapter: '7'
+  section: '1'
+  slug: chapter-7-section-1
+- type: paragraph_text
+  text:
+    sv: Arbetsmiljöverket utövar tillsyn över att denna lag och föreskrifter som meddelats
+      med stöd av lagen följs.
+    en: The Swedish Work Environment Authority supervises compliance with this Act
+      and regulations issued pursuant to the Act.
+  chapter: '7'
+  section: '1'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Med undantag för 13 § gäller detta kapitel inte fartygsarbete. Bestämmelser
+      om tillsyn vid fartygsarbete och inskränkningar i rätten att använda fartyg
+      finns i fartygssäkerhetslagen (2003:364). Lag (2003:365).
+    en: Except for Section 13, this Chapter does not apply to work on ships. The Ship
+      Safety Act (2003:364) contains provisions on supervision of work on ships and
+      restrictions on the right to use ships. Act (2003:365).
+  chapter: '7'
+  section: '1'
+  paragraph: '2'
+- type: section_heading
+  text:
+    sv: 2 §
+    en: Section 2
+  chapter: '7'
+  section: '2'
+  slug: chapter-7-section-2
+- type: paragraph_text
+  text:
+    sv: Regeringen får meddela föreskrifter om Arbetsmiljöverkets tillsyn enligt detta
+      kapitel över att Europaparlamentets och rådets förordning (EG) nr 1907/2006
+      av den 18 december 2006 om registrering, utvärdering, godkännande och begränsning
+      av kemikalier (Reach), inrättande av en europeisk kemikaliemyndighet, ändring
+      av direktiv 1999/45/EG och upphävande av rådets förordning (EEG) nr 793/93 och
+      kommissionens förordning (EG) nr 1488/94 samt rådets direktiv 76/769/EEG och
+      kommissionens direktiv 91/155/EEG, 93/67/EEG, 93/105/EG och 2000/21/EG följs.
+      Lag (2010:1543).
+    en: The Government may issue regulations on supervision by the Swedish Work Environment
+      Authority of compliance with Regulation (EC) No 1907/2006 of the European Parliament
+      and of the Council of 18 December 2006 concerning the Registration, Evaluation,
+      Authorisation and Restriction of Chemicals (REACH), establishing a European
+      Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation
+      (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council
+      Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC
+      and 2000/21/EC. Act (2010:1543).
+  chapter: '7'
+  section: '2'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 3 §
+    en: Section 3
+  chapter: '7'
+  section: '3'
+  slug: chapter-7-section-3
+- type: paragraph_text
+  text:
+    sv: Tillsynsmyndighet har rätt att efter anfordran erhålla de upplysningar, handlingar
+      och prov samt påkalla de undersökningar som behövs för tillsyn enligt denna
+      lag.
+    en: The supervisory authority is entitled, upon request, to receive the information,
+      documents and samples and to order the investigations required for supervision
+      under this Act.
+  chapter: '7'
+  section: '3'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 4 §
+    en: Section 4
+  chapter: '7'
+  section: '4'
+  slug: chapter-7-section-4
+- type: paragraph_text
+  text:
+    sv: Den som i sin verksamhet använder en viss produkt eller har uppdragit åt annan
+      att utföra ett visst arbete är skyldig att på en tillsynsmyndighets begäran
+      lämna upplysning om vem som har levererat produkten eller utför arbetet.
+    en: A person who, in the course of her or his activities, uses a certain product
+      or commissions another person to perform a certain type of work is required
+      to disclose the identity of the person supplying the product or performing the
+      work when required by the supervisory authority to do so.
+  chapter: '7'
+  section: '4'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: |-
+      Den som har överlåtit eller upplåtit en teknisk anordning eller överlåtit ett ämne, som kan föranleda ohälsa eller olycksfall, är skyldig att på en tillsynsmyndighets begäran lämna tillgängliga upplysningar om till vilka produkten har överlåtits eller upplåtits.
+      Lag (1991:677).
+    en: A person who has transferred or supplied technical equipment or transferred
+      a substance that is capable of causing illness or accidents is obliged, at the
+      request of a supervisory authority, to furnish available information regarding
+      the persons to whom the product has been transferred or supplied. Act (1991:677).
+  chapter: '7'
+  section: '4'
+  paragraph: '2'
+- type: section_heading
+  text:
+    sv: 5 §
+    en: Section 5
+  chapter: '7'
+  section: '5'
+  slug: chapter-7-section-5
+- type: paragraph_text
+  text:
+    sv: För tillsyn enligt denna lag ska tillsynsmyndigheten ges tillträde till arbetsställe
+      och får där göra undersökningar och ta prov. För uttaget prov betalas inte ersättning.
+    en: For purposes of supervision under this Act, the supervisory authority must
+      be granted access to workplaces and may carry out investigations and take samples
+      there. No compensation will be paid for samples taken.
+  chapter: '7'
+  section: '5'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Polismyndigheten ska lämna den handräckning som behövs för att tillsynsmyndigheten
+      ska kunna utöva tillsyn enligt denna lag.
+    en: The police authority must provide the assistance required for the supervisory
+      authority to exercise supervision under this Act.
+  chapter: '7'
+  section: '5'
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: |-
+      Regeringen eller, efter regeringens bemyndigande, Arbetsmiljöverket, får föreskriva skyldighet att ersätta tillsynsmyndighetens kostnader för provtagning och undersökning av prov som skäligen har krävts.
+      Lag (2014:659).
+    en: The Government or, following authorisation by the Government, the Swedish
+      Work Environment Authority may issue regulations concerning an obligation to
+      compensate the supervisory authority for reasonable claims for expenses in connection
+      with sampling and the analysis of samples. Act (2014:659).
+  chapter: '7'
+  section: '5'
+  paragraph: '3'
+- type: section_heading
+  text:
+    sv: 6 §
+    en: Section 6
+  chapter: '7'
+  section: '6'
+  slug: chapter-7-section-6
+- type: paragraph_text
+  text:
+    sv: Om det på ett gemensamt arbetsställe som avses i 3 kap. 7 d § tredje stycket
+      inte finns någon som är ansvarig för samordningen av arbetsmiljöfrågor, får
+      Arbetsmiljöverket besluta att någon av dem som bedriver verksamhet där ska ha
+      sådant ansvar.
+    en: If a shared workplace as referred to in Chapter 3, Section 7d, third paragraph
+      has no person responsible for coordination of work environment issues, the Swedish
+      Work Environment Authority may decide that one of those engaged in activities
+      there shall have such responsibility.
+  chapter: '7'
+  section: '6'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: När det finns särskilda skäl får Arbetsmiljöverket besluta att ansvaret för
+      samordningen av arbetsmiljöfrågor i fall som avses i 3 kap. 7 d § ska flyttas
+      över till någon av dem som bedriver verksamhet på det gemensamma arbetsstället.
+    en: If there are special reasons, the Swedish Work Environment Authority may decide
+      that the responsibility for coordination of work environment issues in cases
+      referred to in Chapter 3, Section 7d shall be transferred to one of those engaged
+      in activities at the shared workplace.
+  chapter: '7'
+  section: '6'
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: |-
+      I fråga om ansvaret för arbetsmiljöfrågor vid byggnads- eller anläggningsarbete enligt 3 kap. 6 § får Arbetsmiljöverket om det finns särskilda skäl i beslut flytta över detta ansvar
+
+      1. från en uppdragstagare till den som låter utföra byggnads- eller anläggningsarbetet i fall som avses i 3 kap. 7 c §, eller
+      2. från den som låter utföra byggnads- eller anläggningsarbetet till en uppdragstagare i den mån det finns ett sådant uppdrag som avses i 3 kap. 7 c § första stycket 1. Lag (2008:934).
+    en: |-
+      With respect to responsibility for work environment issues in connection with building or civil engineering works under Chapter 3, Section 6, the Swedish Work Environment Authority may, if special reasons exist, make a decision transferring this responsibility:
+
+      1. from a contractor to the person commissioning building or civil engineering works in cases referred to in Chapter 3, Section 7c; or
+      2. from the person commissioning building or civil engineering works to a contractor, insofar as a commission as referred to in Chapter 3, Section 7c, first paragraph, point 1 has been made. Act (2008:934).
+  chapter: '7'
+  section: '6'
+  paragraph: '3'
+- type: section_heading
+  text:
+    sv: 7 §
+    en: Section 7
+  chapter: '7'
+  section: '7'
+  slug: chapter-7-section-7
+- type: paragraph_text
+  text:
+    sv: |-
+      Arbetsmiljöverket får gentemot den som har skyddsansvar enligt 3 kap. 2-12 §§, 5 kap. 3 § första stycket eller 6 § i detta kapitel besluta de förelägganden eller förbud som behövs för att
+
+      1. denna lag eller föreskrifter som har meddelats med stöd av lagen ska följas, och
+      2. de bestämmelser i förordning (EG) nr 1907/2006 som omfattas av Arbetsmiljöverkets tillsynsansvar ska följas.
+    en: |-
+      The Swedish Work Environment Authority may issue, to a person with safety responsibility under Chapter 3, Sections 2–12, Chapter 5, Section 3, first paragraph, or Section 6 of this Chapter, such orders or prohibitions as are needed to secure compliance:
+
+      1. with this Act or regulations issued pursuant to the Act; and
+      2. with the provisions of Regulation (EC) no 1907/2006 that fall within the supervisory responsibility of the Swedish Work Environment Authority.
+  chapter: '7'
+  section: '7'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: |-
+      Ett beslut om föreläggande eller förbud får förenas med vite.
+      Ett sådant föreläggande eller förbud får riktas även mot staten som arbetsgivare.
+    en: A decision to issue an order or prohibition may be accompanied by a conditional
+      financial penalty. An order or prohibition of this kind may also be directed
+      against the State as employer.
+  chapter: '7'
+  section: '7'
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: Om någon inte följer ett föreläggande, får Arbetsmiljöverket besluta att rättelse
+      ska ske på hans eller hennes bekostnad.
+    en: Should any person neglect to comply with an order, the Swedish Work Environment
+      Authority may order that remedial measures be taken at her or his expense.
+  chapter: '7'
+  section: '7'
+  paragraph: '3'
+- type: paragraph_text
+  text:
+    sv: |-
+      Om ett föreläggande har beslutats beträffande en åtgärd som kräver bygglov, rivningslov eller marklov enligt plan- och bygglagen (2010:900) men sådant lov inte beviljas, upphör föreläggandet att gälla i fråga om den åtgärden.
+      Lag (2013:610).
+    en: If an order has been issued concerning a measure for which a building permit,
+      demolition permit or land permit is required under the Planning and Building
+      Act (1987:10) but such a permit is refused, the order shall lapse as far as
+      the measure is concerned. Act (2013:610).
+  chapter: '7'
+  section: '7'
+  paragraph: '4'
+- type: section_heading
+  text:
+    sv: 8 §
+    en: Section 8
+  chapter: '7'
+  section: '8'
+  slug: chapter-7-section-8
+- type: paragraph_text
+  text:
+    sv: Om det finns något missförhållande i skyddshänseende beträffande en lokal,
+      ett markområde eller ett utrymme under jord som har upplåtits för arbete eller
+      som personalutrymme, kan Arbetsmiljöverket meddela förbud enligt 7 § mot en
+      sådan upplåtelse till dess angiven åtgärd har vidtagits med lokalen, markområdet
+      eller utrymmet.
+    en: If premises, land or an underground space supplied for work or as social rooms
+      are unsatisfactory in terms of safety, the Swedish Work Environment Authority
+      may, under Section 7, prohibit their supply until specified measures have been
+      taken regarding the premises, land or other space concerned.
+  chapter: '7'
+  section: '8'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Arbetsmiljöverket kan gentemot den som upplåter en lokal, ett markområde eller
+      ett utrymme under jord för arbete eller som personalutrymme, meddela förelägganden
+      enligt 7 § om undersökning av skyddsförhållandena på platsen. Lag (2000:764).
+    en: The Swedish Work Environment Authority may issue, to the person supplying
+      premises, land or an underground space for work or as social rooms, an order
+      under Section 7 for the investigation of safety conditions at the location concerned.
+      Act (2000:764).
+  chapter: '7'
+  section: '8'
+  paragraph: '2'
+- type: section_heading
+  text:
+    sv: 9 §
+    en: Section 9
+  chapter: '7'
+  section: '9'
+  slug: chapter-7-section-9
+- type: paragraph_text
+  text:
+    sv: har upphävts genom lag (2000:764).
+    en: Repealed by Act (2000:764).
+  chapter: '7'
+  section: '9'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 10 §
+    en: Section 10
+  chapter: '7'
+  section: '10'
+  slug: chapter-7-section-10
+- type: paragraph_text
+  text:
+    sv: För att säkerställa förbud enligt 7 eller 8 § kan tillsynsmyndighet meddela
+      beslut om försegling eller annan avstängning av anläggning, utrymme eller anordning.
+      Sådant beslut verkställs genom myndighetens försorg. Lag (1994:579).
+    en: To ensure compliance with a prohibition under Section 7 or 8, the supervisory
+      authority may order a facility, space or equipment to be sealed or otherwise
+      shut off. The authority is responsible for executing such orders. Act (1994:579).
+  chapter: '7'
+  section: '10'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 11 §
+    en: Section 11
+  chapter: '7'
+  section: '11'
+  slug: chapter-7-section-11
+- type: paragraph_text
+  text:
+    sv: |-
+      Den som har skyddsansvar enligt 3 kap. 8-10 §§ får åläggas att lämna varningsinformation eller att återkalla en produkt.
+      Innehållet i ett sådant åläggande ska motsvara vad som anges i 14-18 §§ produktsäkerhetslagen (2004:451). Vad som där sägs om tillverkare ska dock i stället avse den som har skyddsansvar enligt 3 kap. 8-10 §§.
+    en: The person responsible for safety under Chapter 3, Sections 8–10, may be ordered
+      to provide warning information or to recall a product. The contents of such
+      an order shall correspond to what is stated in Sections 14–18 of the Product
+      Safety Act (2004:451). However, what is stated there regarding the manufacturer
+      shall instead refer to the person responsible for safety under Chapter 3, Sections
+      8–10.
+  chapter: '7'
+  section: '11'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Åläggandet ska förenas med vite om det inte av särskilda skäl är obehövligt.
+      Lag (2008:295).
+    en: The order shall be accompanied by a conditional financial penalty unless there
+      are special reasons making this unnecessary. Act (2008:295).
+  chapter: '7'
+  section: '11'
+  paragraph: '2'
+- type: section_heading
+  text:
+    sv: 12 §
+    en: Section 12
+  chapter: '7'
+  section: '12'
+  slug: chapter-7-section-12
+- type: paragraph_text
+  text:
+    sv: Regeringen kan föreskriva att särskilda avgifter skall tagas ut i ärende enligt
+      denna lag.
+    en: The Government may prescribe that special fees are to be charged in matters
+      under this Act.
+  chapter: '7'
+  section: '12'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 13 §
+    en: Section 13
+  chapter: '7'
+  section: '13'
+  slug: chapter-7-section-13
+- type: paragraph_text
+  text:
+    sv: Den som har utsetts till skyddsombud, studerandeskyddsombud eller ledamot
+      i en skyddskommitté eller den som har deltagit i arbetsanpassnings- och rehabiliteringsverksamhet
+      enligt denna lag får inte obehörigen röja eller utnyttja vad han eller hon under
+      uppdraget har fått veta om yrkeshemlighet, arbetsförfarande, affärsförhållande,
+      en enskilds personliga förhållanden eller förhållande av betydelse för landets
+      försvar.
+    en: A person who has been appointed to serve as a safety representative, a student
+      safety representative or a member of a safety committee or who has taken part
+      in job adaptation and rehabilitation activities under this Act may not improperly
+      disclose or utilise facts that have come to her or his knowledge in the course
+      of the assignment concerning trade secrets, work procedures, business dealings,
+      the personal circumstances of individuals or matters of importance to national
+      defence.
+  chapter: '7'
+  section: '13'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Har ombudet, ledamoten eller deltagaren utsetts av en sådan lokal arbetstagarorganisation
+      som avses i 6 kap. 2 och 8 §§, får han eller hon trots tystnadsplikten enligt
+      första stycket lämna uppgift vidare till en ledamot i organisationens styrelse
+      eller till en sakkunnig i arbetsmiljöfrågor hos en central arbetstagarorganisation
+      till vilken den lokala organisationen hör. Rätten att lämna uppgift vidare gäller
+      endast om uppgiftslämnaren underrättar mottagaren om tystnadsplikten. I sådant
+      fall gäller tystnadsplikten också för denne.
+    en: A safety representative, member or participant who has been appointed by a
+      local employees’ organisation as referred to in Chapter 6, Sections 2 and 8
+      may, notwithstanding the duty of confidentiality set forth in the first paragraph,
+      pass information on to a member of the executive committee of the organisation
+      or to a work environment expert at a central employees’ organisation to which
+      the local organisation belongs. The right to pass information on applies only
+      if the informant notifies the recipient of the duty of confidentiality. In such
+      a case, the duty of confidentiality also applies to the latter.
+  chapter: '7'
+  section: '13'
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: I det allmännas verksamhet tillämpas i stället bestämmelserna i 10 kap. 11-14
+      §§ och 12 kap. 2 § offentlighets- och sekretesslagen (2009:400). Lag (2009:870).
+    en: In activities of public authorities, the provisions of Chapter 10, Sections
+      11–14 and Chapter 12, Section 2 of the Public Access to Information and Secrecy
+      Act (2009:400) apply instead. Act (2009:870).
+  chapter: '7'
+  section: '13'
+  paragraph: '3'
+- type: section_heading
+  text:
+    sv: 14 §
+    en: Section 14
+  chapter: '7'
+  section: '14'
+  slug: chapter-7-section-14
+- type: paragraph_text
+  text:
+    sv: Tillsynsmyndighet ska till skyddsombud och studerandeskyddsombud lämna var
+      sin kopia av de skriftliga meddelanden i arbetsmiljöfrågor som lämnas till ett
+      arbetsställe. Lag (2009:870).
+    en: The supervisory authority shall supply each safety representative and student
+      safety representative with a copy of the written communications made to a workplace
+      concerning work environment issues. Act (2009:870).
+  chapter: '7'
+  section: '14'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 15 §
+    en: Section 15
+  chapter: '7'
+  section: '15'
+  slug: chapter-7-section-15
+- type: paragraph_text
+  text:
+    sv: Bestämmelser om marknadskontroll finns i Europaparlamentets och rådets förordning
+      (EU) 2019/1020 av den 20 juni 2019 om marknadskontroll och överensstämmelse
+      för produkter och om ändring av direktiv 2004/42/EG och förordningarna (EG)
+      nr 765/2008 och (EU) nr 305/2011.
+    en: Provisions regarding market surveillance are contained in Regulation (EC)
+      No 1907/2006 of the European Parliament and of the Council of 20 June 2019 regarding
+      market surveillance and compliance for products and amending Directive 2004/42/EG
+      and regulations Regulations (EC) No 765/2008 and (EU) No 305/2011.
+  chapter: '7'
+  section: '15'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Den myndighet som regeringen bestämmer är marknadskontrollmyndighet. Lag (2022:1109).
+    en: The authority designated by the government is the market surveillance authority.
+      Act (2022:1109).
+  chapter: '7'
+  section: '15'
+  paragraph: '2'
+- type: section_heading
+  text:
+    sv: 16 §
+    en: Section 16
+  chapter: '7'
+  section: '16'
+  slug: chapter-7-section-16
+- type: paragraph_text
+  text:
+    sv: |-
+      Vid marknadskontroll enligt förordning (EU) 2019/1020 har marknadskontrollmyndigheten befogenhet
+
+      1. att enligt artikel 14.4 a-14.4 c kräva att ekonomiska aktörer ska tillhandahålla handlingar, specifikationer, data eller uppgifter,
+      2. att enligt artikel 14.4 d utföra oanmälda inspektioner på plats och fysiska kontroller av produkter,
+      3. att enligt artikel 14.4 e få tillträde till lokaler, mark eller transportmedel,
+      4. att enligt artikel 14.4 f inleda undersökningar på eget initiativ,
+      5. att enligt artikel 14.4 g kräva att ekonomiska aktörer ska vidta lämpliga åtgärder för att få en bristande överensstämmelse att upphöra eller att eliminera en risk,
+      6. att enligt artikel 14.4 h själv vidta åtgärder,
+      7. att enligt artikel 14.4 j införskaffa, inspektera och demontera varuprover, och
+      8. att enligt artikel 14.4 k kräva att innehåll på ett onlinegränssnitt ska avlägsnas, att en varning ska visas eller att åtkomsten ska begränsas.
+    en: |-
+      Under market surveillance according to Regulation (EU) 2019/1020, the market surveillance authority is empowered
+
+      1. under Article 14.4 a-14.4 c, to demand that economic operators provide documents, specifications, data, or information,
+      2. under Article 14.4 d, to conduct unannounced inspections on-site and physical product checks,
+      3. under Article 14.4 e, to access premises, land, or vehicles,
+      4. under Article 14.4 f, to initiate investigations on its own initiative,
+      5. under Article 14.4 g, to require economic operators to take appropriate measures to cease non-compliance or eliminate a risk,
+      6. under Article 14.4 h, to take action itself,
+      7. under Article 14.4 j, to acquire, inspect, and dismantle samples of goods, and
+      8. under Article 14.4 k, to require the removal of content on an online interface, display a warning, or restrict access.
+  chapter: '7'
+  section: '16'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Marknadskontrollmyndigheten får införskaffa ett varuprov under dold identitet
+      enligt artikel 14.4 j i förordning (EU) 2019/1020 endast om det är nödvändigt
+      för att syftet med kontrollen ska uppnås. Myndigheten ska underrätta den ekonomiska
+      aktören om att införskaffandet har skett under dold identitet, så snart det
+      går utan att syftet med åtgärden går förlorat.
+    en: The market surveillance authority may procure a sample of goods under a hidden
+      identity according to Article 14.4 j of Regulation (EU) 2019/1020 only if necessary
+      to achieve the purpose of the inspection. The authority must inform the economic
+      operator that the procurement was done under a hidden identity, as soon as possible
+      without compromising the purpose of the action.
+  chapter: '7'
+  section: '16'
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: Befogenheten enligt första stycket 8 gäller inte i fråga om databaser som
+      omfattas av tryckfrihetsförordningens eller yttrandefrihetsgrundlagens skydd.
+    en: The authority's powers under item 8 of the first paragraph do not apply to
+      databases covered by the protections of the Freedom of the Press Act or the
+      Freedom of Expression Act.
+  chapter: '7'
+  section: '16'
+  paragraph: '3'
+- type: paragraph_text
+  text:
+    sv: |-
+      När ändrade förhållanden ger anledning till det, ska marknadskontrollmyndigheten besluta att en sådan skyldighet som avses i första stycket 8 inte längre ska gälla.
+      _Lag (2022:1109)._
+    en: When changed circumstances warrant it, the market surveillance authority shall
+      decide that such an obligation referred to in item 8 of the first paragraph
+      shall no longer apply. Act (2022:1109).
+  chapter: '7'
+  section: '16'
+  paragraph: '4'
+- type: section_heading
+  text:
+    sv: 17 §
+    en: Section 17
+  chapter: '7'
+  section: '17'
+  slug: chapter-7-section-17
+- type: paragraph_text
+  text:
+    sv: |-
+      Marknadskontrollmyndigheten får besluta de förelägganden som behövs för att förordning (EU) 2019/1020 ska följas.
+      _Lag (2022:1109)._
+    en: The Market Surveillance Authority may issue such orders or prohibitions as
+      are necessary to ensure compliance with Regulation (EU) 2019/1020. Act (2022:1109).
+  chapter: '7'
+  section: '17'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 18 §
+    en: Section 18
+  chapter: '7'
+  section: '18'
+  slug: chapter-7-section-18
+- type: paragraph_text
+  text:
+    sv: Ett beslut om föreläggande enligt 16 eller 17 § får förenas med vite. _Lag
+      (2022:1109)._
+    en: A decision to issue an order under section 16 or 17 may be accompanied by
+      a penalty. Act (2022:1109).
+  chapter: '7'
+  section: '18'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 19 §
+    en: ''
+  chapter: '7'
+  section: '19'
+  slug: chapter-7-section-19
+- type: paragraph_text
+  text:
+    sv: Polismyndigheten ska på begäran av marknadskontrollmyndigheten lämna den hjälp
+      som behövs för att marknadskontrollmyndigheten ska kunna vidta åtgärder enligt
+      16 §.
+    en: The police authority shall, at the request of the market surveillance authority,
+      provide the assistance needed for the market surveillance authority to take
+      measures according to section 16.
+  chapter: '7'
+  section: '19'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: |-
+      Hjälp enligt första stycket får begäras endast om
+
+      1. det på grund av särskilda omständigheter kan befaras att åtgärden inte kan utföras utan att en polismans särskilda befogenheter enligt 10 § polislagen (1984:387) behöver tillgripas, eller
+      2. det annars finns synnerliga skäl.
+
+      _Lag (2022:1109)._
+    en: |-
+      Assistance under the first paragraph may be requested only if
+
+      1. due to special circumstances, it is feared that the measure cannot be carried out without resorting to a police officer's special powers under section 10 of the Police Act (1984:387), or
+      2. there are otherwise exceptional reasons.
+
+      Act (2022:1109).
+  chapter: '7'
+  section: '19'
+  paragraph: '2'
+- type: section_heading
+  text:
+    sv: 20 §
+    en: Section 20
+  chapter: '7'
+  section: '20'
+  slug: chapter-7-section-20
+- type: paragraph_text
+  text:
+    sv: Den som har tagit befattning med ett ärende som gäller marknadskontroll enligt
+      denna lag får inte obehörigen röja eller utnyttja vad denne har fått veta om
+      någons affärs- eller driftförhållanden.
+    en: A person who has dealt with a matter concerning market surveillance under
+      this law may not improperly disclose or exploit what they have learned about
+      someone's business or operational circumstances.
+  chapter: '7'
+  section: '20'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: I det allmännas verksamhet tillämpas i stället bestämmelserna i offentlighets-
+      och sekretesslagen (2009:400). _Lag (2022:1109)._
+    en: In the activities of public authorities, the provisions of the Freedom of
+      the Press Act and the Principle of Public Access to Information (2009:400) apply
+      instead. Act (2022:1109).
+  chapter: '7'
+  section: '20'
+  paragraph: '2'
+- type: chapter_heading
+  text:
+    sv: 8 kap. Påföljder
+    en: Chapter 8 Sanctions
+  chapter: '8'
+- type: group_heading
+  text:
+    sv: Ansvar
+    en: Liability
+- type: section_heading
+  text:
+    sv: 1 §
+    en: Section 1
+  chapter: '8'
+  section: '1'
+  slug: chapter-8-section-1
+- type: paragraph_text
+  text:
+    sv: Till böter eller fängelse i högst ett år döms den som uppsåtligen eller av
+      oaktsamhet bryter mot ett föreläggande eller förbud som har meddelats med stöd
+      av 7 kap. 7 eller 8 §. Detta gäller dock inte om föreläggandet eller förbudet
+      har förenats med vite. Lag (2013:610).
+    en: Any person who intentionally or negligently fails to comply with an order
+      or prohibition issued pursuant to Chapter 7, Section 7 or 8 shall be fined or
+      sentenced to imprisonment for a maximum of one year. However, this does not
+      apply if the order or prohibition was accompanied by a conditional financial
+      penalty. Act (2013:610).
+  chapter: '8'
+  section: '1'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 2 §
+    en: Section 2
+  chapter: '8'
+  section: '2'
+  slug: chapter-8-section-2
+- type: paragraph_text
+  text:
+    sv: |-
+      Till böter döms den som uppsåtligen eller av oaktsamhet
+
+      1. anlitar en minderårig i strid mot 5 kap. 2 § första stycket eller mot föreskrifter som meddelats med stöd av 5 kap. 2 § tredje eller fjärde stycket,
+      2. bryter mot föreskrifter om minderårigas arbete som har meddelats med stöd av 5 kap. 3 § andra stycket, 4 eller 5 §,
+      3. lämnar oriktiga uppgifter om förhållanden av vikt, när en tillsynsmyndighet har begärt upplysningar, handlingar eller prov eller begärt undersökningar enligt 7 kap. 3 eller 4 §,
+      4. utan giltigt skäl tar bort en skyddsanordning eller sätter den ur bruk, eller
+      5. inte lämnar underrättelse till tillsynsmyndigheten i enlighet med 3 kap. 3 a §.
+    en: |-
+      Fines shall be imposed on persons who intentionally or negligently:
+
+      1. employ a minor in contravention of Chapter 5, Section 2, first paragraph, or of regulations issued under Chapter 5, Section 2, third or fourth paragraph;
+      2. contravenes regulations on work by minors issued under Chapter 5, Section 3, second paragraph, point 4, or Section 5;
+      3. furnishes incorrect information in matters of importance when a supervisory authority has requested information, documents or samples or has requested investigations under Chapter 7, Section 3 or 4;
+      4. removes safety equipment or renders such equipment inoperative without valid cause; or
+      5. fails to provide notice to the supervisory authority in accordance with Chapter 3, Section 3a.
+  chapter: '8'
+  section: '2'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: En gärning som omfattas av ett föreläggande eller förbud enligt 7 kap. 7 §
+      ska inte medföra straffansvar enligt första stycket. Lag (2013:610).
+    en: An act that is covered by an order or a prohibition under Chapter 7, Section
+      7 shall not give rise to criminal liability as described in the first paragraph.
+      Act (2013:610).
+  chapter: '8'
+  section: '2'
+  paragraph: '2'
+- type: section_heading
+  text:
+    sv: 3 §
+    en: Section 3
+  chapter: '8'
+  section: '3'
+  slug: chapter-8-section-3
+- type: paragraph_text
+  text:
+    sv: Om ansvar för den som överträder 7 kap. 13 § finns bestämmelser i 20 kap.
+      3 § brottsbalken.
+    en: Chapter 20, Section 3 of the Penal Code contains provisions concerning liability
+      for infringements of Chapter 7, Section 13.
+  chapter: '8'
+  section: '3'
+  paragraph: '1'
+- type: group_heading
+  text:
+    sv: Förverkande
+    en: Confiscation
+- type: section_heading
+  text:
+    sv: 4 §
+    en: Section 4
+  chapter: '8'
+  section: '4'
+  slug: chapter-8-section-4
+- type: paragraph_text
+  text:
+    sv: Har det vid ett brott som avses i detta kapitel använts en anordning eller
+      ett ämne i strid mot förbud enligt 7 kap. 7 §, ska egendomen eller dess värde
+      förverkas, om det inte är uppenbart oskäligt. Lag (2013:610).
+    en: If any equipment or substance has been used in connection with an offence
+      coming under this Chapter and in violation of a prohibition under Chapter 7,
+      Section 7, that property or the value of that property shall be confiscated,
+      unless this is manifestly unreasonable. Act (2013:610).
+  chapter: '8'
+  section: '4'
+  paragraph: '1'
+- type: group_heading
+  text:
+    sv: Sanktionsavgift
+    en: Financial penalties
+- type: section_heading
+  text:
+    sv: 5 §
+    en: Section 5
+  chapter: '8'
+  section: '5'
+  slug: chapter-8-section-5
+- type: paragraph_text
+  text:
+    sv: Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter
+      om att en sanktionsavgift ska tas ut om en överträdelse har skett av en föreskrift
+      som har meddelats med stöd av 4 kap. 1-8 §§. Avgiften ska tas ut även om överträdelsen
+      inte skett uppsåtligen eller av oaktsamhet.
+    en: The Government or the authority designated by the Government may issue regulations
+      prescribing that a financial penalty be charged in the event of an infringement
+      of a regulation issued pursuant to Chapter 4, Sections 1–8. The penalty shall
+      be charged even if the infringement was not committed intentionally or negligently.
+  chapter: '8'
+  section: '5'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: En föreskrift om sanktionsavgift ska ange hur avgiften beräknas för olika
+      slag av överträdelser. Avgiftsbeloppet ska kunna fastställas direkt med ledning
+      av den angivna beräkningsgrunden. Avgiften ska vara lägst 1 000 och högst 1
+      000 000 kronor. Lag (2013:610).
+    en: A regulation concerning financial penalties must indicate the manner in which
+      the penalty is to be calculated for different kinds of infringement. It must
+      be possible to determine the amount directly with the aid of the specified basis
+      of calculation. The financial penalty shall be at least SEK 1 000 and at most
+      SEK 1 000 000. Act (2013:610).
+  chapter: '8'
+  section: '5'
+  paragraph: '2'
+- type: section_heading
+  text:
+    sv: 5 a §
+    en: Section 5a
+  chapter: '8'
+  section: 5a
+  slug: chapter-8-section-5a
+- type: paragraph_text
+  text:
+    sv: |-
+      Någon sanktionsavgift ska inte tas ut för en gärning som omfattas av ett föreläggande eller förbud enligt 7 kap. 7 §.
+      Lag (2013:610).
+    en: No financial penalty shall be charged for an act covered by an order or prohibition
+      under Chapter 7, Section 7. Act (2013:610).
+  chapter: '8'
+  section: 5a
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 6 §
+    en: Section 6
+  chapter: '8'
+  section: '6'
+  slug: chapter-8-section-6
+- type: paragraph_text
+  text:
+    sv: Sanktionsavgiften ska tas ut av den fysiska eller juridiska person som drev
+      den verksamhet där överträdelsen skedde.
+    en: The financial penalty shall be charged to the natural or legal person operating
+      the activities in which the infringement occurred.
+  chapter: '8'
+  section: '6'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Avgiften får sättas ned helt eller delvis om överträdelsen är ringa eller
+      ursäktlig eller om det annars med hänsyn till omständigheterna skulle vara oskäligt
+      att ta ut sanktionsavgiften.
+    en: The penalty may be reduced or waived if the infringement is negligible or
+      excusable, or if, in view of the circumstances, it would otherwise be unreasonable
+      to charge the financial penalty.
+  chapter: '8'
+  section: '6'
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: Avgiften tillfaller staten. Lag (2013:610).
+    en: The penalty accrues to the State. Act (2013:610).
+  chapter: '8'
+  section: '6'
+  paragraph: '3'
+- type: section_heading
+  text:
+    sv: 6 a §
+    en: Section 6a
+  chapter: '8'
+  section: 6a
+  slug: chapter-8-section-6a
+- type: paragraph_text
+  text:
+    sv: Arbetsmiljöverket prövar genom avgiftsföreläggande frågor om sanktionsavgifter.
+    en: The Swedish Work Environment Authority adjudicates financial penalty cases
+      by means of penalty orders.
+  chapter: '8'
+  section: 6a
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Avgiftsföreläggande innebär att den som bedöms vara ansvarig enligt 6 § för
+      en överträdelse föreläggs att godkänna avgiften omedelbart eller inom viss tid.
+    en: A penalty order means that the party deemed responsible under Section 6 for
+      an infringement is ordered to accept the penalty immediately or within a certain
+      time.
+  chapter: '8'
+  section: 6a
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: När föreläggandet har godkänts, gäller det som domstols lagakraftvunna avgörande
+      om att avgift ska tas ut. Ett godkännande som görs efter det att den tid som
+      angetts i föreläggandet har gått ut är dock utan verkan. Lag (2013:610).
+    en: Once the order has been accepted, it has the force of a final and non-appealable
+      court decision charging a penalty. However, acceptance made after the expiry
+      of the time specified in the order is null and void. Act (2013:610).
+  chapter: '8'
+  section: 6a
+  paragraph: '3'
+- type: section_heading
+  text:
+    sv: 7 §
+    en: Section 7
+  chapter: '8'
+  section: '7'
+  slug: chapter-8-section-7
+- type: paragraph_text
+  text:
+    sv: Om avgiftsföreläggandet inte har godkänts inom utsatt tid, får Arbetsmiljöverket
+      ansöka hos den förvaltningsrätt inom vars domkrets avgiftsföreläggandet har
+      utfärdats, om att sanktionsavgift ska tas ut.
+    en: If the penalty order has not been accepted within the specified time, the
+      Swedish Work Environment Authority may apply to the administrative court within
+      whose jurisdiction the penalty order was issued for a financial penalty to be
+      charged.
+  chapter: '8'
+  section: '7'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Prövningstillstånd krävs vid överklagande till kammarrätten. Lag (2013:610).
+    en: Leave to appeal is required for appeal to the Administrative Court of Appeal.
+      Act (2013:610).
+  chapter: '8'
+  section: '7'
+  paragraph: '2'
+- type: section_heading
+  text:
+    sv: 8 §
+    en: Section 8
+  chapter: '8'
+  section: '8'
+  slug: chapter-8-section-8
+- type: paragraph_text
+  text:
+    sv: En sanktionsavgift får tas ut bara om ansökan har delgetts den som avgiftsföreläggandet
+      riktas mot inom fem år från den tidpunkt då överträdelsen skedde.
+    en: A financial penalty may only be charged if the person subject to the penalty
+      order has been served with the application within five years of the time the
+      infringement occurred.
+  chapter: '8'
+  section: '8'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Ett beslut om att avgift ska tas ut ska genast sändas till länsstyrelsen.
+      Avgiften ska betalas till länsstyrelsen inom två månader från det att beslutet
+      vann laga kraft. En upplysning om detta ska tas in i beslutet.
+    en: The county administrative board must be notified immediately of a decision
+      to charge a penalty. The penalty must be paid to the county administrative board
+      no later than two months after the decision became final and non-appealable.
+      Information to this effect must be included in the decision.
+  chapter: '8'
+  section: '8'
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: Om avgiften inte betalas inom den tid som anges i andra stycket, ska dröjsmålsavgift
+      tas ut enligt lagen (1997:484) om dröjsmålsavgift. Den obetalda avgiften och
+      dröjsmålsavgiften ska lämnas för indrivning enligt lagen (1993:891) om indrivning
+      av statliga fordringar m.m. Lag (2013:610).
+    en: If the penalty is not paid within the period of time stated in the second
+      paragraph, a late payment penalty will be imposed under the Late Payment Penalties
+      Act (1997:484). The unpaid penalty and the late payment penalty shall be turned
+      over for collection in accordance with the Act on the Collection of Debts to
+      the State (1993:891). Act (2013:610).
+  chapter: '8'
+  section: '8'
+  paragraph: '3'
+- type: section_heading
+  text:
+    sv: 9 §
+    en: Section 9
+  chapter: '8'
+  section: '9'
+  slug: chapter-8-section-9
+- type: paragraph_text
+  text:
+    sv: Har upphävts genom lag (2013:610).
+    en: Repealed by Act (2013:610).
+  chapter: '8'
+  section: '9'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 10 §
+    en: Section 10
+  chapter: '8'
+  section: '10'
+  slug: chapter-8-section-10
+- type: paragraph_text
+  text:
+    sv: En beslutad avgift bortfaller om verkställighet inte har skett inom fem år
+      från det att avgörandet vann laga kraft. Lag (2013:610).
+    en: A penalty that has been imposed lapses if enforcement has not been carried
+      out within five years of the date on which the decision became final and non-appealable.
+      Act (2013:610).
+  chapter: '8'
+  section: '10'
+  paragraph: '1'
+- type: chapter_heading
+  text:
+    sv: 9 kap. Överklagande
+    en: Chapter 9 Appeals
+  chapter: '9'
+- type: section_heading
+  text:
+    sv: 1 §
+    en: Section 1
+  chapter: '9'
+  section: '1'
+  slug: chapter-9-section-1
+- type: paragraph_text
+  text:
+    sv: Har upphävts genom lag (2000:764).
+    en: Repealed by Act (2000:764).
+  chapter: '9'
+  section: '1'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 2 §
+    en: Section 2
+  chapter: '9'
+  section: '2'
+  slug: chapter-9-section-2
+- type: paragraph_text
+  text:
+    sv: En myndighets beslut i enskilda fall enligt denna lag eller enligt föreskrifter
+      som har meddelats med stöd av lagen får överklagas till allmän förvaltningsdomstol.
+    en: Decisions in individual cases by a government agency under this Act or under
+      regulations issued pursuant to this Act may be appealed to an administrative
+      court.
+  chapter: '9'
+  section: '2'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Prövningstillstånd krävs vid överklagande till kammarrätten. Lag (2022:1109).
+    en: Leave to appeal is required for appeal to the Administrative Court of Appeal.
+      Act (2022:1109).
+  chapter: '9'
+  section: '2'
+  paragraph: '2'
+- type: section_heading
+  text:
+    sv: 3 §
+    en: Section 3
+  chapter: '9'
+  section: '3'
+  slug: chapter-9-section-3
+- type: paragraph_text
+  text:
+    sv: För att ta till vara arbetstagarnas intressen i ärenden enligt denna lag får
+      överklagande enligt 2 § göras av ett huvudskyddsombud eller, om något sådant
+      ombud inte finns, av ett annat skyddsombud.
+    en: To safeguard the interests of employees in matters under this Act, appeals
+      under Section 2 may be made by a principal safety representative or, in the
+      absence of a principal safety representative, another safety representative.
+  chapter: '9'
+  section: '3'
+  paragraph: '1'
+- type: paragraph_text
+  text:
+    sv: Om det inte finns något skyddsombud, får överklagande göras av en arbetstagarorganisation
+      i den mån saken rör medlemmarnas intressen. Om talan avser annat än fartygsarbete
+      krävs att organisationen tidigare har yttrat sig i ärendet.
+    en: In the absence of a safety representative, an appeal may be made by an employees’
+      organisation insofar as the matter concerns the interests of the organisation’s
+      members. If the action relates to something other than work on a ship, the organisation
+      must have previously expressed its views on the matter.
+  chapter: '9'
+  section: '3'
+  paragraph: '2'
+- type: paragraph_text
+  text:
+    sv: För att ta till vara de studerandes intressen i ärenden enligt denna lag får
+      överklagande också göras av ett studerandeskyddsombud. Lag (2009:870).
+    en: To safeguard the interests of students in matters under this Act, appeals
+      may also be made by a student safety representative. Act (2009:870).
+  chapter: '9'
+  section: '3'
+  paragraph: '3'
+- type: section_heading
+  text:
+    sv: 4 §
+    en: Section 4
+  chapter: '9'
+  section: '4'
+  slug: chapter-9-section-4
+- type: paragraph_text
+  text:
+    sv: I fråga om föreskrifter får Arbetsmiljöverket underställa regeringen frågor
+      av särskild betydelse, innan verket meddelar beslut i ärendet. Lag (2000:764).
+    en: The Swedish Work Environment Authority may refer particularly important matters
+      concerning regulations to the Government before the Authority takes a decision
+      in the case. Act (2000:764).
+  chapter: '9'
+  section: '4'
+  paragraph: '1'
+- type: section_heading
+  text:
+    sv: 5 §
+    en: Section 5
+  chapter: '9'
+  section: '5'
+  slug: chapter-9-section-5
+- type: paragraph_text
+  text:
+    sv: En tillsynsmyndighet eller en marknadskontrollmyndighet får bestämma att dess
+      beslut ska gälla omedelbart. Lag (2022:1109).
+    en: A supervisory authority or a market surveillance authority may determine that
+      its decisions shall have immediate effect. Act (2022:1109).
+  chapter: '9'
+  section: '5'
+  paragraph: '1'
